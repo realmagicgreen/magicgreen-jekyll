@@ -1,19 +1,17 @@
 title: Magic Green # capitalized for seo reasons!
 subtitle: Sustainable and environment-friendly examples from Bali and South East Asia.
 content_is_about: Going Green # general content of website, used in footer menu title
-
 description: > # this means to ignore newlines until "baseurl:"
   Magic Green is a showcase of examples, infos and addresses of all stuff green related in Bali and South East Asia.
 keywords: magazine, natural, nature-friendly, magic-green, sustainable business practises, environment-friendly, renewable-energy, low-impact, Bali, Indonesia, south east Asia, environment-conscious, wise, minimal impact, healthy, water purification techniques, communication platform,
 lang: en
-version: 0.0.1
+version: 0.0.2
 
 # site architecture
 baseurl: ""
 url: "https://magicgreen.org"
 qr: show # 'show' or 'hide' put qr.svg in includes/defs.html call it: icn--qr
 menu: short_menu # 'short_menu' or 'long_menu'
-logo: fullwidth # 'squared' or 'fullwidth'
 show_logo: show # 'show' or 'hide'
 has_about_page: true # true or empty
 has_term_page:  # true or empty
@@ -42,7 +40,7 @@ company:
 
 # product data
 offer:
-  product_type_01: horses
+  product_type_01: review
   product_type_02: dogs
 
 
