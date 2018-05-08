@@ -1,0 +1,60 @@
+// just for content link, or for footer nor header nor menus
+
+a {
+  font-weight: 300;
+  text-decoration: none;
+  color: lighten($link_color, 15%) ;
+  border-bottom: 1px solid transparent;
+
+  &:hover,
+  &:focus {
+    color: $link_color;
+  }
+
+  &.active {
+    border-bottom: lighten($link_color, 30%) solid 1px;
+
+    .header & {
+      border-bottom: 0 none;
+      @include media( "screen", ">minWidth") {
+        border-bottom: lighten($link_color, 30%) solid 1px;
+      }
+    }
+    span {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  }
+}
+
+
+[role="main"] {
+  a:not(.card):not(.button):not(.button_row) {
+    color: $link-color;
+    text-decoration: none;
+    border-bottom: 3px solid $underline_link_color;
+    box-shadow: inset 0 -5px 0 $underline_link_color;
+    /* box shadow adds additional thickness*/
+    -webkit-transition: background 0.15s cubic-bezier(.33,.66,.66,1);
+    transition: background 0.15s cubic-bezier(.33,.66,.66,1);
+
+    &:focus,
+    &:hover {
+      background: $underline_link_color;
+    }
+
+    strong {
+      color: inherit;
+    }
+
+    // `:visited` state is usefull! if they just could work... cos they dont here
+    //&:visited {
+      // border-bottom: 3px solid $grey--light;
+      // box-shadow: inset 0 -5px 0 $grey--light;
+      // &:focus,
+      // &:hover {
+      //   background: $grey--light;
+      // }
+    //}
+  }
+}

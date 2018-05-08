@@ -1,0 +1,15 @@
+---
+---
+
+<!doctype html>
+<html>
+  <head>
+	   <meta http-equiv="refresh" content="0; url={{site.url | prepend: site.baseurl}}">
+	   <link rel="canonical" href="{{site.url | prepend: site.baseurl}}" />
+  </head>
+  <body>
+    {% if site.google.analytics %}
+      {% include script_google_analytics.html %}
+    {% endif %}
+  </body>
+</html>

@@ -1,0 +1,17 @@
+.share_box {
+  margin-top: $vertical_rhythm;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  h4 {
+    padding-right: $vertical_rhythm--small;
+    width: 100%;
+    text-align: center;
+    padding-bottom: $vertical_rhythm--small;
+    @include media( "screen", ">minWidth") {
+      width: auto;
+    }
+  }
+}

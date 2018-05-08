@@ -1,0 +1,19 @@
+{% comment %}
+menu with just 3/4 item
+{% endcomment %}
+
+<nav class="menu menu_header" role="menu">
+
+  {% for item in site.data.menu_short %}
+    {% if page.url contains item.url %}
+      <a class="menu_item active" role="menuitem" title="{{ item.name }}" href="{{ item.url | prepend: site.baseurl }}">
+        <span class="">{{ item.name }}</span>
+      </a>
+    {% else %}
+      <a class="menu_item " role="menuitem" title="{{ item.name }}" href="{{ item.url | prepend: site.baseurl }}">
+        <span class="page_title">{{ item.name }}</span>
+      </a>
+    {% endif %}
+  {% endfor %}
+
+</nav>

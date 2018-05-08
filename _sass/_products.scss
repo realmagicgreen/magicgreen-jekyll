@@ -1,0 +1,124 @@
+figure {
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+.figcaption {
+  position: absolute;
+  top: $vertical_rhythm--small;
+  right: 0;
+  padding: 0 5px;
+  text-transform: capitalize;
+  font-weight: 500;
+  -webkit-box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+
+  &.coming-soon {
+    background-color: yellow;
+    color: black;
+  }
+
+  &.new {
+    background-color: red;
+    color: white;
+  }
+}
+
+.product_grid {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+
+  > * {
+    display: block;
+    max-width: 100%;
+    @include media( "screen", ">minWidth") {
+      max-width: calc(50% - 10px);
+    }
+    @include media( "screen", ">bp1Width") {
+      max-width: calc(33.33% - 10px);
+    }
+  }
+}
+
+.looper__link {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin-bottom: $vertical_rhythm;
+}
+
+.product_text {
+  padding: 0 $vertical_rhythm--small;
+  margin-top: $vertical_rhythm--small;
+  margin-bottom: $vertical_rhythm--small;
+}
+
+blockquote p {
+  font-size: 1.25rem;
+  line-height: 1.25;
+  font-weight: 500;
+  padding-left: $vertical_rhythm--small;
+  @include media( "screen", ">minWidth") {
+    margin: 0 auto 0 10%;
+    padding-left: $vertical_rhythm;
+  }
+}
+
+.product_image {
+  position: relative;
+  width: 100%;
+  .food & {
+    background-color: $product_category_1;
+    color: transparentize($black, .85);
+  }
+  .tour & {
+    background-color: $product_category_2;
+    color: transparentize($black, .85);
+  }
+  .accommodation & {
+    background-color: $product_category_3;
+    color: transparentize($black, .85);
+  }
+}
+
+.product_image_group {
+  position: relative;
+  width: 100%;
+  .food & {
+    background-color: $product_category_1;
+    color: transparentize($black, .85);
+  }
+  .tour & {
+    background-color: $product_category_2;
+    color: transparentize($black, .85);
+  }
+  .accommodation & {
+    background-color: $product_category_3;
+    color: transparentize($black, .85);
+  }
+}
+
+.product_group {
+  height: 24px;
+  line-height: 24px;
+  text-align: right;
+  text-transform: uppercase;
+  font-weight: 800;
+  padding-left: $vertical_rhythm--small;
+  padding-right: $vertical_rhythm--small;
+  color: transparentize($black, .85);
+  .index & {
+    line-height: 18px;
+  }
+}

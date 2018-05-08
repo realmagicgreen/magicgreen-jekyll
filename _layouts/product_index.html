@@ -1,0 +1,37 @@
+---
+
+---
+<!DOCTYPE html>
+<html lang="{% if page.lang %}{{page.lang}}{% else %}{{site.lang}}{% endif %}" prefix="og: http://ogp.me/ns#">
+
+  {% include head.html %}
+
+  <body class="index {{page.title | slugify}} {% if site.menu %}{{ site.menu }}{% endif %} index">
+
+    {% include svg/defs.html %}
+
+    {% include header.html %}
+
+    <div class="bungkus group">
+
+      <div class="container" role="main">
+
+        {% include product_loop_group.html %}
+
+      </div>
+
+    </div>
+
+    {% include footer.html %}
+
+    {% include script_ext_link.html %}
+
+    {% include script_append_to_copy_action.html %}
+
+    {% if site.google.analytics %}
+      {% include script_google_analytics.html %}
+    {% endif %}
+
+  </body>
+
+</html>

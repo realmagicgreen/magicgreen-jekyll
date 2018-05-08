@@ -1,0 +1,24 @@
+{% comment %}
+<!--
+formspree.io
+free for 1000 submissions per email each month.
+
+After implementing this contact form make sure:
+1. you have defined "email: youremail@email.com" in _config.yml file.
+2. you verify your form on formspree.io.
+-->
+
+<!--
+need:
+_contact_form.scss
+-->
+{% endcomment %}
+
+<form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
+    <input type="text" name="email" placeholder="Email Address">
+    <textarea type="text" name="content" rows="10" placeholder="Message"></textarea>
+    <input type="hidden" name="_next" value="<REDIRECTION LINK> ">
+    <input type="hidden" name="_subject" value="New Contact Form Submission">
+    <input type="text" name="_gotcha" style="display:none">
+    <input type="submit" value="Submit">
+</form>

@@ -1,0 +1,107 @@
+title: Little Steps Matter # capitalized for seo reasons!
+subtitle: Natural Horsmanship non-profit for horses and dogs lovers in Bali.
+content_is_about: Our Offer # general content of website, used in footer menu title
+show_logo: show # 'show' or 'hide'
+description: > # this means to ignore newlines until "baseurl:"
+  Sabine grew up with horses and made her passion for horses into a life style, when she started The Umalas Equestrian Resort in Bali, Indonesia in 1995. They offered tours and traditional  horse riding lessons. Sabine managed the resort with over 30 horses for 17 years. In 2012 she closed the resort to follow a different path with horses from traditional horse riding to Natural Horsemanship.
+keywords: horse, natural horsemanship, dog, man, horses, dogs, people, follow a different path, Bali, Indonesia
+lang: en
+version: 0.2.0
+
+# site architecture
+baseurl: ""
+url: "https://littlestepsmatter.org"
+qr: show # 'show' or 'hide' put qr.svg in includes/defs.html call it: icn--qr
+menu: short_menu # 'short_menu' or 'long_menu'
+logo: fullwidth # 'squared' or 'fullwidth'
+has_about_page: true # true or empty
+has_term_page:  # true or empty
+
+# client data
+company:
+  name: Little Steps Matter
+  legal_name: Little Steps Matter Yayasan #if need to overrides 'company.name' in footer fill up this one
+  email: info@littlestepsmatter.org
+  telephone:
+  fax:
+  address: Jl. Dam Gadon 110, Br. Malmundeh, Kediri, Tabanan, Bali
+  maplink: https://goo.gl/maps/pd3M6qpzVTM2
+  country: Indonesia
+  twitter: #complete URL
+  facebook_page: https://www.facebook.com/sabine.kaufmann.3705
+  youtube: #complete URL
+  instagram: #complete URL
+  linkedin: #complete URL
+  tripadvisor: #complete URL
+  booking: #complete URL
+  airbnb: #complete URL
+  gplus: #complete URL
+  tumblr: #complete URL
+  soundcloud: #complete URL
+
+# product data
+offer:
+  product_type_01: horses
+  product_type_02: dogs
+
+
+# SEO https://jekyll.github.io/jekyll-seo-tag/usage/
+#
+# SEO tag will use the YAML front matter if included in a post, page, or document:
+#
+# title
+# description
+# image - (e.g., /assets/page-pic.jpg)
+# author - Page-specific author (see below)
+# lang - Page-specific language
+
+author: rokma
+twitter:
+  username: rokmatwit
+facebook:
+  app_id: #Facebook app ID for Facebook insights
+  publisher: #Facebook page URL or ID of the publishing entity
+  admins: #Facebook user ID for domain insights linked to a personal account
+logo: /assets/favicons/apple-touch-icon-152x152.png
+webmaster_verifications:
+  google: google32e66f1a5601ec40
+
+
+google:
+  analytics: UA-116660635-1
+
+# Build settings
+markdown: kramdown
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - html-proofer
+exclude:
+  - Gemfile.lock
+  - node_modules
+  - package-lock.json
+  - Gemfile
+  - rakefile
+
+permalink: /:title/ # pretty
+
+collections:
+  products:
+    output: true
+    permalink: /:path/
+  pages:
+    output: true
+    permalink: /:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: products
+    values:
+      layout: product # change this to get the layout needed
+
+## NOTES:
+## 'product_group': must be singular/plural and match the dir name in both assets and pages. Used in urls too.
+## title: it's used in headings only to get the plural as in 'tours'.
+## photos must be named same as 'page.title' and when more than 1 '{{page.title}}-02' and so on.
