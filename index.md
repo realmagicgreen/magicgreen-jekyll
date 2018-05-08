@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title:
 description: #
 image: /assets/p/home/01.jpg

@@ -384,12 +384,12 @@
 }
 
 .caption {
-  font-size: 14vw;
+  font-size: 11vw;
   font-weight: 700;
   position: absolute;
   text-align: center;
   width: 100%;
-  color: transparentize(white, .5);
+  color: transparentize($brand_color, .5);
   bottom: 10%;
   @include media( "screen", ">minWidth") {
     bottom: 1%;

@@ -4,7 +4,10 @@
 $font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 
 $black: hsl(0,0%,0%);
-$link_color: hsla(92, 100%, 50%, 1);
+$brand_color: hsla(92, 100%, 50%, 1);
+$brand_color_bg: $black;
+
+$link_color: $brand_color;
 $light_text_color: hsla(92, 100%, 30%, 1);
 $bg_color: hsla(92, 100%, 90%, 1); //hsl(0, 0%, 96%);
 
@@ -16,9 +19,6 @@ $underline_link_color : #b4e7f8;
 $product_category_1: hsla(117, 100%, 81%, .75); //food
 $product_category_2: hsla(43, 100%, 81%, .75); //tour
 $product_category_3: hsla(205, 100%, 81%, .75); //accommodation
-
-$brand_color: $link_color;
-$brand_color_bg: $black;
 
 $vertical_rhythm: 2rem;
 $vertical_rhythm--small: 1rem;
