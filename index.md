@@ -1,5 +1,5 @@
 ---
-layout: coming_soon
+layout: default
 title:
 description: #
 image: /assets/p/home/01.jpg

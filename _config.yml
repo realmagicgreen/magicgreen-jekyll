@@ -1,34 +1,35 @@
-title: Little Steps Matter # capitalized for seo reasons!
-subtitle: Natural Horsmanship non-profit for horses and dogs lovers in Bali.
-content_is_about: Our Offer # general content of website, used in footer menu title
-show_logo: show # 'show' or 'hide'
+title: Magic Green # capitalized for seo reasons!
+subtitle: Sustainable and environment-friendly examples from Bali and South East Asia.
+content_is_about: Going Green # general content of website, used in footer menu title
+
 description: > # this means to ignore newlines until "baseurl:"
-  Sabine grew up with horses and made her passion for horses into a life style, when she started The Umalas Equestrian Resort in Bali, Indonesia in 1995. They offered tours and traditional  horse riding lessons. Sabine managed the resort with over 30 horses for 17 years. In 2012 she closed the resort to follow a different path with horses from traditional horse riding to Natural Horsemanship.
-keywords: horse, natural horsemanship, dog, man, horses, dogs, people, follow a different path, Bali, Indonesia
+  Magic Green is a showcase of examples, infos and addresses of all stuff green related in Bali and South East Asia.
+keywords: magazine, natural, nature-friendly, magic-green, sustainable business practises, environment-friendly, renewable-energy, low-impact, Bali, Indonesia, south east Asia, environment-conscious, wise, minimal impact, healthy, water purification techniques, communication platform,
 lang: en
-version: 0.2.0
+version: 0.0.1
 
 # site architecture
 baseurl: ""
-url: "https://littlestepsmatter.org"
+url: "https://magicgreen.org"
 qr: show # 'show' or 'hide' put qr.svg in includes/defs.html call it: icn--qr
 menu: short_menu # 'short_menu' or 'long_menu'
 logo: fullwidth # 'squared' or 'fullwidth'
+show_logo: show # 'show' or 'hide'
 has_about_page: true # true or empty
 has_term_page:  # true or empty
 
 # client data
 company:
-  name: Little Steps Matter
-  legal_name: Little Steps Matter Yayasan #if need to overrides 'company.name' in footer fill up this one
-  email: info@littlestepsmatter.org
+  name: Magic Green
+  legal_name: PT Gama Bali Dwipa #if need to overrides 'company.name' in footer fill up this one
+  email: info@magicgreen.org
   telephone:
   fax:
-  address: Jl. Dam Gadon 110, Br. Malmundeh, Kediri, Tabanan, Bali
-  maplink: https://goo.gl/maps/pd3M6qpzVTM2
-  country: Indonesia
+  address: #
+  maplink: #
+  country: #
   twitter: #complete URL
-  facebook_page: https://www.facebook.com/sabine.kaufmann.3705
+  facebook_page: #complete URL
   youtube: #complete URL
   instagram: #complete URL
   linkedin: #complete URL
@@ -66,9 +67,8 @@ logo: /assets/favicons/apple-touch-icon-152x152.png
 webmaster_verifications:
   google: google32e66f1a5601ec40
 
-
 google:
-  analytics: UA-116660635-1
+  analytics:
 
 # Build settings
 markdown: kramdown
@@ -82,7 +82,6 @@ exclude:
   - node_modules
   - package-lock.json
   - Gemfile
-  - rakefile
 
 permalink: /:title/ # pretty
 
