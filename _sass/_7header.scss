@@ -24,7 +24,7 @@
       -webkit-box-align: center;
       -ms-flex-align: center;
       align-items: center;
-      padding-bottom: 0;
+    //  padding-bottom: 0;
     // }
     @include media( "screen", ">bp1Width") {
       -webkit-box-orient: horizontal;
@@ -60,7 +60,7 @@
       display: none;
       @include media( "screen", ">minWidth") {
         display: inherit;
-        padding: $vertical_rhythm--small/2 0 $vertical_rhythm--small;
+        padding: $vertical_rhythm--small 0;
       }
       @include media( "screen", ">bp1Width") {
         padding: 0;
@@ -69,7 +69,6 @@
       &.show {
         display: block;
         min-width: 100%;
-        background-color: white;
         padding-top: $vertical_rhythm--small;
         @include media( "screen", ">minWidth") {
           min-width: auto;
@@ -78,7 +77,7 @@
 
         .menu_item {
           //a
-          border-bottom: 1px solid $grey--light;
+          border-bottom: 1px solid darken($bg_color, 70);
           @include media( "screen", ">minWidth") {
             border-bottom: 0 none;
           }

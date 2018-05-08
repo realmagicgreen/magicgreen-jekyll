@@ -11,7 +11,7 @@ version: 0.0.2
 baseurl: ""
 url: "https://magicgreen.org"
 qr: show # 'show' or 'hide' put qr.svg in includes/defs.html call it: icn--qr
-menu: short_menu # 'short_menu' or 'long_menu'
+menu: long_menu # 'short_menu' or 'long_menu'
 show_logo: show # 'show' or 'hide'
 has_about_page: true # true or empty
 has_term_page:  # true or empty
@@ -38,10 +38,15 @@ company:
   tumblr: #complete URL
   soundcloud: #complete URL
 
-# product data
+# products/subjects data
 offer:
-  product_type_01: review
-  product_type_02: dogs
+  product_type_01: products #(, electric bikes, bamboo straws, paper bags, water purifiers, bamboo frame pushbikes,solar panels, solar water-heaters...)
+  product_type_02: techniques #(purification, energy efficiency...)
+  product_type_03: services #(garbage recycle, e-bikes rental... )
+  product_type_04: resources #(consulting companies, NGOs...)
+  product_type_05: solutions #(green roofs, green walls... )
+  product_type_06: tips #(grow healthy food, say no to plastic, buy wrap less products...)
+  product_type_07: knowledge #(plants properties, natural medicines, healthy living, yoga, diet, superfoods)
 
 
 # SEO https://jekyll.github.io/jekyll-seo-tag/usage/
