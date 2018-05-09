@@ -103,9 +103,9 @@ defaults:
 
 
 offer:
-  topic_type_01: products #(, electric bikes, bamboo straws, paper bags, water purifiers, bamboo frame pushbikes,solar panels, solar water-heaters...)
-  topic_type_02: techniques #(purification, energy efficiency...)
-  topic_type_03: services #(garbage recycle, e-bikes rental... )
+  topic_type_01: services #(garbage recycle, e-bikes rental... )
+  topic_type_02: products #(, electric bikes, bamboo straws, paper bags, water purifiers, bamboo frame pushbikes,solar panels, solar water-heaters...)
+  topic_type_03: techniques #(purification, energy efficiency...)
   topic_type_04: resources #(consulting companies, NGOs...)
   topic_type_05: solutions #(green roofs, green walls... )
   topic_type_06: tips #(grow healthy food, say no to plastic, buy wrap less products...)

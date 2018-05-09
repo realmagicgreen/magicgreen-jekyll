@@ -1,5 +1,6 @@
 .card {
   background-color: white;
+  color: black;
   -webkit-box-shadow: $card-shadow;
   box-shadow: $card-shadow;
   -webkit-transition: $transition_shadow;
@@ -7,6 +8,7 @@
 
   &:hover,
   &:focus {
+    color: lighten(black, 30);
     -webkit-box-shadow: $card-shadow--hover;
     box-shadow: $card-shadow--hover;
   }

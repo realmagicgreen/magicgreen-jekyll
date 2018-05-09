@@ -172,6 +172,9 @@ p + h3,
 h1 + h2,
 h1 + h3 {
   padding-top: $vertical_rhythm*2;
+  .card & {
+    padding-top: $vertical_rhythm--small;
+  }
 }
 
 blockquote p {
