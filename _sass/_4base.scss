@@ -165,6 +165,15 @@ p {
   padding-bottom: $vertical_rhythm--small;
 }
 
+// adjacent selectors
+p + h1,
+p + h2,
+p + h3,
+h1 + h2,
+h1 + h3 {
+  padding-top: $vertical_rhythm*2;
+}
+
 blockquote p {
   border-left: 2px solid black;
 }

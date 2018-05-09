@@ -1,20 +1,42 @@
 ---
-layout: product
+layout: topic
 name: About us
 subtitle:
-product_group: about
+topic_group: about
 description: #
 image: /assets/p/about/about-us.jpg
-many_pictures: true # 'true' or empty
+many_pictures: # 'true' or empty
 publish: # use 'notyet' to print 'coming soon'
 tag: # new or other...
 featured: # use 'true' to have it displayed in home
 ---
 
-Sabine grew up with horses and made her passion for horses into a life style, when she started The Umalas Equestrian Resort in Bali in 1995. The UER offered tours and traditional lessons horse riding. Sabine managed the resort with over 30 horses for 17 years.
 
->In 2012 she closed the resort to follow a different path with horses from traditional horse riding to Natural Horsemanship.
+# The reasons driving us.
 
-With the goal of communicating and riding horses without any force, she started to learn Natural Horsemanship with Sandra Ragazzi an exquisite master in her field.
+The growing concern about the ecological impact is a fact worldwide. In recent years there is lots of press about the environment and how to preserve it. Media are urging to clean up our actions and change the way we operate.
 
-After 3 years of intensive studies with the support of Sandra, Sabine now teaches horsemanship classes with her own horses, as well as training other horse owners with their horses.
+Ecologically sustainable business needs to communicate about their low impact practices and policies. Bali has already a growing industry of environmentally conscious business operators. Green minded business must let customer know in order to beat the competition.
+
+The island of Bali, Indonesia and the whole South East Asia, have all the interests to show the actions taken to minimize impact and conserve the environment. There is a need to improve the country image.
+
+Green and sustainable businesses practices are both necessary and a growing reality in Bali.
+Conscious tourists want to know who is doing the right thing and are ready to support them. The time is perfect to fill this gap.
+
+
+# The Magic Green project
+
+We see an urgent need for a communication platform which gather infos, good examples and connect. We started this information tool to let the world know and to push the best examples.
+We need to inspire and show what can be done and who is doing it.
+
+Our project is a website and a printed magazine. We are building a internet based platform to gather infos, examples and addresses of all stuff green related in Bali and beyond.
+
+We are open-source, copyright free and we encourage you to print any article of our website and forward it to anyone interested in your network. Print to a PDF file in order to save trees, of course.  
+
+We aim to inspire responsible tourism and the tourism industry. Follow us to know what's up in Bali and beyond!
+
+# Who
+
+We are a network of communication professionals, with a solid experience producing communication tools, who feel the need to make something meaningful and necessary.
+
+We'd like to give a contribution to push the world toward the right direction. Help us spread the word.

@@ -1,0 +1,17 @@
+<div class="topic_page_title">
+  <h1>{{page.title}}</h1>
+</div>
+
+<div class="topic_grid">
+{% capture pagegroup %}{{ page.topic_group | slugify }}{% endcapture %}
+
+{% for topic in site.topics %}
+  {% if topic.path contains pagegroup %}
+    {% unless topic.publish=='notyet' %}
+
+      {% include topic_card.html %}
+
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+</div>

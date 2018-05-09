@@ -25,7 +25,7 @@ figure {
   }
 }
 
-.product_grid {
+.topic_grid {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -58,7 +58,7 @@ figure {
   margin-bottom: $vertical_rhythm;
 }
 
-.product_text {
+.topic_text {
   padding: 0 $vertical_rhythm--small;
   margin-top: $vertical_rhythm--small;
   margin-bottom: $vertical_rhythm--small;
@@ -75,41 +75,41 @@ blockquote p {
   }
 }
 
-.product_image {
+.topic_image {
   position: relative;
   width: 100%;
   .food & {
-    background-color: $product_category_1;
+    background-color: $topic_category_1;
     color: transparentize($black, .85);
   }
   .tour & {
-    background-color: $product_category_2;
+    background-color: $topic_category_2;
     color: transparentize($black, .85);
   }
   .accommodation & {
-    background-color: $product_category_3;
+    background-color: $topic_category_3;
     color: transparentize($black, .85);
   }
 }
 
-.product_image_group {
+.topic_image_group {
   position: relative;
   width: 100%;
   .food & {
-    background-color: $product_category_1;
+    background-color: $topic_category_1;
     color: transparentize($black, .85);
   }
   .tour & {
-    background-color: $product_category_2;
+    background-color: $topic_category_2;
     color: transparentize($black, .85);
   }
   .accommodation & {
-    background-color: $product_category_3;
+    background-color: $topic_category_3;
     color: transparentize($black, .85);
   }
 }
 
-.product_group {
+.topic_group {
   height: 24px;
   line-height: 24px;
   text-align: right;

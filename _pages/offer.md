@@ -1,6 +1,6 @@
 ---
-layout: product_grid
-title: Our complete offer
+layout: topic_grid
+title: Our topics
 description: #
 image: /assets/p/home/01.jpg
 ---

@@ -8,7 +8,7 @@
 
     <div class="menu menu_footer">
 
-      <div class="menu_products" role="menu">
+      <div class="menu_topics" role="menu">
         <div class="title">{{site.content_is_about}}</div>
 
         {% if page.url contains item.url %}
@@ -21,7 +21,7 @@
         </a>
         {% endif %}
 
-        {% for item in site.products %}
+        {% for item in site.topics %}
           {% if page.url contains item.url %}
             {% unless item.publish=="notyet" %}
             <a class="menu_item active" role="menuitem" title="{{ item.title }}" href="{{ item.url | prepend: site.baseurl }}">

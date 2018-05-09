@@ -16,9 +16,9 @@ $grey--light: hsl(0,0%,85%);
 
 $underline_link_color : #b4e7f8;
 
-$product_category_1: hsla(117, 100%, 81%, .75); //food
-$product_category_2: hsla(43, 100%, 81%, .75); //tour
-$product_category_3: hsla(205, 100%, 81%, .75); //accommodation
+$topic_category_1: hsla(117, 100%, 81%, .75); //food
+$topic_category_2: hsla(43, 100%, 81%, .75); //tour
+$topic_category_3: hsla(205, 100%, 81%, .75); //accommodation
 
 $vertical_rhythm: 2rem;
 $vertical_rhythm--small: 1rem;
@@ -66,8 +66,8 @@ $mediaMaxWidth: 1260px;
 "links",
 "titles",
 "slideshow",
-"products",
-"product_details",
+"topics",
+"topic_details",
 "cards",
 "social_sharing",
 "nav"

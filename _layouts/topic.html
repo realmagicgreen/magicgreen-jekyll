@@ -6,15 +6,15 @@
 
   {% include head.html %}
 
-  <body class="{{page.product_group | slugify}} product {{page.title | slugify}} {% if site.menu %}{{site.menu}}{% endif %}">
+  <body class="{{page.topic_group | slugify}} topic {{page.title | slugify}} {% if site.menu %}{{site.menu}}{% endif %}">
 
     {% include svg/defs.html %}
 
     {% include header.html %}
 
-    <div class="bungkus group {{ page.product_group }}">
+    <div class="bungkus group {{ page.topic_group }}">
 
-      <div class="product_image_group">
+      <div class="topic_image_group">
 
         {% if page.many_pictures %}
 
@@ -24,10 +24,10 @@
 
             <div class="slideshow-slide-list">
 
-            {% capture product_name %}{{ page.name | slugify }}{% endcapture %}
+            {% capture topic_name %}{{ page.name | slugify }}{% endcapture %}
 
               {% for image in site.static_files reversed %}
-                {% if image.path contains product_name %}
+                {% if image.path contains topic_name %}
                 <div class="slideshow-slide">
                   <div class="" data-src="{{ site.baseurl }}{{ image.path }}" alt="{{ page.name }}" title="{{ page.name }}">
                   </div>
@@ -47,7 +47,7 @@
           <div class="slideshow">
             <div class="slideshow-slide-list slideshow-float">
               <div class="slideshow-slide">
-                <div class="" data-src="{{ site.baseurl }}/assets/p/products/{{ page.product_group }}/{{ page.name | slugify }}.jpg" alt="{{ page.name }}" title="{{ page.name }}">
+                <div class="" data-src="{{ site.baseurl }}/assets/p/topics/{{ page.topic_group }}/{{ page.name | slugify }}.jpg" alt="{{ page.name }}" title="{{ page.name }}">
                 </div>
               </div>
             </div>
@@ -64,8 +64,8 @@
         {% endif %}
 
         {% if page.name != 'About us' %}
-          <div class="product_group {{ page.product_group | slugify }}">
-            {{ page.product_group }}
+          <div class="topic_group {{ page.topic_group | slugify }}">
+            {{ page.topic_group }}
           </div>
         {% endif %}
 
@@ -78,21 +78,21 @@
         <h3>{{ page.subtitle }}</h3>
 
 
-        <div class="product_text">
+        <div class="topic_text">
 
-          {% capture product_01 %}{{ site.offer.product_type_01 }}{% endcapture %}
+          {% capture topic_01 %}{{ site.offer.topic_type_01 }}{% endcapture %}
 
-          {% if page.product_group == "product_01" %}
-            {% include details_product_01.html %}
+          {% if page.topic_group == "topic_01" %}
+            {% include details_topic_01.html %}
           {% endif %}
 
-          {% capture product_02 %}{{ site.offer.product_type_02 }}{% endcapture %}
+          {% capture topic_02 %}{{ site.offer.topic_type_02 }}{% endcapture %}
 
-          {% if page.product_group == "product_02" %}
-            {% include details_product_02.html %}
+          {% if page.topic_group == "topic_02" %}
+            {% include details_topic_02.html %}
           {% endif %}
 
-          <div class="product_text_content">
+          <div class="topic_text_content">
 
             {{ content }}
 
