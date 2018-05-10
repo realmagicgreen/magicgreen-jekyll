@@ -1,6 +1,6 @@
 ---
 name: ET foldable e-scooter
-subtitle: Plug-it pack-it and ride smart.
+subtitle: Plug-it, pack-it and ride smart.
 description: #
 topic_group: products
 image: /assets/p/topics/products/et-foldable-e-scooter.jpg #for OG and twitter cards

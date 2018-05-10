@@ -3,7 +3,7 @@ layout: topic
 name: About us
 subtitle:
 topic_group: about
-description: #
+description: We are a network of communication professionals, with a solid experience producing communication tools, who feel the need to make something meaningful and necessary. We'd like to give a contribution to push the world towards the right direction. Help us spread the word.
 image: /assets/p/about/about-us.jpg
 many_pictures: # 'true' or empty
 publish: # use 'notyet' to print 'coming soon'
@@ -12,7 +12,7 @@ featured: # use 'true' to have it displayed in home
 ---
 
 
-# The reasons driving us.
+# Feeding the green baby.
 
 The growing concern about the ecological impact is a fact worldwide. In recent years there is lots of press about the environment and how to preserve it. Media are urging to clean up our actions and change the way we operate.
 

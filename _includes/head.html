@@ -5,7 +5,7 @@
 
   <title>{{ site.title }} | {% if page.layout == 'home' %}{{ site.subtitle | upcase }}{% else %}{{ page.title | upcase }}{% endif %}</title>
 
-  <meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description  | truncate: 160 }}{% endif %}">
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
   <meta name="keywords" content="{% if page.keywords %}{{ page.keywords}}{% else %}{{ site.keywords }}{% endif %}">
 

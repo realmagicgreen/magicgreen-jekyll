@@ -2,6 +2,6 @@
 layout: topic_index
 title: Services
 topic_group: services
-description: #
-image: /assets/p/topics/services/01.jpg
+description: Services to lower your environmental impact.
+image: /assets/p/topics/services/og.jpg
 ---
