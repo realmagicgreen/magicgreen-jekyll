@@ -91,7 +91,7 @@
   bottom: 0;
   padding: 0;
   margin: 0;
-  height: 40px;
+  height: 50px;
   list-style: none;
 
   // display: none;
@@ -391,7 +391,7 @@
   text-align: center;
   width: 100%;
   color: transparentize($brand_color, .5);
-  bottom: 7%;
+  bottom: 12%;
   @include media( "screen", ">minWidth") {
     font-size: 14vw;
     bottom: 5%;
