@@ -62,7 +62,7 @@ webmaster_verifications:
   google: google32e66f1a5601ec40
 
 google:
-  analytics:
+  analytics: UA-119013410-1
 
 # Build settings
 markdown: kramdown
@@ -109,4 +109,4 @@ offer:
   topic_type_04: resources #(consulting companies, NGOs...)
   topic_type_05: solutions #(green roofs, green walls... )
   topic_type_06: tips #(grow healthy food, say no to plastic, buy wrap less products...)
-  topic_type_07: knowledge #(plants properties, natural medicines, healthy living, yoga, diet, superfoods)
+  topic_type_07: knowhow #(plants properties, natural medicines, healthy living, yoga, diet, superfoods)

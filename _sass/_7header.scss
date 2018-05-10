@@ -193,9 +193,9 @@
 
     &.active {
       .long_menu & {
-        background-color: $grey--light;
+        font-size: 200%;
         @include media( "screen", ">minWidth") {
-          background-color: transparent;
+          font-size: 100%;
         }
       }
     }

@@ -154,7 +154,7 @@ svg {
   text-align: center;
 }
 
-.break_on_phones {
+.show_on_phones {
   @include media( "screen", ">minWidth") {
     display: none;
   }
@@ -163,18 +163,6 @@ svg {
 p {
   padding-top: $vertical_rhythm--small;
   padding-bottom: $vertical_rhythm--small;
-}
-
-// adjacent selectors
-p + h1,
-p + h2,
-p + h3,
-h1 + h2,
-h1 + h3 {
-  padding-top: $vertical_rhythm*2;
-  .card & {
-    padding-top: $vertical_rhythm--small;
-  }
 }
 
 blockquote p {

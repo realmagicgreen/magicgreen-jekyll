@@ -8,8 +8,6 @@
 	   <link rel="canonical" href="{{site.url | prepend: site.baseurl}}" />
   </head>
   <body>
-    {% if site.google.analytics %}
-      {% include script_google_analytics.html %}
-    {% endif %}
+    {% include script_google_gtag.html %}
   </body>
 </html>

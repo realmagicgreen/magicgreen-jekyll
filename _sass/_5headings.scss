@@ -7,6 +7,7 @@ h6 {
   margin: 0;
   padding: 0;
   font-weight: 400;
+  padding-bottom: $vertical_rhythm;
 }
 
 h1 {
@@ -29,5 +30,20 @@ h3 {
   padding-top: 140px;
   @include media("screen", ">minWidth") {
     padding-top: 115px;
+  }
+}
+
+// adjacent selectors
+h1:not(.minimal_padding),
+p + h1:not(.minimal_padding),
+p + h2:not(.minimal_padding),
+p + h3:not(.minimal_padding),
+h1 + h2:not(.minimal_padding),
+h1 + h3:not(.minimal_padding) {
+  padding-top: $vertical_rhythm*2;
+  padding-bottom: $vertical_rhythm;
+  .card & {
+    padding-top: $vertical_rhythm--small/2;
+    padding-bottom: $vertical_rhythm--small/2;
   }
 }

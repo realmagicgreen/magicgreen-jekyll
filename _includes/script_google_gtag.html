@@ -1,0 +1,14 @@
+{% if site.google.analytics %}
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google.analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ site.google.analytics }}');
+  gtag('set', {'user_id': 'USER_ID'}); // Set the user ID using signed-in user_id.
+</script>
+
+{% endif %}
