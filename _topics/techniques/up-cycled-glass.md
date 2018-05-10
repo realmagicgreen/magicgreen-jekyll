@@ -6,6 +6,7 @@ topic_group: techniques
 image: /assets/p/topics/products/up-cycled-glass.jpg #for OG and twitter cards
 many_pictures: # 'true' or empty
 tag: # new or other...
+ad: # use 'true' to have post displaying AD
 publish: # use 'notyet' to print 'coming soon'
 featured: true # use 'true' to have it displayed in home
 ---

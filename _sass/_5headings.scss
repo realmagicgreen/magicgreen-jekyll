@@ -37,11 +37,19 @@ h3 {
 h1:not(.minimal_padding),
 p + h1:not(.minimal_padding),
 p + h2:not(.minimal_padding),
-p + h3:not(.minimal_padding),
+p + h3:not(.minimal_padding) {
+  padding-top: $vertical_rhythm;
+  padding-bottom: $vertical_rhythm;
+  .card & {
+    padding-top: $vertical_rhythm--small/2;
+    padding-bottom: $vertical_rhythm--small/2;
+  }
+}
+
 h1 + h2:not(.minimal_padding),
 h1 + h3:not(.minimal_padding) {
-  padding-top: $vertical_rhythm*2;
-  padding-bottom: $vertical_rhythm;
+  padding-top: $vertical_rhythm/2;
+  padding-bottom: $vertical_rhythm/2;
   .card & {
     padding-top: $vertical_rhythm--small/2;
     padding-bottom: $vertical_rhythm--small/2;

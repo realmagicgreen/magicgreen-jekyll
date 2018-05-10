@@ -6,6 +6,7 @@ topic_group: products
 image: /assets/p/topics/products/et-foldable-e-scooter.jpg #for OG and twitter cards
 many_pictures: # 'true' or empty
 tag: # new or other...
+ad: true # use 'true' to have post displaying AD
 publish: # use 'notyet' to print 'coming soon'
 featured: true # use 'true' to have it displayed in home
 ---
@@ -16,3 +17,5 @@ Structurally, the resort is sheltered by a stunning rooftop garden with a collec
 Recycled water is used to irrigate the garden, and energy-efficient LED lighting are used throughout the hotel. In addition, materials such as recycled teak and sand were used in the building process.
 
 Innovative charcoal ceilings throughout the reception atrium are not only visually stimulating, but naturally absorb sound and cleanse the air.
+
+[Website](http://etscooter.com/product/e-t-scooter/)
