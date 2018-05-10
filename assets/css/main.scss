@@ -7,14 +7,14 @@ $black: hsl(0,0%,0%);
 $brand_color: hsla(92, 100%, 50%, 1);
 $brand_color_bg: $black;
 
-$link_color: $brand_color;
+$link_color: $black;
 $light_text_color: hsla(92, 100%, 30%, 1);
 $bg_color: hsla(92, 100%, 90%, 1); //hsl(0, 0%, 96%);
 
 $grey: hsl(0,0%,45%);
 $grey--light: hsl(0,0%,85%);
 
-$underline_link_color : #b4e7f8;
+$underline_link_color: $brand_color;
 
 $topic_type_01: hsla(5, 100%, 81%, .75); //services
 $topic_type_02: hsla(40, 100%, 81%, .75); //products

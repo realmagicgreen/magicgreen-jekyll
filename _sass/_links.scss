@@ -12,12 +12,12 @@ a {
   }
 
   &.active {
-    border-bottom: lighten($link_color, 30%) solid 1px;
+    border-bottom: $brand_color, 30% solid 1px;
 
     .header & {
       border-bottom: 0 none;
       @include media( "screen", ">minWidth") {
-        border-bottom: lighten($link_color, 30%) solid 1px;
+        border-bottom: $brand_color solid 1px;
       }
     }
     span {
@@ -25,6 +25,12 @@ a {
       padding-bottom: 5px;
     }
   }
+
+  .header &,
+  .footer & {
+    color: $brand_color;
+  }
+
 }
 
 
