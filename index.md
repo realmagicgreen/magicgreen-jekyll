@@ -2,5 +2,5 @@
 layout: home
 title:
 description: #
-image: /assets/p/home/01.jpg
+image: /assets/p/og.png
 ---
