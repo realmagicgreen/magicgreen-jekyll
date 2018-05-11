@@ -10,6 +10,9 @@ publish: # use 'notyet' to print 'coming soon'
 tag: # new or other...
 featured: # use 'true' to have it displayed in home
 ---
+>"**_Nothing is as powerful as an idea whose time has come._**" Victor Hugo
+
+>"**Tidak ada yang sekuat gagasan yang waktunya telah tiba._**" Victor Hugo
 
 
 # Feeding the green baby.
