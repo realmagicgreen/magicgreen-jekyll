@@ -3,7 +3,7 @@ name: Building with bamboo in Bali
 subtitle: Bamboo is unmatched as a sustainable building material. It grows quickly and doesn't destroy the land.
 description: #
 topic_group: techniques
-image: /assets/p/topics/products/building-with-bamboo-in-bali.jpg #for OG and twitter cards
+image: /assets/p/topics/techniques/building-with-bamboo-in-bali.jpg #for OG and twitter cards
 many_pictures: true # 'true' or empty
 tag: # new or other...
 ad: # use 'true' to have post displaying AD
