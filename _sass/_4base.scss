@@ -118,28 +118,16 @@ svg {
     @include media( "screen", ">minWidth"){
       max-width: 600px;
     }
-    @include media( "screen", ">bp1Width"){
-      max-width: 400px;
-    }
-    @include media( "screen", ">maxWidth"){
-      max-width: 500px;
-    }
   }
 
   dl,
   ol,
   ul {
     max-width: 100%;
+    margin-left: auto;
     @include media( "screen", ">minWidth"){
       max-width: 600px;
     }
-    @include media( "screen", ">bp1Width"){
-      max-width: 400px;
-    }
-    @include media( "screen", ">maxWidth"){
-      max-width: 500px;
-    }
-    margin-left: auto;
   }
 }
 
