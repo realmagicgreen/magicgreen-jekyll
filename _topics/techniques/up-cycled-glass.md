@@ -3,7 +3,7 @@ name: Up-cycled glass
 subtitle: Limit plastic use recycled glass and bottles.
 description: #
 topic_group: techniques
-image: /assets/p/topics/products/up-cycled-glass.jpg #for OG and twitter cards
+image: /assets/p/topics/products/up-cycled-glass/up-cycled-glass.jpg #for OG and twitter cards
 many_pictures: # 'true' or empty
 tag: # new or other...
 ad: # use 'true' to have post displaying AD
@@ -16,4 +16,4 @@ These technique adopted by Warung Santai in Sanur has permitted them to complete
 
 Both glasses and bottle are made by cutting old glass bottles. They even use old glass bottle to diffuse the bulb lights installed in their facility.
 
-When you want any glass bottles trimmed call Piter +62 85333576222.
+In Bali, when you want any glass bottles cut and up-cycled just call **Piter +62 85333576222**.

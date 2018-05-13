@@ -3,7 +3,7 @@ name: ET foldable scooter
 subtitle: Charge it, un-fold it and ride smarter.
 description: #
 topic_group: products
-image: /assets/p/topics/products/et-foldable-scooter.jpg #for OG and twitter cards
+image: /assets/p/topics/products/et-foldable-scooter/et-foldable-scooter.jpg #for OG and twitter cards
 many_pictures: # 'true' or empty
 tag: # new or other...
 ad: true # use 'true' to have post displaying AD

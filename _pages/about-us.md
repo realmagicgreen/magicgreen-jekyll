@@ -12,7 +12,7 @@ featured: # use 'true' to have it displayed in home
 ---
 >"**_Nothing is as powerful as an idea whose time has come._**" Victor Hugo
 
->"**Tidak ada yang sekuat gagasan yang waktunya telah tiba._**" Victor Hugo
+>"**Tidak ada yang sekuat sebuah gagasan yang waktunya telah tiba.._**" Victor Hugo
 
 
 # Feeding the green baby.

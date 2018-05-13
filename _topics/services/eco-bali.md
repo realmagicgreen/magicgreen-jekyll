@@ -3,7 +3,7 @@ name: Eco Bali
 subtitle: An affordable recycling service for homes and business.
 description:
 topic_group: services
-image: /assets/p/topics/services/eco-bali.jpg #for OG and twitter cards
+image: /assets/p/topics/services/eco-bali/eco-bali.jpg #for OG and twitter cards
 many_pictures: # 'true' or empty
 tag: # new or other...
 ad: # use 'true' to have post displaying AD
@@ -20,4 +20,4 @@ For your organic trash you can get a compost system. That's easy to handle and t
 
 Eco Bali creates knowledge and awareness about waste and responsible management. They push towards a zero waste lifestyle. They teach the importance of a healthy ecosystem and responsible waste management. They offer educational for Schools, Businesses and Communities.
 
-To start is easy, just sign in at their [website](http://eco-bali.com) or call +62 822 37799819. Or just get a consulting meeting, here is the Eco Bali [address](https://goo.gl/maps/xsFMSpURS7S2): Kel. Kec. Kuta Utara, Jl. Raya Padonan, Tibubeneng, Badung, Bali 80361. 
+To start is easy, just sign in at their [website](http://eco-bali.com) or call +62 822 37799819. Or just get a consulting meeting, here is the Eco Bali [address](https://goo.gl/maps/xsFMSpURS7S2): Kel. Kec. Kuta Utara, Jl. Raya Padonan, Tibubeneng, Badung, Bali 80361.

@@ -24,7 +24,7 @@
 
             <div class="slideshow-slide-list">
 
-            {% capture topic_name %}{{ page.name | slugify }}{% endcapture %}
+            {% capture topic_name %}/{{ page.name | slugify }}/{% endcapture %}
 
               {% for image in site.static_files reversed %}
                 {% if image.path contains topic_name %}
@@ -47,7 +47,7 @@
           <div class="slideshow">
             <div class="slideshow-slide-list slideshow-float">
               <div class="slideshow-slide">
-                <div class="" data-src="{{ site.baseurl }}/assets/p/topics/{{ page.topic_group }}/{{ page.name | slugify }}.jpg" alt="{{ page.name }}" title="{{ page.name }}">
+                <div class="" data-src="{{ site.baseurl }}/assets/p/topics/{{ page.topic_group }}/{{ page.name | slugify }}/{{ page.name | slugify }}.jpg" alt="{{ page.name }}" title="{{ page.name }}">
                 </div>
               </div>
             </div>
@@ -153,7 +153,7 @@
 
     {% include script_append_to_copy_action.html %}
 
-    
+
 
   </body>
 

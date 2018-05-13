@@ -3,7 +3,7 @@ name: Green School Bali
 subtitle: Architectural wonder to educate for sustainability.
 description:
 topic_group: services
-image: /assets/p/topics/services/green-school-bali.jpg #for OG and twitter cards
+image: /assets/p/topics/services/green-school-bali/green-school-bali.jpg #for OG and twitter cards
 many_pictures: # 'true' or empty
 tag: # new or other...
 ad: true # use 'true' to have post displaying AD

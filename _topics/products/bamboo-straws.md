@@ -3,7 +3,7 @@ name: Bamboo straws
 subtitle: Suck it up consciously.
 description: #
 topic_group: products
-image: /assets/p/topics/products/bamboo-straws.jpg #for OG and twitter cards
+image: /assets/p/topics/products/bamboo-straws/bamboo-straws.jpg #for OG and twitter cards
 many_pictures: # 'true' or empty
 tag: # new or other...
 ad: # use 'true' to have post displaying AD
