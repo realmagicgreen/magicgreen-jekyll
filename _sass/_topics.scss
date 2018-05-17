@@ -10,7 +10,6 @@ figure {
   right: 0;
   padding: 0 5px;
   text-transform: capitalize;
-  font-weight: 500;
   -webkit-box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 
@@ -74,7 +73,6 @@ figure {
 blockquote p {
   font-size: 1.25rem;
   line-height: 1.25;
-  font-weight: 500;
   padding-left: $vertical_rhythm--small;
   @include media( "screen", ">minWidth") {
     margin: 0 auto 0 10%;
@@ -153,7 +151,7 @@ blockquote p {
   line-height: 24px;
   text-align: right;
   text-transform: uppercase;
-  font-weight: 800;
+  font-weight: $semibold_font_weight;
   padding-left: $vertical_rhythm--small;
   padding-right: $vertical_rhythm--small;
   color: transparentize($black, .85);

@@ -50,7 +50,6 @@ nav[aria-label="Secondary"] {
   transition: opacity 0.3s ease-out;
   position: absolute;
   font-size: 130%;
-  font-weight: 500;
   @include media( "screen", ">maxWidth") {
     position: fixed;
     top: 50%;

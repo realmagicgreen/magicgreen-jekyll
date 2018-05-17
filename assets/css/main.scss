@@ -27,11 +27,17 @@ $topic_type_07: hsla(230, 100%, 90%, .75); //knowhow
 $vertical_rhythm: 2rem;
 $vertical_rhythm--small: 1rem;
 
+//fonts
 $base_font_size--tiny: 15px;
 $base_font-size--min: 16px;
 $base_font_size--bp1: 17px;
 $base_font_size--max: 18px;
+
 $base_line_height: 1.4446;
+
+$base_font_weight: 500;
+$semibold_font_weight: 700;
+
 $heading1: 1.8rem;
 $heading2: $heading1/8*6;
 $heading3: $heading1/8*5;

@@ -26,7 +26,7 @@
   }
 
   .title {
-    font-weight: 600;
+    font-weight: $semibold_font_weight;
     font-size: 1.2rem;
     padding-top: $vertical_rhythm;
     padding-bottom: $vertical_rhythm/6;
@@ -126,7 +126,6 @@
 
 .footer_company_name {
   text-transform: uppercase;
-  font-weight: 400;
   font-size: 1.5rem;
   margin-top: $vertical_rhythm;
   margin-bottom: $vertical_rhythm;

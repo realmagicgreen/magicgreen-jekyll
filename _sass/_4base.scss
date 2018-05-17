@@ -20,10 +20,7 @@ html {
     font-size: $base_font_size--max;
   }
   line-height: $base_line_height;
-  font-weight: 400;
-  @include media( "screen", ">minWidth") {
-    font-weight: 300;
-  }
+  font-weight: $base_font_weight;
 }
 
 *,
