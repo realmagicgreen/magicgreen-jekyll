@@ -2,8 +2,8 @@
 name: Plastic bags
 subtitle: Less than 1 percent of plastic bags goes into a recycle bin.
 description: #
-topic_group: knowhow
-image: /assets/p/topics/knowhow/plastic-bags/plastic-bags.jpg #for OG and twitter cards
+topic_group: know
+image: /assets/p/topics/know/plastic-bags/plastic-bags.jpg #for OG and twitter cards
 many_pictures: # 'true' or empty
 tag: # new or other...
 ad: # use 'true' to have post displaying AD

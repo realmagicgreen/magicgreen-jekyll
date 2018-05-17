@@ -2,8 +2,8 @@
 name: Recycling aluminum
 subtitle: Aluminum can can be recycled an unlimited number of times.
 description: #
-topic_group: knowhow
-image: /assets/p/topics/knowhow/recycling-aluminum/recycling-aluminum.jpg #for OG and twitter cards
+topic_group: know
+image: /assets/p/topics/know/recycling-aluminum/recycling-aluminum.jpg #for OG and twitter cards
 many_pictures: # 'true' or empty
 tag: # new or other...
 ad: # use 'true' to have post displaying AD

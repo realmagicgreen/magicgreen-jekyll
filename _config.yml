@@ -5,7 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Magic Green is a showcase of examples, infos and addresses of all stuff green related in Bali and beyond.
 keywords: magazine, natural, nature-friendly, magic-green, sustainable business practises, environment-friendly, renewable-energy, low-impact, Bali, Indonesia, south east Asia, environment-conscious, wise, minimal impact, healthy, water purification techniques, communication platform, green news,
 lang: en
-version: 0.0.4
+version: 0.0.5
+
 
 # site architecture
 baseurl: ""
@@ -109,4 +110,4 @@ offer:
   topic_type_04: resources #(consulting companies, NGOs...)
   topic_type_05: solutions #(green roofs, green walls... )
   topic_type_06: tips #(grow healthy food, say no to plastic, buy wrap less products...)
-  topic_type_07: knowhow #(plants properties, natural medicines, healthy living, yoga, diet, superfoods)
+  topic_type_07: know #(plants properties, natural medicines, healthy living, yoga, diet, superfoods)

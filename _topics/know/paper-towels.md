@@ -2,8 +2,8 @@
 name: Paper towels
 subtitle: Nearly 4 billion trees are cut down each year for paper.
 description: #
-topic_group: knowhow
-image: /assets/p/topics/knowhow/paper-towels/paper-towels.jpg #for OG and twitter cards
+topic_group: know
+image: /assets/p/topics/know/paper-towels/paper-towels.jpg #for OG and twitter cards
 many_pictures: # 'true' or empty
 tag: # new or other...
 ad: # use 'true' to have post displaying AD
