@@ -4,7 +4,7 @@ subtitle: Absorb pollution, offer cooling shade and cost much less than any othe
 description: #
 topic_group: solutions
 image: /assets/p/topics/solutions/green-walls/green-walls.jpg #for OG and twitter cards
-many_pictures: # 'true' or empty
+many_pictures: true # 'true' or empty
 tag: # new or other...
 ad: # use 'true' to have post displaying AD
 publish: # use 'notyet' to print 'coming soon'
