@@ -5,7 +5,8 @@
 <html lang="{% if page.lang %}{{page.lang}}{% else %}{{site.lang}}{% endif %}" prefix="og: http://ogp.me/ns#">
 
   {% include head.html %}
-
+  
+  <!--layouts/home-->
   <body class="index {{page.title | slugify}} {% if site.menu %}{{ site.menu }}{% endif %}">
 
     {% include svg/defs.html %}
@@ -18,7 +19,7 @@
 
       <div class="container" role="main">
 
-        {% include topic_loop_home.html %}
+        {% include post_loop_home.html %}
 
       </div>
 

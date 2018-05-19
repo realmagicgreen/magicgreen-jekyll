@@ -119,7 +119,7 @@ svg {
 
   dl,
   ol,
-  ul {
+  ul:not(.not_ul) {
     max-width: 100%;
     margin-left: auto;
     @include media( "screen", ">minWidth"){

@@ -1,0 +1,24 @@
+<!--includes/post_loop_category-->
+<div class="post_page_title">
+
+  <h1 class="show_on_phones minimal_padding">{{page.title}}</h1>
+
+  {% if page.description %}
+    <h2 class="minimal_padding">{{page.description}}</h2>
+  {% endif %}
+
+</div>
+
+<div class="post_grid">
+{% capture pagecat %}{{ page.category | slugify }}{% endcapture %}
+
+{% for post in site.posts %}
+  {% if post.category contains pagecat %}
+    {% unless post.publish=='notyet' %}
+
+      {% include post_card.html %}
+
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+</div>

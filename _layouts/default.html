@@ -6,6 +6,7 @@
 
   {% include head.html %}
 
+  <!--layouts/default-->
   <body class="{{page.title | slugify}} {% if site.menu %}{{ site.menu }}{% endif %}">
 
     {% include svg/defs.html %}
@@ -16,7 +17,7 @@
 
       <div class="container main_content" role="main">
 
-        <div class="topic_text">
+        <div class="post_text">
           {{content}}
         </div>
 

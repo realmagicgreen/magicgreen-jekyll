@@ -1,0 +1,161 @@
+figure {
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+.figcaption {
+  position: absolute;
+  top: $vertical_rhythm--small;
+  right: 0;
+  padding: 0 5px;
+  text-transform: capitalize;
+  -webkit-box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+
+  &.coming-soon {
+    background-color: yellow;
+    color: black;
+  }
+
+  &.new {
+    background-color: $brand_color;
+    color: white;
+  }
+}
+
+.post_grid {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+
+  > * {
+    display: block;
+    max-width: 100%;
+    @include media( "screen", ">minWidth") {
+      max-width: calc(50% - 10px);
+    }
+    @include media( "screen", ">bp1Width") {
+      max-width: calc(33.33% - 10px);
+    }
+  }
+}
+
+.looper__link {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin-bottom: $vertical_rhythm;
+}
+
+.post_text {
+  padding: 0 $vertical_rhythm--small;
+  margin-top: $vertical_rhythm--small;
+  margin-bottom: $vertical_rhythm--small;
+  .card &  {
+    margin-bottom: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}
+
+blockquote p {
+  font-size: 1.25rem;
+  line-height: 1.25;
+  padding-left: $vertical_rhythm--small;
+  @include media( "screen", ">minWidth") {
+    margin: 0 auto 0 10%;
+    padding-left: $vertical_rhythm;
+  }
+}
+
+.post_image {
+  position: relative;
+  width: 100%;
+  .services & {
+    background-color: $post_type_01;
+    color: transparentize($black, .85);
+  }
+  .products & {
+    background-color: $post_type_02;
+    color: transparentize($black, .85);
+  }
+  .techniques & {
+    background-color: $post_type_03;
+    color: transparentize($black, .85);
+  }
+  .solutions & {
+    background-color: $post_type_04;
+    color: transparentize($black, .85);
+  }
+  .resources & {
+    background-color: $post_type_05;
+    color: transparentize($black, .85);
+  }
+  .tips & {
+    background-color: $post_type_06;
+    color: transparentize($black, .85);
+  }
+  .know & {
+    background-color: $post_type_07;
+    color: transparentize($black, .85);
+  }
+}
+
+.post_image_group {
+  position: relative;
+  width: 100%;
+  .services & {
+    background-color: $post_type_01;
+    color: transparentize($black, .85);
+  }
+  .products & {
+    background-color: $post_type_02;
+    color: transparentize($black, .85);
+  }
+  .techniques & {
+    background-color: $post_type_03;
+    color: transparentize($black, .85);
+  }
+  .solutions & {
+    background-color: $post_type_04;
+    color: transparentize($black, .85);
+  }
+  .resources & {
+    background-color: $post_type_05;
+    color: transparentize($black, .85);
+  }
+  .tips & {
+    background-color: $post_type_06;
+    color: transparentize($black, .85);
+  }
+  .know & {
+    background-color: $post_type_07;
+    color: transparentize($black, .85);
+  }
+}
+
+.category {
+  height: 24px;
+  line-height: 24px;
+  text-align: right;
+  text-transform: uppercase;
+  font-weight: $semibold_font_weight;
+  padding-left: $vertical_rhythm--small;
+  padding-right: $vertical_rhythm--small;
+  color: transparentize($black, .85);
+  .index & {
+    line-height: 18px;
+  }
+}

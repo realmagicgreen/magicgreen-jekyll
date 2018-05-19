@@ -40,19 +40,6 @@
     }
   }
 
-  svg {
-    width: $icon_size;
-    height: $icon_size;
-    margin-right: 10px;
-
-    &.qr {
-      width: 100px;
-      height: 100px;
-      margin-top: $vertical_rhythm/2;
-      margin-right: 0;
-      margin-left: -6px;
-    }
-  }
 }
 
 .menu_footer {
@@ -97,7 +84,7 @@
 }
 
 .menu_contacts,
-.menu_topics,
+.menu_posts,
 .menu_socials {
   display: -webkit-box;
   display: -ms-flexbox;

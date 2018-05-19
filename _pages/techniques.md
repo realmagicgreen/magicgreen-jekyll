@@ -1,7 +1,7 @@
 ---
-layout: topic_index
+layout: post_index_category
 title: Techniques
-topic_group: techniques
+category: techniques
 description: The way to sustainable living explained in details.
-image: /assets/p/topics/techniques/og.jpg
+image: /assets/p/posts/techniques/og.jpg
 ---

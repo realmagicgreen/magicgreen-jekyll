@@ -1,0 +1,28 @@
+.tagcloud_block {
+  background-color: darken($bg_color, 20);
+  text-align: center;
+}
+
+a[class*=set-] {
+  line-height: 28px;
+  white-space: nowrap;
+  &:after {
+    content: "\00a0";
+  }
+}
+
+.set-1 {
+  font-size: 100%;
+}
+.set-2 {
+  font-size: 125%;
+}
+.set-3 {
+  font-size: 150%;
+}
+.set-4 {
+  font-size: 175%;
+}
+.set-5 {
+  font-size: 200%;
+}

@@ -52,6 +52,8 @@ GEM
       jekyll (~> 3.3)
     jekyll-sitemap (1.2.0)
       jekyll (~> 3.3)
+    jekyll-tagging (1.1.0)
+      nuggets
     jekyll-watch (2.0.0)
       listen (~> 3.0)
     kramdown (1.16.2)
@@ -65,6 +67,7 @@ GEM
     minitest (5.11.3)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
+    nuggets (1.5.0)
     parallel (1.12.1)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
@@ -96,6 +99,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-seo-tag
   jekyll-sitemap
+  jekyll-tagging
 
 RUBY VERSION
    ruby 2.4.3p205

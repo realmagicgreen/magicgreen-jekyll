@@ -1,7 +1,7 @@
 ---
-layout: topic_index
+layout: post_index_category
 title: Solutions
-topic_group: solutions
+category: solutions
 description: Small or big, here are some solutions to environmental problems.
-image: /assets/p/topics/solutions/og.jpg
+image: /assets/p/posts/solutions/og.jpg
 ---

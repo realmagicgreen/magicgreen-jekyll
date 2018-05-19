@@ -1,10 +1,10 @@
 ---
-layout: topic
+layout: post
 name: About us
 subtitle:
-topic_group: about
+category: about
 description: We are a network of communication professionals, with a solid experience producing communication tools, who feel the need to make something meaningful and necessary. We'd like to give a contribution to push the world towards the right direction. Help us spread the word.
-image: /assets/p/about/about-us.jpg
+image: /assets/p/posts/about/about-us/about-us.jpg
 many_pictures: # 'true' or empty
 publish: # use 'notyet' to print 'coming soon'
 tag: # new or other...

@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Magic Green is a showcase of examples, infos and addresses of all stuff green related in Bali and beyond.
 keywords: magazine, natural, nature-friendly, magic-green, sustainable business practises, environment-friendly, renewable-energy, low-impact, Bali, Indonesia, south east Asia, environment-conscious, wise, minimal impact, healthy, water purification techniques, communication platform, green news,
 lang: en
-version: 0.0.5
+version: 0.1.0
 
 
 # site architecture
@@ -68,6 +68,7 @@ google:
 # Build settings
 markdown: kramdown
 plugins:
+ - jekyll/tagging
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-sitemap
@@ -80,34 +81,38 @@ exclude:
 
 permalink: /:title/ # pretty
 
+
 collections:
-  topics:
-    output: true
-    permalink: /:path/
   pages:
     output: true
     permalink: /:title/
 
 defaults:
-  - scope:
-      path: ""
-      type: topics
-    values:
-      layout: topic # change this to get the layout needed
+  -
+   scope:
+     type: posts
+   values:
+     layout: post # change this to get the layout needed
+     permalink: /:categories/:title/
+
+tag_page_layout: post_index_tag
+tag_page_dir: ./
+tag_permalink_style: pretty
+
 
 ## NOTES:
-## 'topic_group': must be singular/plural and match the dir name in both assets and pages. Used in urls too.
+## 'category': must be singular/plural and match the dir name in both assets and pages. Used in urls too.
 ## title: it's used in headings only to get the plural as in 'tours'.
 ## photos must be named same as 'page.title' and when more than 1 '{{page.title}}-02' and so on.
 
-# topics/subjects data
+# posts/subjects data
 
 
 offer:
-  topic_type_01: services #(garbage recycle, e-bikes rental... )
-  topic_type_02: products #(, electric bikes, bamboo straws, paper bags, water purifiers, bamboo frame pushbikes,solar panels, solar water-heaters...)
-  topic_type_03: techniques #(purification, energy efficiency...)
-  topic_type_04: resources #(consulting companies, NGOs...)
-  topic_type_05: solutions #(green roofs, green walls... )
-  topic_type_06: tips #(grow healthy food, say no to plastic, buy wrap less products...)
-  topic_type_07: know #(plants properties, natural medicines, healthy living, yoga, diet, superfoods)
+  post_type_01: services #(garbage recycle, e-bikes rental... )
+  post_type_02: products #(, electric bikes, bamboo straws, paper bags, water purifiers, bamboo frame pushbikes,solar panels, solar water-heaters...)
+  post_type_03: techniques #(purification, energy efficiency...)
+  post_type_04: resources #(consulting companies, NGOs...)
+  post_type_05: solutions #(green roofs, green walls... )
+  post_type_06: tips #(grow healthy food, say no to plastic, buy wrap less products...)
+  post_type_07: know #(plants properties, natural medicines, healthy living, yoga, diet, superfoods)

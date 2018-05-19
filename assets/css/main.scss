@@ -16,13 +16,13 @@ $grey--light: hsl(0,0%,85%);
 
 $underline_link_color: $brand_color;
 
-$topic_type_01: hsla(40, 100%, 75%, .75); //services
-$topic_type_02: hsla(60, 100%, 65%, .75); //products
-$topic_type_03: hsla(90, 100%, 75%, .75); //techniques
-$topic_type_04: hsla(110, 100%, 70%, .75); //resources
-$topic_type_05: hsla(170, 100%, 81%, .75); //solutions
-$topic_type_06: hsla(200, 100%, 70%, .75); //tips
-$topic_type_07: hsla(230, 100%, 90%, .75); //know
+$post_type_01: hsla(40, 100%, 75%, .75); //services
+$post_type_02: hsla(60, 100%, 65%, .75); //products
+$post_type_03: hsla(90, 100%, 75%, .75); //techniques
+$post_type_04: hsla(110, 100%, 70%, .75); //resources
+$post_type_05: hsla(170, 100%, 81%, .75); //solutions
+$post_type_06: hsla(200, 100%, 70%, .75); //tips
+$post_type_07: hsla(230, 100%, 90%, .75); //know
 
 $vertical_rhythm: 2rem;
 $vertical_rhythm--small: 1rem;
@@ -38,9 +38,9 @@ $base_line_height: 1.4446;
 $base_font_weight: 500;
 $semibold_font_weight: 700;
 
-$heading1: 1.8rem;
-$heading2: $heading1/8*6;
-$heading3: $heading1/8*5;
+$heading1: 1.7rem;
+$heading2: $heading1/10*8;
+$heading3: $heading1/10*7;
 
 //all svg icons are square:
 $icon_size: 30px;
@@ -70,16 +70,19 @@ $mediaMaxWidth: 1260px;
 "5headings",
 "6menu",
 "7header",
+"7logo",
 "8footer",
 "9svg",
 "10buttons",
 "links",
 "titles",
 "slideshow",
-"topics",
-"topic_details",
+"posts",
+"post_details",
 "cards",
 "social_sharing",
 "nav",
-"ad_symbol"
+"ad_symbol",
+"tag_cloud",
+"tag_page"
 ;

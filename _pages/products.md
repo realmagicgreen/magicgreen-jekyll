@@ -1,7 +1,7 @@
 ---
-layout: topic_index
+layout: post_index_category
 title: Products
-topic_group: products
+category: products
 description: Sometimes it's easy to stop buying polluting products and start supporting more sustainable ones.
-image: /assets/p/topics/products/og.jpg
+image: /assets/p/posts/products/og.jpg
 ---

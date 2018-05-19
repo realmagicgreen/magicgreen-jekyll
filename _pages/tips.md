@@ -1,7 +1,7 @@
 ---
-layout: topic_index
+layout: post_index_category
 title: Tips
-topic_group: tips
+category: tips
 description: We can start improving our everyday activities. Here are some tips, tutorial, how-to from experts.
-image: /assets/p/topics/tips/og.jpg
+image: /assets/p/posts/tips/og.jpg
 ---

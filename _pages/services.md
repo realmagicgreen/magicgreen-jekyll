@@ -1,7 +1,7 @@
 ---
-layout: topic_index
+layout: post_index_category
 title: Services
-topic_group: services
+category: services
 description: Services to lower your environmental impact.
-image: /assets/p/topics/services/og.jpg
+image: /assets/p/posts/services/og.jpg
 ---
