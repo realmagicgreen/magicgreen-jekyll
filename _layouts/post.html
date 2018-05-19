@@ -78,11 +78,13 @@
 
         <h3>{{ page.subtitle }}</h3>
 
+        {% if page.name != 'About us' %}
         <h5> Tags:
           {% for tag in page.tags %}
             <a href="/{{ tag }}/">{{ tag }}</a>
           {% endfor %}
         </h5>
+        {% endif %}
 
         {{ content }}
 
