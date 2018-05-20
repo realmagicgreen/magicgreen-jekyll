@@ -3,12 +3,11 @@ name: Building with bamboo
 subtitle: Bamboo is unmatched as a sustainable building material. It grows quickly and doesn't destroy the land.
 description: #
 category: techniques
-tags: architecture bamboo design sustainable-construction save-trees learning
+tags: architecture bamboo design learning sustainable-construction save-trees 
 image: /assets/p/posts/techniques/building-with-bamboo/building-with-bamboo.jpg #for OG and twitter cards
 many_pictures: true # 'true' or empty
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
-publish: # use 'notyet' to print 'coming soon'
 featured: true # use 'true' to have it displayed in home
 ---
 Bamboo, technically a grass, has been used in building for centuries due to its impressive strength. It offer twice the compressive strength of concrete and about the same strength-to-weight ratio of steel in tension. [1]

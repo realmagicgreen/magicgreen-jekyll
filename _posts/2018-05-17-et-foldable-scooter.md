@@ -3,12 +3,11 @@ name: ET foldable scooter
 subtitle: Charge it, un-fold it and ride smarter.
 description: #
 category: products
-tags: electric environment-friendly commuting
+tags: commuting electric environment-friendly 
 image: /assets/p/posts/products/et-foldable-scooter/et-foldable-scooter.jpg #for OG and twitter cards
 many_pictures: # 'true' or empty
 flag: # new or other...
 ad: true # use 'true' to have post displaying AD
-publish: # use 'notyet' to print 'coming soon'
 featured: true # use 'true' to have it displayed in home
 ---
 Among the big offer of e-bikes and scooters one which sticks out is definitely this slick ET foldable electric scooter.
