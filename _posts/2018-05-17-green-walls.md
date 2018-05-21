@@ -6,9 +6,12 @@ category: solutions
 tags: air-cleaning Bali CO2 Indonesia design
 image: /assets/p/posts/solutions/green-walls/green-walls.jpg #for OG and twitter cards
 many_pictures: true # 'true' or empty
+show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
+home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
+photography: # put here photographer name
 ---
 Green walls are not only visually pleasant, but naturally absorb CO2 and other pollutants thus cleaning the air. Let's not forget that trees, and green in general, created the oxygen in our atmosphere.
 

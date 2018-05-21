@@ -6,9 +6,13 @@ category: services
 tags:  certification environment-friendly responsible-sources save-trees wood
 image: /assets/p/posts/services/sustainable-wood/sustainable-wood.jpg #for OG and twitter cards
 many_pictures: true # 'true' or empty
+show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
+home_slideshow_caption: # lowercase, max 12 digits, including spaces
+show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
+photography: # put here photographer name\
 ---
 
 **The future of the world’s forests is very important to the planet, to animals, to businesses, to all of us.**

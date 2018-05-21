@@ -6,9 +6,12 @@ category: solutions
 tags: botany free forest heritage horticulture learning plants Singapore tropical  
 image: /assets/p/posts/solutions/singapore-botanic-garden/singapore-botanic-garden.jpg #for OG and twitter cards
 many_pictures: true # 'true' or empty
+show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
+home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
+photography: # put here photographer name
 ---
 
 With 4 millions visitors per year, 150 years of connecting plant and people, free entrance and his own subway stop, the Singapore botanic gardens are an outstanding example of educational facility.

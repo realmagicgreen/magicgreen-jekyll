@@ -6,10 +6,12 @@ category: know
 tags:  learning paper recycle save-trees
 image: /assets/p/posts/know/paper-towels/paper-towels.jpg #for OG and twitter cards
 many_pictures: # 'true' or empty
+show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
+home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-photograpy: Jace Grandinetti
+photography: Jace Grandinetti # put here photographer name 
 ---
 Did you know that nearly 4 billion trees are cut down each year for paper. Used paper towels are not recyclable.
 

@@ -6,9 +6,12 @@ category: solutions
 tags: Bali eco-entrepreneurs environment-friendly initiative Indonesia save-oceans
 image: /assets/p/posts/solutions/byebye-plastic-bags/byebye-plastic-bags.jpg #for OG and twitter cards
 many_pictures: true # 'true' or empty
+show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
+home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
+photography: # put here photographer name
 ---
 Byebye plastic bags is an initiative from children to force all the people to say no to plastic bags, because of the enormous environmental pollution they cause.
 

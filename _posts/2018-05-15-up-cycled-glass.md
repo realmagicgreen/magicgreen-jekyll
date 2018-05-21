@@ -3,12 +3,15 @@ name: Up-cycled glass
 subtitle: Limit plastic use recycled glass and bottles.
 description: #
 category: techniques
-tags: Bali design glass Indonesia learning up-cycle 
+tags: Bali design glass Indonesia learning up-cycle
 image: /assets/p/posts/products/up-cycled-glass/up-cycled-glass.jpg #for OG and twitter cards
 many_pictures: # 'true' or empty
+show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
+home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
+photography: # put here photographer name
 ---
 A clever way to limit the use of plastic bottles is serving water in up-cycled bottle and glasses.
 
