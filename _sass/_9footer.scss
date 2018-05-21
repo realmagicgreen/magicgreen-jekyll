@@ -31,7 +31,7 @@
     padding-top: $vertical_rhythm;
     padding-bottom: $vertical_rhythm/6;
     margin-bottom: $vertical_rhythm/6;
-    border-bottom: 1px solid $grey;
+    border-bottom: 1px solid $light_text_color;
     width: 100%;
     @include media( "screen", ">bp1Width") {
       border-bottom: 0 none;
@@ -72,7 +72,7 @@
 
       span {
         padding: 5px;
-        border: lighten($link_color, 30%) solid 1px;
+        border: $light_text_color solid 1px;
       }
     }
 }

@@ -249,8 +249,8 @@
         </div>
         {% endif %}
 
-        {% if site.qr == "show" %}
-        <div class="menu_item footer_icon email" role="menuitem">
+        {% if site.qr %}
+        <div class="menu_item footer_icon qr_box">
           <span>
             {% include svg/use.html id="icn--qr" class="qr" %}
           </span>
@@ -265,9 +265,6 @@
 
   </div>
 
-
-
 </footer>
-
 
 {% include script_google_analytics.html %}
