@@ -2,10 +2,10 @@
 name: Sustainable wood
 subtitle: Forest Stewardship Council is demonstrating responsible forest supply chain management
 description: #
-category: solutions
+category: services
 tags:  certification environment-friendly responsible-sources save-trees wood
-image: /assets/p/posts/solutions/sustainable-wood/sustainable-wood.jpg #for OG and twitter cards
-many_pictures: # 'true' or empty
+image: /assets/p/posts/services/sustainable-wood/sustainable-wood.jpg #for OG and twitter cards
+many_pictures: true # 'true' or empty
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
@@ -15,13 +15,13 @@ featured: true # use 'true' to have it displayed in home
 
 That’s why FSC certification exists. Whether you’re a forest manager, product manufacturer, retailer, or any number of other kinds of company, you can apply for FSC certification.
 
-Being FSC certified means that your forest, or supply chain, is managed responsibly; that you comply with our environmental, social, and economic standards. This covers much more than the trees themselves – among other things, it makes sure that local communities are respected, protects the habitats of endangered plant and animal species, and ensures workers are properly paid.
+Being FSC certified means that your forest, or supply chain, is managed responsibly; that you comply with our environmental, social, and economic standards. This covers much more than the trees themselves, among other things, it makes sure that local communities are respected, protects the habitats of endangered plant and animal species, and ensures workers are properly paid.
 
 When you become certified, your product can carry an [FSC label](https://ic.fsc.org/en/for-business/business-benefits/fsc-labels). It is a trusted symbol that shows consumers and businesses that you are sustainably managing either your forest, by preserving it for future generations, or supply chain operations. It is public recognition of your responsibility.
 
 ### Why should you choose FSC certification?
 
-We are not the only forest management system, but our certification is credible – which, in turn, helps protect your brand and reputation. More and more organizations and governments specify FSC-certified materials must be used in procurement processes.
+We are not the only forest management system, but our certification is credible, which, in turn, helps protect your brand and reputation. More and more organizations and governments specify FSC-certified materials must be used in procurement processes.
 
 Meanwhile, WWF even recommends FSC certification to consumers, forest managers, and businesses. Why? Because FSC is trusted not just by NGOs. FSC certification is the most widely adopted framework among Fortune 500 companies.
 
