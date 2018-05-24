@@ -18,21 +18,21 @@ Thanks, the [Junglestar](https://junglestar.org) team.
 
 ## Dev Dependencies
 
+```npm install --save-dev change-case```
+
 ```npm install --save-dev gulp@4.0.0```
 
 ```npm install --save-dev gulp-rename```
 
 ```npm install --save-dev gulp-responsive```
 
-```npm install --save-dev change-case```
 
-```npm install --save-dev gulp-gm```
 
 ## Dev Setup
 
 ```bundle install``` gems setup
 
-```npm install``` other dependencies setup
+```npm install``` node dependencies setup
 
 
 ## Dev Time
@@ -74,7 +74,7 @@ or to see error traces:
 
 - [ ] Add at least 1 post per day ( knowhow, tips, resources )
 - [ ] build ADDRESS DIRECTORY COMPONENT | yaml (+ boucas for) or gform  (dont display all db, make it hard to download for unskilled suckers)
-- [ ] Know section: memes ready for social posting with pill statistics phrases to inspire green behaviour
+- [ ] Know section: memes ready for social with pill statistics phrases (img) to inspire green behaviour
 - [ ] css ovelay ala VEGAS, via frontmatter true false, for crappy jpgs
 - [ ] tooltip showing categories descriptions
 - [ ] page.name  instead of filename in footer list
@@ -86,12 +86,14 @@ or to see error traces:
 
 - [ ] MAYBE: GUI grid with all post+titles+subtitles
 - [ ] footer: only popular posts, just topics
+- [ ] i18n + make indo posts (using G translate)
 - [ ] add ?ref=magicgreen.org with JS
 - [ ] install Algolia search 
 - [ ] add [blur-up-technique-for-loading-background-images](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/)
 - [ ] add this: https://github.com/myles/jekyll-typogrify
 - [ ] add this: https://github.com/sverrirs/jekyll-paginate-v2 + https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-AUTOPAGES.md
 - [ ] Twitter account
+- [ ] listen to this post (use soundcloud!)
 - [ ] when took-off refactor w/ hugo+netlify using https://github.com/netlify/victor-hugo, tut here: https://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/
 - [ ] standalone web-app (after "add to home screen" on android).
 - [X] address use [microformat](https://schema.org/Organization). [See test](https://search.google.com/structured-data/testing-tool#url=http%3A%2F%2Fbinocle.it%2F)
