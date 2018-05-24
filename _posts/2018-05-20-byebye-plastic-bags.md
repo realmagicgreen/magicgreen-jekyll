@@ -48,12 +48,13 @@ In 2014, BBPB completed version 1 of their educational booklet for primary aged 
 
 
 
-**_Resources:_**
+**_Know more:_**
+
 
 [Byebye plastic bags website](http://www.byebyeplasticbags.org)
 
 [Bali plastic bag free - video](https://youtu.be/SsF4xun1-u0)
 
-[It's about time we start listening - Ted-X Talk video](https://youtu.be/Y6Z5eOv6Nnk)
+[It's about time we start listening - Ted-X video](https://youtu.be/Y6Z5eOv6Nnk)
 
-[Our campaign to ban plastic in Bali - Ted Talk video](https://youtu.be/P8GCjrDWWUM)
+[Our campaign to ban plastic in Bali - Ted video](https://youtu.be/P8GCjrDWWUM)

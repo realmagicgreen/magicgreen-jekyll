@@ -155,7 +155,7 @@
   &.slideshow-current::after,
   &:focus::after,
   &:hover::after {
-    background-color: white;
+    background-color: $brand_color;
   }
 }
 
@@ -346,7 +346,7 @@
     position: absolute;
     height: 20px;
     width: 5px;
-    background-color: #BBBBBB;
+    background-color: $brand_color;
   }
 
   &:focus,
@@ -384,15 +384,19 @@
 }
 
 .caption {
-  font-size: 18vw;
+  user-select: none;
+  font-size: 15vw;
   line-height: 14vw;
+  padding: 0 2rem;
   font-weight: $semibold_font_weight;
   position: absolute;
   text-align: center;
   width: 100%;
-  color: transparentize($brand_color, .5);
-  bottom: 12%;
-  @include media( "screen", ">minWidth") {
+  color: transparentize($brand_color, .25);
+  bottom: 40%;
+  text-shadow: 3px 3px 3px transparentize($black, .25);
+  // transform: rotate(-55deg);
+  @include media( "screen", ">bp1Width") {
     font-size: 14vw;
     bottom: 5%;
   }

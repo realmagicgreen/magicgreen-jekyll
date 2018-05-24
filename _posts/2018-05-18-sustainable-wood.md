@@ -54,4 +54,4 @@ Becoming certified [steps](https://ic.fsc.org/en/for-business/3-steps-to-certifi
 
 Forest Stewardship Council [website](https://ic.fsc.org/en)
 
-Forest Stewardship Council [list of national websites](http://fsc.org/)
+FSC [list of national websites](http://fsc.org/)

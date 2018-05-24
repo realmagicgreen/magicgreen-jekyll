@@ -159,14 +159,14 @@ Near the bamboo area you will find the reflexology path, a joint community servi
 
 **_Visitor informations:_**
 
-Open: 5 am to 12 midnight daily
+Open: 5am to midnight, daily
 
 Admission: Free
 
-Location: [Botanic Gardens MRT station (Bukit Timah Gate)](https://goo.gl/maps/J6HD6wpGYeJ2)
+Location: [Botanic Gardens MRT (Bukit Timah Gate)](https://goo.gl/maps/J6HD6wpGYeJ2)
 
 
-**_Resources:_**
+**_Know more:_**
 
 [Singapore botanical garden website](https://www.sbg.org.sg)
 

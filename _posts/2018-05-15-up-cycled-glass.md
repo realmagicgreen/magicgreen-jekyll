@@ -4,7 +4,7 @@ subtitle: Limit plastic use recycled glass and bottles.
 description: #
 category: techniques
 tags: Bali design glass Indonesia learning up-cycle
-image: /assets/p/posts/products/up-cycled-glass/up-cycled-glass.jpg #for OG and twitter cards
+image: /assets/p/posts/techniques/up-cycled-glass/up-cycled-glass.jpg #for OG and twitter cards
 many_pictures: # 'true' or empty
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

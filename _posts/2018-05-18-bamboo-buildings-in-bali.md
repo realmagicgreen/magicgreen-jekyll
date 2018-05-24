@@ -42,7 +42,9 @@ Building with bamboo is not fool proof, but technologies to protect it from the 
 
 Challenges did not stop Bali entrepreneurs, and project like [Bali Green village](http://greenvillagebali.com/), [Ibuku](http://ibuku.com/), [Sunrise house](https://www.airbnb.co.uk/rooms/798483), [Green School Bali](https://www.greenschool.org/), [New Earth Haven restaurant](https://newearthhaven.com/), [New Earth Haven Dome](https://newearthhaven.com/crystal-dome-amethyst/),[Sukaheat Eco Resort Bali](https://architizer.com/projects/small-bamboo-hall-sukaheat-bali/), [Bali Eco Stay](https://www.baliecostay.com/), [Luxury Bamboo Hostel](https://goo.gl/maps/ooVYYDZLZER2), [Bamboo Eco Cottage](https://goo.gl/maps/Q2Etagk5ZfT2), [Hideout Bali](https://goo.gl/maps/GeuV1tMTTRJ2), [Big Tree Farm](https://bigtreefarms.com/blogs/news/tour-our-bamboo-factory) are great examples.
 
-**_Resources:_**
+
+**_Know more:_**
+
 
 [Asali Bali](http://www.bamboobali.asia/)
 

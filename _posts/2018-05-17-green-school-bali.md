@@ -27,4 +27,7 @@ Green School was awarded the 2012 "Greenest School on Earth" award by the Center
 
 Listen to the Green school founder [TED talk](https://www.ted.com/talks/john_hardy_my_green_school_dream/transcript?language=en)
 
+
+**_Know more:_**
+
 Green school [website](https://www.greenschool.org/)

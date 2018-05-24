@@ -67,14 +67,20 @@ To remove bamboo mold, lemon oil or a solution of vinegar and water can be used.
 
 **_References:_**
 
-[1 - cultureofpermaculture.org - All praise bamboo](http://www.cultureofpermaculture.org/blog/2014/01/all-praise-bamboo/)
+1.  
+[All praise bamboo](http://www.cultureofpermaculture.org/blog/2014/01/all-praise-bamboo/)
 
-[2 - asiagreenbuildings.com - Bamboo as a top-notch construction material](http://www.asiagreenbuildings.com/9299/bamboo-top-notch-construction-material/)
+2.  
+[Bamboo as a top-notch construction material](http://www.asiagreenbuildings.com/9299/bamboo-top-notch-construction-material/)
 
-[3 - guaduabamboo.com - When and How to Harvest Bamboo ](https://www.guaduabamboo.com/cultivation/when-and-how-to-harvest-bamboo)
+3.  
+[When and How to Harvest Bamboo ](https://www.guaduabamboo.com/cultivation/when-and-how-to-harvest-bamboo)
 
-[4 - wikihow.com - Cure bamboo](https://www.wikihow.com/Cure-Bamboo)
+4.  
+[Cure bamboo](https://www.wikihow.com/Cure-Bamboo)
 
-[5 - guaduabamboo.com - Drying bamboo poles](https://www.guaduabamboo.com/preservation/drying-bamboo-poles)
+5.  
+[Drying bamboo poles](https://www.guaduabamboo.com/preservation/drying-bamboo-poles)
 
-[6 - guaduabamboo.com - Remove bamboo mold](https://www.guaduabamboo.com/preservation/how-to-remove-bamboo-mold)
+6.  
+[Remove bamboo mold](https://www.guaduabamboo.com/preservation/how-to-remove-bamboo-mold)

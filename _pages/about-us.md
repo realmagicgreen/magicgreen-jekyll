@@ -1,7 +1,7 @@
 ---
 layout: post
 name: About us
-subtitle:
+subtitle: Working towards a necessary future.
 category: about
 description: We are a network of communication professionals, with a solid experience producing communication tools, who feel the need to make something meaningful and necessary. We'd like to give a contribution to push the world towards the right direction. Help us spread the word.
 image: /assets/p/posts/about/about-us/about-us.jpg

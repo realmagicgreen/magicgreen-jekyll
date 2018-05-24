@@ -16,22 +16,22 @@ $grey--light: hsl(0,0%,85%);
 
 $underline_link_color: $brand_color;
 
-$post_type_01: hsla(40, 100%, 75%, .75); //services
-$post_type_02: hsla(60, 100%, 65%, .75); //products
-$post_type_03: hsla(90, 100%, 75%, .75); //techniques
-$post_type_04: hsla(110, 100%, 70%, .75); //resources
-$post_type_05: hsla(170, 100%, 81%, .75); //solutions
-$post_type_06: hsla(200, 100%, 70%, .75); //tips
-$post_type_07: hsla(230, 100%, 90%, .75); //know
+$category_01: hsla(40, 100%, 75%, .75); //services
+$category_02: hsla(60, 100%, 65%, .75); //products
+$category_03: hsla(90, 100%, 75%, .75); //techniques
+$category_04: hsla(110, 100%, 70%, .75); //resources
+$category_05: hsla(170, 100%, 81%, .75); //solutions
+$category_06: hsla(200, 100%, 70%, .75); //tips
+$category_07: hsla(230, 100%, 90%, .75); //know
 
 $vertical_rhythm: 2rem;
 $vertical_rhythm--small: 1rem;
 
 //fonts
-$base_font_size--tiny: 15px;
-$base_font-size--min: 16px;
-$base_font_size--bp1: 17px;
-$base_font_size--max: 18px;
+$base_font_size--tiny: 17px;
+$base_font-size--min: 18px;
+$base_font_size--bp1: 19px;
+$base_font_size--max: 20px;
 
 $base_line_height: 1.4446;
 
@@ -84,5 +84,6 @@ $mediaMaxWidth: 1260px;
 "19nav",
 "20ad_symbol",
 "21tag_cloud",
-"22tag_page"
+"22tag_page",
+"23responsive_bg_img"
 ;

@@ -1,0 +1,59 @@
+<div class="slideshow_wrap">
+  <div class="slideshow">
+    <div class="slideshow-slide-list slideshow-float">
+      <div class="slideshow-slide">
+        <!-- test -->
+
+        <div data-responsive-background-image>
+          {% responsive_image path: assets/p/posts/about/about-us/about-us.jpg %}
+        </div>
+        <!-- end test -->
+      </div>
+    </div>
+  </div>
+</div>
+
+
+{% comment %}
+old code for ref.
+
+  {% if page.many_pictures %}
+
+  <div class="slideshow_wrap">
+
+    <div class="slideshow">
+
+      <div class="slideshow-slide-list">
+
+      {% capture post_name %}/{{ page.name | slugify }}/{% endcapture %}
+
+        {% for image in site.static_files reversed %}
+          {% if image.path contains post_name %}
+          <div class="slideshow-slide">
+            <div class="" data-src="{{ site.baseurl }}{{ image.path }}" alt="{{ page.name }}" title="{{ page.name }}">
+            </div>
+          </div>
+          {% endif %}
+        {% endfor %}
+
+      </div>
+
+    </div>
+
+  </div>
+
+  {% else %}
+
+  <div class="slideshow_wrap">
+    <div class="slideshow">
+      <div class="slideshow-slide-list slideshow-float">
+        <div class="slideshow-slide">
+          <div class="" data-src="{{ site.baseurl }}/assets/p/posts/{{ page.category }}/{{ page.name | slugify }}/{{ page.name | slugify }}.jpg" alt="{{ page.name }}" title="{{ page.name }}">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {% endif %}
+{% endcomment %}

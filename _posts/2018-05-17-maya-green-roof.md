@@ -21,4 +21,7 @@ Recycled water is used to irrigate the garden, and energy-efficient LED lighting
 
 Innovative charcoal ceilings throughout the reception atrium are not only visually stimulating, but naturally absorb sound and cleanse the air.
 
+
+**_Know more:_**
+
 [Maya resort website](http://www.mayaresorts.com/sanur)

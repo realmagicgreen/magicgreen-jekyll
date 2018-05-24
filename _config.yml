@@ -99,20 +99,50 @@ tag_page_layout: post_index_tag
 tag_page_dir: ./
 tag_permalink_style: pretty
 
-
 ## NOTES:
 ## 'category': must be singular/plural and match the dir name in both assets and pages. Used in urls too.
 ## title: it's used in headings only to get the plural as in 'tours'.
 ## photos must be named same as 'page.title' and when more than 1 '{{page.title}}-02' and so on.
 
-# posts/subjects data
 
 
+# post types
 offer:
-  post_type_01: services #(garbage recycle, e-bikes rental... )
-  post_type_02: products #(, electric bikes, bamboo straws, paper bags, water purifiers, bamboo frame pushbikes,solar panels, solar water-heaters...)
-  post_type_03: techniques #(purification, energy efficiency...)
-  post_type_04: resources #(consulting companies, NGOs...)
-  post_type_05: solutions #(green roofs, green walls... )
-  post_type_06: tips #(grow healthy food, say no to plastic, buy wrap less products...)
-  post_type_07: know #(plants properties, natural medicines, healthy living, yoga, diet, superfoods)
+  category_01: services
+  category_02: products
+  category_03: techniques
+  category_04: solutions
+  category_05: know
+  category_06: health
+  category_07: resources
+
+# how to organize potential subjects:
+#
+# - SERVICES you can buy - reviews
+# Subtitle: Services to lower your environmental impact.
+# Example: garbage recycle, e-bikes rental
+#
+# - PRODUCTS you can buy - reviews
+# Subtitle: Sometimes it's easy to stop buying polluting products and start supporting more sustainable ones.
+# Example: electric bikes, bamboo straws, paper bags, water purifiers, bamboo frame pushbikes, solar panels, solar water-heaters
+#
+# - TECHNIQUES major tech explained
+# Subtitle: The way to sustainable living explained in details.
+# Example: purification, bamboo architecture, energy efficiency, buy wrap-less products, water-purification
+#
+# - SOLUTIONS existing projects - reviews
+# Subtitle: Small or big, here are some solutions to environmental problems.
+# Example: green roofs, green walls, bamboo buildings, spots reviews, bio-degrabales
+#
+# - KNOW memes, stats, science, actionable advices, everyday activities, tech
+# Subtitle: Did you know that... Hum, actually I didn't yet. Thanks for letting me know!
+# Example: recycling, paper towels, plastic bags
+#
+# - HEALTH food, plants medicines, healthy living, yoga, superfoods...
+# Subtitle: How to improve your life. Food, plants medicines, healthy living, superfoods.
+# Example: Aloe Vera, Yoga, Flaxseeds, Food grade plastic & toxicity
+#
+# - RESOURCES a searchable contact DB you can query or add your company to
+# Subtitle: To solve big problems we need resources. Here is who can help and who is worth supporting.
+# Example: consulting companies, green biz, green product producers, NGOs, everything green in S.E.Asia
+# DB fields: company name, website, phone, email, location, products, expertise area
