@@ -1,0 +1,29 @@
+<!--includes/post_card-->
+<a class="looper__link card {{ post.category }}" title="{{ post.name }}" href="{{ site.baseurl }}/{{ post.category }}/{{ post.name | slugify }}/">
+
+  <div class="post_image">
+    <figure class="">
+      <img  class="post_thumb" src="{{ site.baseurl }}/assets/p/posts/{{ post.category }}/{{ post.name | slugify }}/{{ post.name | slugify }}.jpg" alt="{{ post.name }}" title="{{ post.name }}">
+      {% if post.flag %}
+      <figcaption class="figcaption {{ post.flag | slugify }}">{{ post.flag }}</figcaption>
+      {% endif %}
+    </figure>
+    <div class="category {{ post.category | slugify }}">
+      {{ post.category }}
+    </div>
+  </div>
+
+  <div class="post_text">
+    <h1 class="{% if post.ad %}ad_symbol{% endif %}">{{post.name}}</h1>
+    <h3>{{post.subtitle}}</h3>
+    <div class="post_text_content">
+      {{post.content | strip_html | truncatewords: 16}}
+    </div>
+
+    <div class="button_row">
+      <span class="button">Learn more</span>
+    </div>
+
+  </div>
+
+</a>

@@ -4,7 +4,7 @@ nav[aria-label="Secondary"] {
   @extend %no_select;
   padding: 0;
   background-color: transparent;
-  margin-bottom: $vertical_rhythm--small;
+  margin-bottom: $space--small;
 
   label {
     display: none;

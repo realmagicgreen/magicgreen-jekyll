@@ -1,6 +1,6 @@
 .footer {
   display: block;
-  padding: $vertical_rhythm 0;
+  padding: $space 0;
   width: 100%;
   background-color:  $brand_color_bg;
   color: $light_text_color;
@@ -28,9 +28,9 @@
   .title {
     font-weight: $semibold_font_weight;
     font-size: 1.2rem;
-    padding-top: $vertical_rhythm;
-    padding-bottom: $vertical_rhythm/6;
-    margin-bottom: $vertical_rhythm/6;
+    padding-top: $space;
+    padding-bottom: $space/6;
+    margin-bottom: $space/6;
     border-bottom: 1px solid $light_text_color;
     width: 100%;
     @include media( "screen", ">bp1Width") {
@@ -104,7 +104,7 @@
 .menu_contacts {
   > div {
     min-height: 22px;
-    margin-bottom: $vertical_rhythm/4;
+    margin-bottom: $space/4;
   }
   .name {
     color: black;
@@ -114,8 +114,8 @@
 .footer_company_name {
   text-transform: uppercase;
   font-size: 1.5rem;
-  margin-top: $vertical_rhythm;
-  margin-bottom: $vertical_rhythm;
+  margin-top: $space;
+  margin-bottom: $space;
   text-align: center;
   @include media( "screen", ">minWidth") {
     // width: 24%;
@@ -125,6 +125,6 @@
 
 .copyright {
   font-size: 12px;
-  padding-top: $vertical_rhythm;
-  margin-top: $vertical_rhythm;
+  padding-top: $space;
+  margin-top: $space;
 }

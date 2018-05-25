@@ -1,8 +1,8 @@
 .accommodation,
 .tour {
   .details_group {
-    margin-top: $vertical_rhythm;
-    padding: 0 $vertical_rhythm--small;
+    margin-top: $space;
+    padding: 0 $space--small;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -15,8 +15,8 @@
     -webkit-box-direction: normal;
     -ms-flex-direction: row;
     flex-direction: row;
-    margin-top: $vertical_rhythm;
-    margin-bottom: $vertical_rhythm;
+    margin-top: $space;
+    margin-bottom: $space;
     @include media( "screen", ">minWidth") {
       -webkit-box-pack: center;
       -ms-flex-pack: center;
@@ -29,8 +29,8 @@
       flex-direction: column;
       width: 300px;
       float: left;
-      margin-top: $vertical_rhythm*.5;
-      margin-bottom: $vertical_rhythm*2;
+      margin-top: $space*.5;
+      margin-bottom: $space*2;
     }
   }
 
@@ -42,9 +42,9 @@
     -ms-flex-align: center;
     align-items: center;
     width: 210px;
-    padding-top: $vertical_rhythm--small/2;
-    margin-right: $vertical_rhythm--small/2;
-    padding-bottom: $vertical_rhythm--small/2;
+    padding-top: $space--small/2;
+    margin-right: $space--small/2;
+    padding-bottom: $space--small/2;
   }
 
   .detail_icon {
@@ -53,6 +53,6 @@
   }
 
   .detail_text {
-    padding-left: $vertical_rhythm--small;
+    padding-left: $space--small;
   }
 }

@@ -1,0 +1,27 @@
+{% if page.name != 'About us' %}
+<h5 class="post_metas">
+
+  <div class="post_tags">
+    <div class="post_tags_icon">
+      {% include svg/use.html id="icn--tag" class="icon_tag" %}
+    </div>
+
+    <div class="post_tags_links">
+      {% for tag in page.tags %}
+        <a class="sober_link" href="/{{ tag }}/">{{ tag }}</a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="post_date">
+    <div class="post_date_icon">
+      {% include svg/use.html id="icn--clock" class="icon_clock" %}
+    </div>
+
+    <div class="post_date_text">
+      {{ page.date | date_to_string }}
+    </div>
+  </div>
+
+</h5>
+{% endif %}

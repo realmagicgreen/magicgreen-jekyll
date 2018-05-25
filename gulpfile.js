@@ -1,11 +1,12 @@
 'use strict';
 // GULP tasks to work images.
 // it works better than jekyll ruby plugins!
+var changeCase   = require('change-case');
 var gulp         = require('gulp');
 // var gm           = require('gulp-gm');
 var rename       = require('gulp-rename');
 var responsive   = require('gulp-responsive');
-var changeCase   = require('change-case');
+
 
 // GM GraphicsMagick w/ gulp4
 // maybe not needed
@@ -26,18 +27,23 @@ gulp.task('jpgs', function (done) {
   return gulp.src('./_src/p_jpg/*.jpg')
     .pipe(responsive({
       '*.jpg': [{
-        //nexus5
         width: 640,
-        quality: 61,
+        quality: 55,
         progressive: true,
         sharper: true,
         rename: {
           suffix: '-640'
         }
       }, {
-        //ipad
+        width: 880,
+        quality: 44,
+        progressive: true,
+        rename: {
+          suffix: '-880'
+        }
+      }, {
         width: 1024,
-        quality: 66,
+        quality: 44,
         progressive: true,
         rename: {
           suffix: '-1024'
@@ -45,14 +51,19 @@ gulp.task('jpgs', function (done) {
       }, {
         //fullHD
         width: 1920,
-        quality: 71,
+        quality: 55,
         progressive: true,
         rename: {
           suffix: '-1920'
         }
-      }]
+      }],
+    }, {
+      // global configuration for all images
+      errorOnEnlargement: false,
+      withMetadata: false,
+      withoutEnlargement: false
     }))
-    .pipe(gulp.dest('./assets/p'));
+    .pipe(gulp.dest('./_src/p_resized/'));
   done();
 });
 

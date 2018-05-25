@@ -6,6 +6,17 @@
 }
 
 svg {
+  .post_metas & {
+    fill: $transparent_grey;
+    width: $icon_size/3*2;
+    height: $icon_size/3*2;
+    margin-right: 10px;
+  }
+  .post_tags & {
+    margin-top: 4px;
+    width: $icon_size/3*2.25;
+    height: $icon_size/3*2.25;
+  }
   .tagcloud_block & {
     width: $icon_size*1.5;
     height: $icon_size*1.5;
@@ -19,12 +30,12 @@ svg {
   footer & {
     width: $icon_size;
     height: $icon_size;
-    margin-right: 10px;
+    padding-right: 10px;
 
     &.qr {
       width: 100px;
       height: 100px;
-      margin-top: $vertical_rhythm/2;
+      margin-top: $space/2;
       margin-right: 0;
       margin-left: -6px;
     }

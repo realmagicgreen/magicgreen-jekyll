@@ -13,19 +13,28 @@ $bg_color: hsla(92, 100%, 90%, 1); //hsl(0, 0%, 96%);
 
 $grey: hsl(0,0%,45%);
 $grey--light: hsl(0,0%,85%);
+$transparent_grey: transparentize($black, .65);
 
 $underline_link_color: $brand_color;
 
-$category_01: hsla(40, 100%, 75%, .75); //services
-$category_02: hsla(60, 100%, 65%, .75); //products
-$category_03: hsla(90, 100%, 75%, .75); //techniques
-$category_04: hsla(110, 100%, 70%, .75); //resources
-$category_05: hsla(170, 100%, 81%, .75); //solutions
-$category_06: hsla(200, 100%, 70%, .75); //tips
-$category_07: hsla(230, 100%, 90%, .75); //know
+// category_01: services
+// category_02: products
+// category_03: techniques
+// category_04: solutions
+// category_05: know
+// category_06: health
+// category_07: resources
 
-$vertical_rhythm: 2rem;
-$vertical_rhythm--small: 1rem;
+$category_01: hsla(40, 80%, 75%, .75); //services
+$category_02: hsla(60, 80%, 65%, .75); //products
+$category_03: hsla(90, 80%, 75%, .75); //techniques
+$category_04: hsla(110, 80%, 70%, .75); //solutions
+$category_05: hsla(110, 60%, 40%, .75); //know
+$category_06: hsla(200, 80%, 70%, .75); //health
+$category_07: hsla(200, 80%, 30%, .75); //resources
+
+$space: 2rem;
+$space--small: 1rem;
 
 //fonts
 $base_font_size--tiny: 17px;
@@ -41,6 +50,8 @@ $semibold_font_weight: 600;
 $heading1: 1.7rem;
 $heading2: $heading1/10*8;
 $heading3: $heading1/10*7;
+$heading4: $heading1/10*6.5;
+$heading5: $heading1/10*5.5;
 
 //all svg icons are square:
 $icon_size: 30px;
@@ -58,7 +69,7 @@ $button_focus_bg: hsla(0, 0%, 91%, 1);
 $button_book: $link_color;
 
 //// Predefined Break-points
-$mediaMinWidth: 600px;
+$mediaMinWidth: 640px;
 $mediaBp1Width: 880px;
 $mediaMaxWidth: 1260px;
 

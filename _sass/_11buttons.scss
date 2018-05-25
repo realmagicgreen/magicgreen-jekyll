@@ -1,12 +1,12 @@
 .button_row {
-  padding-top: $vertical_rhythm--small;
-  padding-bottom: $vertical_rhythm--small;
+  padding-top: $space--small;
+  padding-bottom: $space--small;
   width: 100%;
   display: block;
   // this for the book_now button
   .post & {
-    padding-top: $vertical_rhythm;
-    padding-bottom: $vertical_rhythm;
+    padding-top: $space;
+    padding-bottom: $space;
     text-align: center;
     @include media( "screen", ">bp1Width") {
       text-align: left;
@@ -19,8 +19,8 @@
   display: inline-block;
   width: auto;
   line-height: 32px;
-  margin-right: $vertical_rhythm--small/2;
-  margin-bottom: $vertical_rhythm--small/2;
+  margin-right: $space--small/2;
+  margin-bottom: $space--small/2;
   border: 1px solid $black_stroke;
   border-radius: 4px;
   color: $black;

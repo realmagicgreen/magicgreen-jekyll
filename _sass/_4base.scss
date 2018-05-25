@@ -90,21 +90,27 @@ svg {
   box-shadow: $header_shadow;
 }
 
+
+//// Predefined Break-points
+// $mediaMinWidth: 640px;
+// $mediaBp1Width: 880px;
+// $mediaMaxWidth: 1260px;
+
 .container {
-  padding: $vertical_rhythm;
+  padding: $space;
   max-width: 100%;
 
   @include media( "screen", ">minWidth") {
-    padding: $vertical_rhythm*1.5;
+    padding: $space*1.5;
   }
 
   @include media( "screen", ">bp1Width") {
-    max-width: 1000px;
+    max-width: $mediaBp1Width*1.15;
     margin: 0 auto;
   }
 
   @include media( "screen", ">maxWidth") {
-    max-width: 1200px;
+    max-width: $mediaMaxWidth*1.15;
     margin: 0 auto;
   }
 
@@ -122,6 +128,7 @@ svg {
   ul:not(.not_ul) {
     max-width: 100%;
     margin-left: auto;
+    padding-left: 20px;
     @include media( "screen", ">minWidth"){
       max-width: 600px;
     }
@@ -146,8 +153,8 @@ svg {
 }
 
 p {
-  padding-top: $vertical_rhythm--small;
-  padding-bottom: $vertical_rhythm--small;
+  padding-top: $space--small;
+  padding-bottom: $space--small;
 }
 
 blockquote p {

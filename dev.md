@@ -84,11 +84,12 @@ or to see error traces:
 
 ## FUTURE 2DOs:
 
+- [ ] add Alexa verify
 - [ ] MAYBE: GUI grid with all post+titles+subtitles
 - [ ] footer: only popular posts, just topics
 - [ ] i18n + make indo posts (using G translate)
 - [ ] add ?ref=magicgreen.org with JS
-- [ ] install Algolia search 
+- [ ] install Algolia search
 - [ ] add [blur-up-technique-for-loading-background-images](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/)
 - [ ] add this: https://github.com/myles/jekyll-typogrify
 - [ ] add this: https://github.com/sverrirs/jekyll-paginate-v2 + https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-AUTOPAGES.md
@@ -113,4 +114,3 @@ Tried jekyll-responsive-image but it sucks, this is not working:
 ```
 
 there an [open issue here](https://github.com/wildlyinaccurate/jekyll-responsive-image/issues/70) ...
-

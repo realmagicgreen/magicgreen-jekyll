@@ -58,7 +58,7 @@ a {
 
 
 [role="main"] {
-  a:not(.card):not(.button):not(.button_row) {
+  a:not(.card):not(.sober_link):not(.button):not(.button_row) {
     color: $link-color;
     text-decoration: none;
     border-bottom: 3px solid $underline_link_color;

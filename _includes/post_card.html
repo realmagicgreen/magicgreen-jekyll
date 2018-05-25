@@ -2,12 +2,25 @@
 <a class="looper__link card {{ post.category }}" title="{{ post.name }}" href="{{ site.baseurl }}/{{ post.category }}/{{ post.name | slugify }}/">
 
   <div class="post_image">
+
     <figure class="">
-      <img  class="post_thumb" src="{{ site.baseurl }}/assets/p/posts/{{ post.category }}/{{ post.name | slugify }}/{{ post.name | slugify }}.jpg" alt="{{ post.name }}" title="{{ post.name }}">
+
+
+      {% assign f = post.image | split: '.' %}
+      <img src="{{ f[0] | relative_url }}-640.{{ f[1] }}"
+           srcset="{{ f[0] | relative_url }}-640.{{ f[1] }} 640w,
+                   {{ f[0] | relative_url }}-880.{{ f[1] }} 880w,
+                   {{ f[0] | relative_url }}-1024.{{ f[1] }} 1024w,
+                   {{ f[0] | relative_url }}-1920.{{ f[1] }} 1920w"
+           sizes="(max-width: 640px) 100vw, (max-width: 880px) 50vw, (min-width: 881px) 33vw"
+           alt="{{ page.title }}">
+
+
       {% if post.flag %}
       <figcaption class="figcaption {{ post.flag | slugify }}">{{ post.flag }}</figcaption>
       {% endif %}
     </figure>
+
     <div class="category {{ post.category | slugify }}">
       {{ post.category }}
     </div>
@@ -15,9 +28,9 @@
 
   <div class="post_text">
     <h1 class="{% if post.ad %}ad_symbol{% endif %}">{{post.name}}</h1>
-    <h3>{{post.subtitle}}</h3>
+    <h3 class="border_top border_bottom">{{post.subtitle}}</h3>
     <div class="post_text_content">
-      {{post.content | strip_html | truncatewords: 16}}
+      {{post.content | strip_html | truncatewords: 22 }}
     </div>
 
     <div class="button_row">

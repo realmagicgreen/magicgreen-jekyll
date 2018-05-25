@@ -13,26 +13,21 @@
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    // -webkit-box-align: start;
-    // -ms-flex-align: start;
-    // align-items: flex-start;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    padding: $vertical_rhythm/2 $vertical_rhythm/2;
-    // @include media( "screen", ">minWidth") {
-      -webkit-box-align: center;
-      -ms-flex-align: center;
-      align-items: center;
-    //  padding-bottom: 0;
-    // }
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: $space/2 $space/2;
+
     @include media( "screen", ">bp1Width") {
       -webkit-box-orient: horizontal;
       -webkit-box-direction: normal;
       -ms-flex-direction: row;
       flex-direction: row;
-      padding-top: $vertical_rhythm/2;
-      padding-bottom: $vertical_rhythm/2;
+      padding-top: $space/2;
+      padding-bottom: $space/2;
     }
   }
   //when site has a short menu
@@ -60,7 +55,7 @@
       display: none;
       @include media( "screen", ">minWidth") {
         display: inherit;
-        padding: $vertical_rhythm--small 0;
+        padding: $space--small 0;
       }
       @include media( "screen", ">bp1Width") {
         padding: 0;
@@ -69,7 +64,7 @@
       &.show {
         display: block;
         min-width: 100%;
-        padding-top: $vertical_rhythm--small;
+        padding-top: $space--small;
         @include media( "screen", ">minWidth") {
           min-width: auto;
           border-bottom: 0 none;
@@ -150,7 +145,7 @@
   //   fill: $brand_color;
   //   width: 60px;
   //   height: 60px;
-  //   margin-right: $vertical_rhythm--small;
+  //   margin-right: $space--small;
   // }
 
   h1 {
@@ -166,7 +161,7 @@
       font-size: 8vw;
     }
     @include media( "screen", ">bp1Width") {
-      margin-right: $vertical_rhythm;
+      margin-right: $space;
       font-size: 34px;
     }
   }
@@ -185,8 +180,8 @@
   .menu_item {
     //a
     font-size: 1.1rem;
-    margin-right: $vertical_rhythm--small/3;
-    margin-left: $vertical_rhythm--small/3;
+    margin-right: $space--small/3;
+    margin-left: $space--small/3;
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
