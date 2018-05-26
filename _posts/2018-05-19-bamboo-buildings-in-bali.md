@@ -3,7 +3,7 @@ name: Bamboo buildings in Bali
 subtitle: Bamboo is booming here, showing excellent examples of a sustainable way to build.
 description: #
 category: solutions
-tags: architecture bamboo Bali design recycle hydro-power Indonesia learning permaculture sustainable-construction  
+tags: architecture bamboo Bali design eco-friendly eco-entrepreneurs recycle hydro-power Indonesia learning permaculture sustainable-construction  
 image: /assets/p/posts/solutions/bamboo-buildings-in-bali/bamboo-buildings-in-bali.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

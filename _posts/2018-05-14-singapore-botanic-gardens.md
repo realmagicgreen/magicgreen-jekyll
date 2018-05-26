@@ -3,7 +3,7 @@ name: Singapore Botanic Gardens
 subtitle: This outstanding world of plants is a UNESCO world heritage site. A must see for all!
 description: #
 category: solutions
-tags: botany free forest heritage horticulture learning plants Singapore tropical  
+tags: botany eco-entrepreneurs free forest heritage horticulture learning plants Singapore tropical  
 image: /assets/p/posts/solutions/singapore-botanic-gardens/singapore-botanic-gardens.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

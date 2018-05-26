@@ -3,7 +3,7 @@ name: Green walls
 subtitle: Absorb pollution, offer cooling shade and cost much less than any other walls.
 description: #
 category: solutions
-tags: air-cleaning Bali CO2 Indonesia design
+tags: air-cleaning Bali CO2 design environment-friendly Indonesia 
 image: /assets/p/posts/solutions/green-walls/green-walls.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

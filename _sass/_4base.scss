@@ -87,7 +87,8 @@ svg {
   height: 100%;
   position: relative;
   z-index: 8;
-  box-shadow: $header_shadow;
+  -webkit-box-shadow: $header_shadow;
+          box-shadow: $header_shadow;
 }
 
 
@@ -159,4 +160,8 @@ p {
 
 blockquote p {
   border-left: 2px solid black;
+}
+
+.nowrap {
+  white-space: nowrap;
 }

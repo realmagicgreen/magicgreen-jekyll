@@ -167,40 +167,6 @@ blockquote p {
   }
 }
 
-.post_metas {
-  color: $transparent_grey;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  @media screen and (max-width: 500px) {
-    flex-direction: column;
-  }
-  flex-direction: row;
-  justify-content: space-between;
-}
-
-.post_tags,
-.post_date {
-  display: flex;
-  flex-direction: row;
-  padding-bottom: $space/2;
-  padding-right: $space/2;
-  a {
-    color: $transparent_grey;
-    margin-left: .2rem;
-    margin-right: .2rem;
-    white-space: nowrap;
-    &:hover {
-      color: $black;
-    }
-  }
-}
-
-.post_date {
-  padding-right: 0;
-  white-space: nowrap;
-}
-
 .border_top {
   border-top: 1px solid $transparent_grey;
 }
@@ -208,7 +174,6 @@ blockquote p {
 .border_bottom {
   border-bottom: 1px solid $transparent_grey;
 }
-
 
 .post_header {
   margin-bottom: $space;

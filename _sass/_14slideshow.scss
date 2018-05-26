@@ -85,8 +85,12 @@
 // INDICATORS
 .slideshow-indicators {
   width: 80%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   position: absolute;
   bottom: 0;
   padding: 0;
@@ -384,7 +388,10 @@
 }
 
 .caption {
-  user-select: none;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
   font-size: 15vw;
   line-height: 14vw;
   padding: 0 2rem;

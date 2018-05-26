@@ -19,15 +19,7 @@
 
       <div class="container" role="main">
 
-        <div class="post_header">
-
-          <h1>{{ page.name }}</h2>
-
-          <h2 class="border_top border_bottom">{{ page.subtitle }}</h2>
-
-          {% include post_metas.html %}
-
-        </div>
+        {% include post_header.html %}
 
         {{ content }}
 

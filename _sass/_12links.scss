@@ -47,7 +47,8 @@ a {
   background-repeat: no-repeat;
 
   border-bottom: 0 none!important;
-  box-shadow: 0 none!important;
+  -webkit-box-shadow: 0 none!important;
+          box-shadow: 0 none!important;
 }
 //use this to override it as needed
 .share_box a[target="_blank"]:after {
@@ -62,7 +63,8 @@ a {
     color: $link-color;
     text-decoration: none;
     border-bottom: 3px solid $underline_link_color;
-    box-shadow: inset 0 -5px 0 $underline_link_color;
+    -webkit-box-shadow: inset 0 -5px 0 $underline_link_color;
+            box-shadow: inset 0 -5px 0 $underline_link_color;
     /* box shadow adds additional thickness*/
     -webkit-transition: background 0.15s cubic-bezier(.33,.66,.66,1);
     transition: background 0.15s cubic-bezier(.33,.66,.66,1);
