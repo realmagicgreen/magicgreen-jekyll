@@ -36,21 +36,21 @@ While 69% considered eco/sustainability when purchasing clothing, eco-fashion pu
 
 About 33% of those who don't regularly consider sustainability in their apparel purchases said they didn't buy sustainable because it wasn't available where they shop and 28% said they didn't even know where to purchase eco/sustainable clothing.
 
->"The data is showing a strong interest in eco/sustainable apparel. This represents a growth opportunity, especially if manufacturers and retailers make it easier to find," said Christine Nardi Diette, group president, Ryan Partnership Chicago.
+>"The data is showing a strong interest in eco/sustainable apparel. This represents a growth opportunity, especially if manufacturers and retailers make it easier to find," _Christine Nardi Diette, group president, Ryan Partnership Chicago._
 
 When shoppers do buy eco/sustainable, 57% said they became aware of eco-attributes through product tags, while 37% credited in-store information. Fewer than one in four use digital means to seek out eco/sustainable information through online search (23%) and brand websites (22%).
 
 Notably, 61% of shoppers expressed interest in an Apparel Sustainability Rating or Index. One consumer said,
 
->"It would be a tipping point if I were choosing between two products of similar price and quality or might persuade me to buy the more expensive product."
+>"It would be a tipping point if I were choosing between two products of similar price and quality or might persuade me to buy the more expensive product." _Christine Nardi Diette_
 
 Diette points out that eco/organic food, personal care and cleaning products have already overcome this eco-awareness hurdle.  
 
->"We believe sustainable apparel may be next if the industry can pull together with a similar effort to better market the category," Diette said.
+>"We believe sustainable apparel may be next if the industry can pull together with a similar effort to better market the category," _Christine Nardi Diette_
 
 The survey shows that shoppers seek eco-conscious apparel at mainstream retailers where they shop, suggesting those products represent an immediate growth opportunity for all apparel retailers, not just niche shops.
 
->"We believe there's a case to be made for more consistent and impactful eco-apparel product labeling and compelling point-of-sale signage.  A 'store-within-a-store' concept for this category could significantly increase shopper perception of availability as well, eliminating a major barrier to purchase," Diette said.
+>"We believe there's a case to be made for more consistent and impactful eco-apparel product labeling and compelling point-of-sale signage.  A 'store-within-a-store' concept for this category could significantly increase shopper perception of availability as well, eliminating a major barrier to purchase," _Christine Nardi Diette_
 
 Also, the report revealed eco-conscious consumers aren't willing to trade fit or durability, and rank a number of "sustainable" factors at the same level of importance in their purchase decision, such as "fun" and "fashionable." With the growing availability of a range of stylish yet sustainable apparel options, today's shoppers can have it all – if they can find it.
 

@@ -19,7 +19,7 @@ Bamboo provides excellent carbon sequestration, seventeen times as much carbon a
 
 Its leaves are a high-quality forage for livestock and its shoots are delicacy enjoyed by humans. Unlike trees that rarely grow back once cut, bamboo will continue to produce new shoots even after harvesting it.
 
->**"Bamboo is unmatched as a sustainable building material. What it can do is remarkable. It grows far more quickly than timber and doesn't destroy the land it's grown on"** Ben Ripple, Big Tree Farms Bali co-founder.
+>"Bamboo is unmatched as a sustainable building material. What it can do is remarkable. It grows far more quickly than timber and doesn't destroy the land it's grown on" _Ben Ripple, Big Tree Farms Bali co-founder_
 
 All over the world buildings utilize bamboo. It is used for skeletons for his strength, for furniture, curtains, accessories or coffee tables made from thin bamboo slats.
 
@@ -31,7 +31,7 @@ One reason bamboo is so environmentally-friendly is the speed at which it grows.
 
 Studies show construction is one of the world's least sustainable industries, eating up around half of the globe's non-renewable resources, but sustainable construction is slowly taking root around the world.
 
->**"In China, eucalyptus can grow at three to four meters a year, which is very impressive for timber. But building-quality bamboo will grow between six and 10 meters in that time,"** Terry Sunderland, scientist at the Centre for International Forestry Research in Indonesia
+>"In China, eucalyptus can grow at three to four meters a year, which is very impressive for timber. But building-quality bamboo will grow between six and 10 meters in that time,"_Terry Sunderland, scientist at the Centre for International Forestry Research in Indonesia_
 
 Bamboo has its drawbacks. Without intensive treatment, it is prone to rotting and catches fire relatively easily, which is why many countries limit bamboo structures height by law.
 

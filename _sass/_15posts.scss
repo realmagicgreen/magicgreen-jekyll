@@ -87,6 +87,9 @@ blockquote p {
     margin: 0 auto 0 10%;
     padding-left: $space;
   }
+  em {
+    font-size: .75rem;
+  }
 }
 
 .post_image {

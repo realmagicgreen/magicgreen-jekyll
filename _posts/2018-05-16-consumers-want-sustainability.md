@@ -22,7 +22,7 @@ Two interesting research studies set out to find the answer to this question. He
 
 ## Buy socially responsible brands
 
-The propensity to buy socially responsible brands is strongest in Asia-Pacific (64%), Latin America (63%) and Middle East/Africa (63%). The numbers for North America and Europe are 42 and 40%, respectively."
+The propensity to buy socially responsible brands is strongest in Asia-Pacific (64%), Latin America (63%) and Middle East/Africa (63%). The numbers for North America and Europe are 42 and 40%, respectively.
 
 Here is some data from the study:
 

@@ -80,7 +80,7 @@ or to see error traces:
 - [ ] page.name  instead of filename in footer list
 - [ ] FB post some stuff + setup post robot (buffer?)
 - [ ] add + pinned post options (or new posts | featured | popular sections)
-
+- [ ] make contributor guide page w/ what's needed in an article, writing style, checklist.
 
 ## FUTURE 2DOs:
 
