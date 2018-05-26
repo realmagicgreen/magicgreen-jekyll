@@ -3,7 +3,7 @@ name: Plastic bags
 subtitle: Less than 1 percent of plastic bags goes into a recycle bin.
 description: #
 category: know
-tags: learning plastic save-oceans recycle
+tags: learning plastic save-oceans social-responsibility recycle
 image: /assets/p/posts/know/plastic-bags/plastic-bags.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

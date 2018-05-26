@@ -3,7 +3,7 @@ name: Byebye plastic bags
 subtitle: Youth Driven Change to get the people of Bali to say no to plastic bags.
 description: #
 category: solutions
-tags: Bali eco-entrepreneurs environment-friendly initiative Indonesia save-oceans
+tags: Bali eco-entrepreneurs environment-friendly initiative Indonesia save-oceans  social-responsibility
 image: /assets/p/posts/solutions/byebye-plastic-bags/byebye-plastic-bags.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

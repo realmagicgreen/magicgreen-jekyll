@@ -3,7 +3,7 @@ name: Up-cycled glass
 subtitle: Limit plastic use recycled glass and bottles.
 description: #
 category: techniques
-tags: Bali design environment-friendly glass Indonesia learning up-cycle
+tags: Bali design environment-friendly glass Indonesia learning social-responsibility up-cycle
 image: /assets/p/posts/techniques/up-cycled-glass/up-cycled-glass.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

@@ -3,7 +3,7 @@ name: Paper towels
 subtitle: Nearly 4 billion trees are cut down each year for paper.
 description: #
 category: know
-tags:  learning paper recycle save-trees
+tags:  learning paper recycle save-trees social-responsibility
 image: /assets/p/posts/know/paper-towels/paper-towels.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

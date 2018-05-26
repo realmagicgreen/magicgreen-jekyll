@@ -3,7 +3,7 @@ name: Travellers choose sustainability
 subtitle: Sustainable travel is on the rise worldwide according to recent statistics.
 description: #
 category: know
-tags:  eco-entrepreneurs environment-friendly environmental-tourism learning travel
+tags:  eco-entrepreneurs environment-friendly environmental-tourism learning  social-responsibility travel
 image: /assets/p/posts/know/travellers-choose-sustainability/travellers-choose-sustainability.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces
