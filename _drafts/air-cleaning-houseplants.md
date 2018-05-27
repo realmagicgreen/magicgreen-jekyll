@@ -1,10 +1,10 @@
 ---
-name: Roads made of plastic
-subtitle: This global phenomena is growing bigger. It's happening in Bali too.
+name: air-cleaning-houseplants
+subtitle: Plants that clean the air.
 description: #
-category: solutions
-tags: Bali environment-friendly eco-friendly Indonesia
-image: /assets/p/posts/solutions/roads-made-of-plastic/roads-made-of-plastic.jpg
+category: health
+tags: wellness CO2
+image: /assets/p/posts/health/air-cleaning-houseplants/air-cleaning-houseplants.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...

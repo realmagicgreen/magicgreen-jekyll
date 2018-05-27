@@ -4,6 +4,7 @@ subtitle: Forest Stewardship Council is demonstrating responsible forest supply 
 description: #
 category: services
 tags:  certification eco-entrepreneurs environment-friendly responsible-sources save-trees  social-responsibility wood
+sticky: true
 image: /assets/p/posts/services/sustainable-wood/sustainable-wood.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

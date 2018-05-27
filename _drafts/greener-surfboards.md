@@ -11,7 +11,7 @@ flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
 pinned: # pinned to top 'true' or empty
-photography: Rokma # put here photographer name
+photography:  # put here photographer name
 ---
 The findings show that 90% of millennials will buy from a brand whose social and environmental practices they trust, and 95% of them will recommend that brand to a friend.
 

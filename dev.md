@@ -9,12 +9,13 @@ Thanks, the [Junglestar](https://junglestar.org) team.
 ## Features:
 
 - [X] plain javascript.
-- [X] responsive images with BBC's  [Imager.js](https://github.com/BBC-News/Imager.js/)
+- [X] responsive images with tweaked [jekyll-responsive-image](https://github.com/wildlyinaccurate/jekyll-responsive-image) srcset+[sizes](https://ericportis.com/posts/2014/srcset-sizes/) + [Responsive Background Image script](https://aclaes.com/responsive-background-images-with-srcset-and-sizes/)
 - [X] FULL HD - up to 1920px wide shots.
 - [X] open-graph & twitter-cards.
 - [X] SSL/https thanks to netlify.
-
-
+- [X] include in home slideshow via fron matter.
+- [X] script to append ref info to copy action
+- [X] sticky posts [option](https://github.com/ibrado/jekyll-stickyposts)
 
 ## Dev Dependencies
 
@@ -72,22 +73,25 @@ or to see error traces:
 
 ## URGENT 2DOs:
 
+- [ ] install jekyll-paginate-v2
+- [ ] css ovelay ala VEGAS, via frontmatter true false, for crappy jpgs
 - [ ] Add at least 1 post per day ( knowhow, tips, resources )
 - [ ] build ADDRESS DIRECTORY COMPONENT | yaml (+ boucas for) or gform  (dont display all db, make it hard to download for unskilled suckers)
-- [ ] Know section: memes ready for social with pill statistics phrases (img) to inspire green behaviour
-- [ ] css ovelay ala VEGAS, via frontmatter true false, for crappy jpgs
+- [ ] Know section: make memes ready for social with pill statistics phrases (img) to inspire green behaviour
+- [ ] i18n + make indo posts (using G translate)
 - [ ] tooltip showing categories descriptions
 - [ ] page.name  instead of filename in footer list
 - [ ] FB post some stuff + setup post robot (buffer?)
 - [ ] add + pinned post options (or new posts | featured | popular sections)
 - [ ] make contributor guide page w/ what's needed in an article, writing style, checklist.
 
+
+
 ## FUTURE 2DOs:
 
 - [ ] add Alexa verify
 - [ ] MAYBE: GUI grid with all post+titles+subtitles
 - [ ] footer: only popular posts, just topics
-- [ ] i18n + make indo posts (using G translate)
 - [ ] add ?ref=magicgreen.org with JS
 - [ ] install Algolia search
 - [ ] add [blur-up-technique-for-loading-background-images](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/)

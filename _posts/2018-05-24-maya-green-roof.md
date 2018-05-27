@@ -4,6 +4,7 @@ subtitle: Luxury meets efficiency. Cutting energy bill and looking good in Sanur
 description: Designed by award-winning architect, Budiman Hendropurnomo of Denton Corker Marshall, Maya new Sanur Resort in Bali features an innovative design that elevates aesthetics to exciting new heights. Structurally, the resort is sheltered by a stunning rooftop garden with a collection of intimate spaces and inspiring lagoon views beneath.
 category: solutions
 tags: air-cleaning architecture Bali CO2 design eco-friendly energy-efficiency Indonesia
+sticky: true 
 image: /assets/p/posts/solutions/maya-green-roof/maya-green-roof.jpg
 show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: green roofs # lowercase, max 12 digits, including spaces

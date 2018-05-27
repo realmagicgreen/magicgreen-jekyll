@@ -104,7 +104,12 @@ tag_permalink_style: pretty
 ## title: it's used in headings only to get the plural as in 'tours'.
 ## photos must be named same as 'page.title' and when more than 1 '{{page.title}}-02' and so on.
 
-
+stickyposts:
+  debug: true       # Show additional info; default: false
+  sort: "date"      # Optional sort field; default: "date", use "none" to avoid sorting
+  reverse: false     # Ascending order, default: false
+  retain: false      # Also show sticky posts in their original positions; default: false
+  reverse_sticky: false    # Reverse the order of the sticky posts, e.g. oldest first; default: false
 
 # post types
 offer:

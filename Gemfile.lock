@@ -52,6 +52,8 @@ GEM
       jekyll (~> 3.3)
     jekyll-sitemap (1.2.0)
       jekyll (~> 3.3)
+    jekyll-stickyposts (1.2.2)
+      jekyll (~> 3.0)
     jekyll-tagging (1.1.0)
       nuggets
     jekyll-watch (2.0.0)
@@ -99,6 +101,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-seo-tag
   jekyll-sitemap
+  jekyll-stickyposts
   jekyll-tagging
 
 RUBY VERSION

@@ -1,10 +1,10 @@
 ---
-name: Roads made of plastic
-subtitle: This global phenomena is growing bigger. It's happening in Bali too.
+name: Flax is a superfood
+subtitle: Plants that clean the air and absorb CO2 at night.
 description: #
-category: solutions
-tags: Bali environment-friendly eco-friendly Indonesia
-image: /assets/p/posts/solutions/roads-made-of-plastic/roads-made-of-plastic.jpg
+category: health
+tags: superfood
+image: /assets/p/posts/health/flax-is-a-superfood/flax-is-a-superfood.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...

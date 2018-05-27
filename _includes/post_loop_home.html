@@ -5,7 +5,8 @@
 
 <div class="post_grid">
 <!-- looper -->
-{% for post in site.posts %}
+{% assign sorted = site.posts | sort: "stickiness" %}
+{% for post in sorted %}
   {% if post.featured %}
     {% unless post.publish=="notyet" %}
 
