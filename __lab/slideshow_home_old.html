@@ -1,0 +1,20 @@
+<div class="slideshow_wrap">
+
+  <div class="slideshow">
+
+    <div class="slideshow-slide-list">
+
+      {% for slide in site.data.slides %}
+      <div class="slideshow-slide">
+        <div class="" data-src="{{ site.baseurl }}/assets/p/home/{{ slide.photo_file_name }}.jpg">
+          <div class="caption" data-caption="{{slide.caption}}">
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+
+    </div>
+
+  </div>
+
+</div>
