@@ -3,7 +3,7 @@ name: Education example
 subtitle: Volcom Indonesia example of responsible action, the Red Bag race.
 description: #
 category: techniques
-tags: environment-friendly social-responsibility waste save-oceans
+tags: Bali environment-friendly eco-friendly Indonesia social-responsibility save-oceans waste 
 image: /assets/p/posts/techniques/education-example/education-example.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces
