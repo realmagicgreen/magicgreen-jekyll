@@ -56,6 +56,11 @@ gulp.task('jpgs', function (done) {
         rename: {
           suffix: '-1920'
         }
+      }, {
+        //named same as original for use with jekyll_seo Open Graph / Twitter Cards
+        width: 1024,
+        quality: 44,
+        progressive: true,
       }],
     }, {
       // global configuration for all images
