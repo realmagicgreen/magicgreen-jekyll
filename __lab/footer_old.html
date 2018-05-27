@@ -34,6 +34,137 @@
 
       </div>
 
+      <div class="menu_socials" role="menu">
+        <div class="title">Follow us</div>
+
+
+        {% if site.company.facebook_page %}
+        <div class="footer_icon facebook">
+          <a class="menu_item" role="menuitem" href="{{site.company.facebook_page}}" title="{{site.company.facebook_page}} facebook page">
+            <span>
+              {% include svg/use.html id="icn--facebook" class="facebook" %}
+            </span>
+            <span>Facebook</span>
+          </a>
+        </div>
+        {% endif %}
+
+        {% if site.company.instagram %}
+        <div class="footer_icon instagram">
+          <a class="menu_item" role="menuitem" href="{{site.company.instagram}}" title="{{site.company.instagram}} on instagram">
+            <span>
+              {% include svg/use.html id="icn--instagram" class="instagram" %}
+            </span>
+            <span>Instagram</span>
+          </a>
+        </div>
+        {% endif %}
+
+        {% if site.company.twitter %}
+        <div class="footer_icon twitter">
+          <a class="menu_item" role="menuitem" href="{site.company.twitter}}" title="{{site.company.twitter}} at twitter">
+            <span>
+              {% include svg/use.html id="icn--twitter" class="twitter" %}
+            </span>
+            <span>Twitter</span>
+          </a>
+        </div>
+        {% endif %}
+
+        {% if site.company.gplus %}
+        <div class="footer_icon gplus">
+          <a class="menu_item" role="menuitem" href="{site.company.gplus}}" title="{{site.company.gplus}} on gplus">
+            <span>
+              {% include svg/use.html id="icn--gplus" class="gplus" %}
+            </span>
+            <span>Google Plus</span>
+          </a>
+        </div>
+        {% endif %}
+
+        {% if site.company.linkedin %}
+        <div class="footer_icon linkedin">
+          <a class="menu_item" role="menuitem" href="{{site.company.linkedin}}" title="{{site.company.linkedin}} on linkedin">
+            <span>
+              {% include svg/use.html id="icn--linkedin" class="linkedin" %}
+            </span>
+            <span>Linkedin</span>
+          </a>
+        </div>
+        {% endif %}
+
+        {% if site.company.tumblr %}
+        <div class="footer_icon tumblr">
+          <a class="menu_item" role="menuitem" href="{{site.company.tumblr}}" title="{{site.company.tumblr}} on tumblr">
+            <span>
+              {% include svg/use.html id="icn--tumblr" class="tumblr" %}
+            </span>
+            <span>Tumblr</span>
+          </a>
+        </div>
+        {% endif %}
+
+
+        {% if site.company.youtube %}
+        <div class="footer_icon youtube">
+          <a class="menu_item" role="menuitem" href="{{site.company.youtube}}" title="{{site.company.youtube}} on youtube">
+            <span>
+              {% include svg/use.html id="icn--youtube" class="youtube" %}
+            </span>
+            <span>Youtube</span>
+          </a>
+        </div>
+        {% endif %}
+
+        {% if site.company.booking %}
+        <div class="footer_icon booking">
+          <a class="menu_item" role="menuitem" href="{{site.company.booking}}" title="{{site.company.booking}} on booking.com">
+            <span>
+              {% include svg/use.html id="icn--bookingdotcom" class="bookingdotcom" %}
+            </span>
+            <span>booking</span>
+          </a>
+        </div>
+        {% endif %}
+
+
+        {% if site.company.airbnb %}
+        <div class="footer_icon airbnb">
+          <a class="menu_item" role="menuitem" href="{{site.company.airbnb}}" title="{{site.company.airbnb}} on airbnb">
+            <span>
+              {% include svg/use.html id="icn--airbnb" class="airbnb" %}
+            </span>
+            <span>Airbnb</span>
+          </a>
+        </div>
+        {% endif %}
+
+
+        {% if site.company.tripadvisor %}
+        <div class="footer_icon tripadvisor">
+          <a class="menu_item" role="menuitem" href="{{site.company.tripadvisor}}" title="{{site.company.tripadvisor}} on tripadvisor">
+            <span>
+              {% include svg/use.html id="icn--tripadvisor" class="tripadvisor" %}
+            </span>
+            <span>Tripadvisor</span>
+          </a>
+        </div>
+        {% endif %}
+
+
+        {% if site.company.soundcloud %}
+        <div class="footer_icon soundcloud">
+          <a class="menu_item" role="menuitem" href="{{site.company.soundcloud}}" title="{{site.company.soundcloud}} on soundcloud">
+            <span>
+              {% include svg/use.html id="icn--soundcloud" class="soundcloud" %}
+            </span>
+            <span>Soundcloud</span>
+          </a>
+        </div>
+        {% endif %}
+
+      </div>
+
       <div class="menu_contacts" role="menu">
 
         <div class="title">About {{site.company.name}}</div>
@@ -64,40 +195,6 @@
             </a>
             {% endif %}
           </div>
-        {% endif %}
-
-
-        {% if site.company.facebook_page %}
-        <div class="footer_icon facebook">
-          <a class="menu_item" role="menuitem" href="{{site.company.facebook_page}}" title="{{site.company.facebook_page}} facebook page">
-            <span>
-              {% include svg/use.html id="icn--facebook" class="facebook" %}
-            </span>
-            <span>Follow us on Facebook</span>
-          </a>
-        </div>
-        {% endif %}
-
-        {% if site.company.instagram %}
-        <div class="footer_icon instagram">
-          <a class="menu_item" role="menuitem" href="{{site.company.instagram}}" title="{{site.company.instagram}} on instagram">
-            <span>
-              {% include svg/use.html id="icn--instagram" class="instagram" %}
-            </span>
-            <span>Follow us on Instagram</span>
-          </a>
-        </div>
-        {% endif %}
-
-        {% if site.company.twitter %}
-        <div class="footer_icon twitter">
-          <a class="menu_item" role="menuitem" href="{site.company.twitter}}" title="{{site.company.twitter}} at twitter">
-            <span>
-              {% include svg/use.html id="icn--twitter" class="twitter" %}
-            </span>
-            <span>Follow us on Twitter</span>
-          </a>
-        </div>
         {% endif %}
 
         {% if site.company.address %}

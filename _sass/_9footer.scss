@@ -18,6 +18,7 @@
     max-width: 90%;
     margin-left: 5%;
     margin-right: 5%;
+    align-items: center;
 
     // @include media( "screen", ">maxWidth") {
     //   max-width: 80%;
@@ -36,7 +37,6 @@
     width: 100%;
     @include media( "screen", ">bp1Width") {
       border-bottom: 0 none;
-      padding-top: 0;
       width: auto;
     }
   }
@@ -60,6 +60,7 @@
     -webkit-box-direction: normal;
     -ms-flex-direction: row;
     flex-direction: row;
+    max-width: 700px;
   }
 
   .menu_item {
@@ -85,8 +86,7 @@
 }
 
 .menu_contacts,
-.menu_posts,
-.menu_socials {
+.menu_posts {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -98,7 +98,7 @@
   -ms-flex-align: start;
   align-items: flex-start;
   @include media( "screen", ">bp1Width") {
-    width: 32%;
+    max-width: 47%;
   }
 }
 
