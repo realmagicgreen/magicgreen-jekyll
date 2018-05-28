@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Magic Green is a showcase of examples, infos and addresses of all stuff green related in Bali and beyond.
 keywords: magazine, natural, nature-friendly, magic-green, sustainable business practises, environment-friendly, renewable-energy, low-impact, Bali, Indonesia, south east Asia, environment-conscious, wise, minimal impact, healthy, water purification techniques, communication platform, green news,
 lang: en
-version: 0.2.0
-
+version: 0.3.0
+words_per_minute: 160
 
 # site architecture
 baseurl: ""
@@ -72,12 +72,20 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-sitemap
- - html-proofer
+ - jekyll-algolia
+ - jekyll-typogrify
 exclude:
   - Gemfile.lock
   - node_modules
   - package-lock.json
   - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - dev.md
 
 permalink: /:title/ # pretty
 
@@ -88,28 +96,48 @@ collections:
     permalink: /:title/
 
 defaults:
-  -
-   scope:
-     type: posts
-   values:
-     layout: post # change this to get the layout needed
-     permalink: /:categories/:title/
+  - scope:
+      type: posts
+    values:
+      layout: post # change this to get the layout needed
+      permalink: /:categories/:title/
 
 tag_page_layout: post_index_tag
 tag_page_dir: ./
 tag_permalink_style: pretty
 
-## NOTES:
-## 'category': must be singular/plural and match the dir name in both assets and pages. Used in urls too.
-## title: it's used in headings only to get the plural as in 'tours'.
-## photos must be named same as 'page.title' and when more than 1 '{{page.title}}-02' and so on.
 
 stickyposts:
   debug: true       # Show additional info; default: false
   sort: "date"      # Optional sort field; default: "date", use "none" to avoid sorting
   reverse: false     # Ascending order, default: false
   retain: false      # Also show sticky posts in their original positions; default: false
-  reverse_sticky: false    # Reverse the order of the sticky posts, e.g. oldest first; default: false
+  reverse_sticky: false    # Reverse the order, e.g. oldest first; default: false
+
+
+# Plugin: Pagination (jekyll-paginate-v2)
+pagination:
+  enabled: true
+  debug: false
+  per_page: 12
+  permalink: '/page/:num/' # Pages are html files, linked jekyll extensionless permalink style.
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'stickiness'
+  sort_reverse: false
+
+
+# Plugin: Jekyll Algolia
+# algolia:
+#   application_id: KT124ONH1Z
+#   index_name: mademistakes
+#   search_only_api_key: 5a6e106e8083321a8ccca41b11aca95c
+#   nodes_to_index: "p"
+#   files_to_exclude:
+#     - index.html
+#     - index.md
+#     - excluded-file.html
+
 
 # post types
 offer:
@@ -151,3 +179,10 @@ offer:
 # Subtitle: To solve big problems we need resources. Here is who can help and who is worth supporting.
 # Example: consulting companies, green biz, green product producers, NGOs, everything green in S.E.Asia
 # DB fields: company name, website, phone, email, location, products, expertise area
+
+
+
+## NOTES:
+## 'category': must match the dir name in both assets and pages. Used in urls too.
+## title: it's used in headings only to get the plural
+## photos must be named same as 'page.title' and when more than 1 '{{page.title}}-02' and so on.

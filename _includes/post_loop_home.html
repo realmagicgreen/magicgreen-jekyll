@@ -4,15 +4,17 @@
 </div>
 
 <div class="post_grid">
-<!-- looper -->
-{% assign sorted = site.posts | sort: "stickiness" %}
-{% for post in sorted %}
-  {% if post.featured %}
-    {% unless post.publish=="notyet" %}
 
-      {% include post_card.html %}
+  {% for post in paginator.posts %}
+    {% if post.featured %}
+      {% unless post.publish=="notyet" %}
 
-    {% endunless %}
-  {% endif %}
-{% endfor %}
+        {% include post_card.html %}
+
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+
 </div>
+
+{% include post_pagination_home.html %}

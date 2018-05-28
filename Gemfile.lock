@@ -8,6 +8,12 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
+    algolia_html_extractor (2.6.1)
+      json (~> 2.0)
+      nokogiri (~> 1.8.2)
+    algoliasearch (1.21.0)
+      httpclient (~> 2.8, >= 2.8.3)
+      json (>= 1.5.1)
     colorator (1.1.0)
     colorize (0.8.1)
     concurrent-ruby (1.0.5)
@@ -18,6 +24,7 @@ GEM
       ffi (>= 1.3.0)
     eventmachine (1.2.6)
     ffi (1.9.23)
+    filesize (0.1.1)
     forwardable-extended (2.6.0)
     html-proofer (3.8.0)
       activesupport (>= 4.2, < 6.0)
@@ -29,6 +36,7 @@ GEM
       typhoeus (~> 1.3)
       yell (~> 2.0)
     http_parser.rb (0.6.0)
+    httpclient (2.8.3)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     jekyll (3.8.1)
@@ -44,8 +52,19 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-algolia (1.4.2)
+      algolia_html_extractor (~> 2.6)
+      algoliasearch (~> 1.18)
+      filesize (~> 0.1)
+      jekyll (~> 3.0)
+      json (~> 2.0)
+      nokogiri (~> 1.6)
+      progressbar (~> 1.9)
+      verbal_expressions (~> 0.1.5)
     jekyll-feed (0.9.3)
       jekyll (~> 3.3)
+    jekyll-paginate-v2 (1.9.4)
+      jekyll (~> 3.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.4.0)
@@ -56,8 +75,12 @@ GEM
       jekyll (~> 3.0)
     jekyll-tagging (1.1.0)
       nuggets
+    jekyll-typogrify (0.3.3)
+      titlecase
+      typogruby
     jekyll-watch (2.0.0)
       listen (~> 3.0)
+    json (2.1.0)
     kramdown (1.16.2)
     liquid (4.0.0)
     listen (3.1.5)
@@ -73,12 +96,14 @@ GEM
     parallel (1.12.1)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
+    progressbar (1.9.0)
     public_suffix (3.0.2)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
     rouge (3.1.1)
     ruby_dep (1.5.0)
+    rubypants (0.7.0)
     safe_yaml (1.0.4)
     sass (3.5.6)
       sass-listen (~> 4.0.0)
@@ -86,10 +111,14 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     thread_safe (0.3.6)
+    titlecase (0.1.1)
     typhoeus (1.3.0)
       ethon (>= 0.9.0)
+    typogruby (1.0.18)
+      rubypants
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
+    verbal_expressions (0.1.5)
     yell (2.0.7)
 
 PLATFORMS
@@ -98,11 +127,14 @@ PLATFORMS
 DEPENDENCIES
   html-proofer
   jekyll
+  jekyll-algolia
   jekyll-feed (~> 0.6)
+  jekyll-paginate-v2
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-stickyposts
   jekyll-tagging
+  jekyll-typogrify
 
 RUBY VERSION
    ruby 2.4.3p205
