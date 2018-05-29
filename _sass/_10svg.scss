@@ -20,6 +20,8 @@ svg {
   .tagcloud_block & {
     width: $icon_size*1.5;
     height: $icon_size*1.5;
+    position: relative;
+    top: 13px;
   }
   .post_page_title & {
     width: $icon_size;
