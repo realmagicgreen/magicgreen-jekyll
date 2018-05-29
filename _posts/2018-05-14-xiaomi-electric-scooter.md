@@ -15,7 +15,7 @@ photography:  # put here photographer name
 ---
 
 
-**XIAOMI Mijia 365 Smart Electric Scooter Main Features:**
+**XIAOMI Mijia 365 Features**
 
 - The electric scooter comes with a dual-brake system. The front wheel has E-ABS anti-lock system, while the rear wheel uses mechanical disk brake. The braking distance can be shortened to 4 meters.
 
