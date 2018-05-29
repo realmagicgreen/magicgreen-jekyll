@@ -44,12 +44,9 @@
       -ms-flex-pack: center;
       justify-content: center;
     }
-
-    // .logo_block {
-    //   padding-bottom: 0;
-    // }
   }
-  //when site has a long menu
+
+  // site has a long menu
   .long_menu & {
     nav {
       display: none;
@@ -69,10 +66,10 @@
 
         justify-content: space-around;
 
-        min-height: 100vh;
+        min-height: calc(100vh - 94px);
         min-width: 100%;
-        padding-top: 10vh;
-        padding-bottom: 20vh;
+        padding-top: 6vh;
+        padding-bottom: 6vh;
         @include media( "screen", ">minWidth") {
           display: block;
           min-width: auto;

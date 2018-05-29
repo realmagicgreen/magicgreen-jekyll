@@ -98,11 +98,11 @@ svg {
 // $mediaMaxWidth: 1260px;
 
 .container {
-  padding: $space;
+  padding: $space--small*1.5;
   max-width: 100%;
 
   @include media( "screen", ">minWidth") {
-    padding: $space*1.5;
+    padding: $space;
   }
 
   @include media( "screen", ">bp1Width") {
