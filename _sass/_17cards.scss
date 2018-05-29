@@ -5,6 +5,7 @@
   box-shadow: $card-shadow;
   -webkit-transition: $transition_shadow;
   transition: $transition_shadow;
+  border: 1px solid $black;
 
   &:hover,
   &:focus {

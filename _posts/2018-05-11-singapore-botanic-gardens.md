@@ -159,10 +159,8 @@ Near the bamboo area you will find the reflexology path, a joint community servi
 
 **_Visitor informations:_**
 
-Open: 5am to midnight, daily
-
-Admission: Free
-
+Open: 5am to midnight, daily  
+Admission: Free  
 Location: [Botanic Gardens MRT (Bukit Timah Gate)](https://goo.gl/maps/J6HD6wpGYeJ2)
 
 

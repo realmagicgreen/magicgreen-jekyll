@@ -59,7 +59,7 @@ figure {
 
 .post_text {
   padding: 0 $space--small;
-  margin-top: $space--small;
+  margin-top: $space--small/2;
   margin-bottom: $space--small;
   .card &  {
     margin-bottom: 0;
@@ -93,9 +93,13 @@ blockquote p {
 }
 
 .post_image {
+  box-shadow: $bottom_shadow;
   position: relative;
   width: 100%;
   color: $transparent_grey;
+  img {
+    box-shadow: $bottom_shadow;
+  }
   .services & {
     background-color: $category_01;
   }
