@@ -71,8 +71,8 @@
 
         min-height: 100vh;
         min-width: 100%;
-        padding-top: $space--small;
-        padding-bottom: 35vh;
+        padding-top: 10vh;
+        padding-bottom: 20vh;
         @include media( "screen", ">minWidth") {
           display: block;
           min-width: auto;
@@ -95,6 +95,15 @@
           }
         }
       }
+    }
+  }
+
+  .menu_footer_item {
+    padding-top: $space;
+    text-align: center;
+    color: $brand_color;
+    @include media( "screen", ">minWidth") {
+      display: none;
     }
   }
 
