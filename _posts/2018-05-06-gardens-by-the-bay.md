@@ -3,7 +3,7 @@ name: Gardens by the bay
 subtitle: An astonishing example of sustainable edutainment environment
 description: #
 category: solutions
-tags: architecture design eco-entrepreneurs hydro-power learning recycle Singapore sustainable-construction
+tags: architecture biodiversity design eco-entrepreneurs hydro-power learning recycle Singapore sustainable-construction
 image: /assets/p/posts/solutions/gardens-by-the-bay/gardens-by-the-bay.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

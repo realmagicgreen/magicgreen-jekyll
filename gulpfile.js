@@ -51,7 +51,7 @@ gulp.task('jpgs', function (done) {
       }, {
         //fullHD
         width: 1920,
-        quality: 22,
+        quality: 33,
         progressive: true,
         rename: {
           suffix: '-1920'

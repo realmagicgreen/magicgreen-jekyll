@@ -17,7 +17,15 @@
 
       <div class="container" role="main">
 
-        {% include post_loop_category.html %}
+        {% if page.category == 'resources' %}
+
+          {% include post_loop_resources.html %}
+
+        {% else %}
+
+          {% include post_loop_category.html %}
+
+        {% endif %}
 
       </div>
 

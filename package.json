@@ -34,5 +34,7 @@
     "gulp-rename": "^1.2.3",
     "gulp-responsive": "^2.10.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "sheetsee": "^0.1.0"
+  }
 }

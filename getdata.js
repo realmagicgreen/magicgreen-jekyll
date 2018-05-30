@@ -36,19 +36,19 @@ async.series([function setAuth(step) {
     }, function(err, rows) {
       console.log("Read " + rows.length + " rows");
       // Clean posts.yml
-      fs.truncate("./_data/posts.yml", 0, () => {
+      fs.truncate("./_data/companies.yml", 0, () => {
       });
       // Save rows as items in the YAML file
       for (let row of rows) {
         fs.appendFile(
-          "./_data/green_pages.yml",
+          "./_data/companies.yml",
           "- brand: " +
           row.brand +
           "\n\x20\x20" +
-          "website: " +
+          "products: " +
           row.products +
           "\n\x20\x20" +
-          "products: " +
+          "website: " +
           row.website +
           "\n\x20\x20" +
           "email: " +

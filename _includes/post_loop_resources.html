@@ -1,0 +1,44 @@
+<!--includes/post_loop_resources-->
+<div class="post_page_title">
+
+  <h1 class="show_on_phones minimal_padding">{{page.title}}</h1>
+
+  {% if page.description %}
+    <h2 class="minimal_padding">{{page.description}}</h2>
+  {% endif %}
+
+</div>
+
+<div class="">
+
+    <table class="green_pages_table">
+        <tbody>
+
+        <tr class="green_pages_table_header_row">
+          <td>Brand</td>
+          <td>Products</td>
+          <td>Website</td>
+        </tr>
+
+
+        {% for company in site.data.companies  %}
+          <tr class="green_pages_table_row">
+            <td>{{ company.brand }}</td>
+            <td>{{ company.products }}</td>
+            <td><a href="{{ company.website}}">{{ company.website | remove:'http://' | remove:'https://' | remove:'www.' | remove:'/' }}</a></td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+</div>
+<!--
+brand:
+website:
+products:
+email:
+telephone:
+address:
+location:
+country:
+-->

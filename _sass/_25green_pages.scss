@@ -1,0 +1,28 @@
+.green_pages_table {
+  min-width: 100%;
+  width: 100%;
+  td:last-child {
+    text-align: right;
+  }
+}
+
+.green_pages_table_header_row,
+.green_pages_table_row {
+  width: 100%;
+  // display: flex;
+  // justify-content: space-between;
+  span {
+    text-align: left;
+  }
+}
+
+.green_pages_table_header_row td {
+  font-weight: $semibold_font_weight;
+  border-bottom: 1px solid $transparent_grey;
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+}
+
+.green_pages_table_row:nth-child(odd) {
+  background-color: transparentize($brand_color, .75);
+}

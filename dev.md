@@ -17,11 +17,11 @@ Thanks, the [Junglestar](https://junglestar.org) team.
 - [X] script to append ref info to copy action
 - [X] sticky posts [option](https://github.com/ibrado/jekyll-stickyposts)
 - [X] jekyll-paginate-v2
-
+- [X] setup [gsheet > jekyll yaml data as](https://sprintworks.se/blog/data-from-google-drive-in-static-websites/)
 
 ## URGENT 2DOs:
 
-- [ ] setup gsheet >jekyll data as [told here](https://sprintworks.se/blog/data-from-google-drive-in-static-websites/) - NOTE: gsheet share with iam.gservice user(magicgreen-admin@magicgreen-205703.iam.gserviceaccount.com) and given EDIT permissions, maybe need only read, test later, when it's working!
+- [X] setup gsheet >jekyll data as [told here](https://sprintworks.se/blog/data-from-google-drive-in-static-websites/) - NOTE: gsheet share with iam.gservice user(magicgreen-admin@magicgreen-205703.iam.gserviceaccount.com) and given EDIT permissions, maybe need only read, test later, when it's working!
 - [ ] build ADDRESS DIRECTORY COMPONENT | yaml (+ boucas for) or gform  
 - [ ] css ovelay ala VEGAS, via frontmatter true false, for crappy jpgs
 - [ ] Add at least 1 post per day ( knowhow, tips, resources )
@@ -105,6 +105,12 @@ or to see draft posts:
 or to see error traces:  
 
 ```bundle exec Jekyll serve --trace```
+
+
+
+## Update companies green pages
+
+```npm run getdata```
 
 
 
