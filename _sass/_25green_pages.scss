@@ -23,6 +23,13 @@
     a:after {
       display: none;
     }
+    a:hover:after {
+      display: inline-block;
+      width: .9rem;
+      height: .9rem;
+      top: 0.15rem;
+      margin-right: 5px;
+    }
   }
 
   .brand {

@@ -21,8 +21,8 @@ Thanks, the [Junglestar](https://junglestar.org) team.
 
 ## URGENT 2DOs:
 
-- [X] setup gsheet >jekyll data as [told here](https://sprintworks.se/blog/data-from-google-drive-in-static-websites/) - NOTE: gsheet share with iam.gservice user(magicgreen-admin@magicgreen-205703.iam.gserviceaccount.com) and given EDIT permissions, maybe need only read, test later, when it's working!
-- [ ] build ADDRESS DIRECTORY COMPONENT | yaml (+ boucas for) or gform  
+- [ ] TEST: gsheet is shared with iam.gservice user (magicgreen-admin@magicgreen-205703.iam.gserviceaccount.com) and given EDIT permissions, maybe need only read, test later, when it's working!
+- [ ] build ADD YOURSELF FORM > gform > gsheet
 - [ ] css ovelay ala VEGAS, via frontmatter true false, for crappy jpgs
 - [ ] Add at least 1 post per day ( knowhow, tips, resources )
 - [ ] i18n + make indo posts (using G translate
