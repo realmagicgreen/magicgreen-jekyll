@@ -31,11 +31,11 @@ async.series([function setAuth(step) {
   sheet.getRows(
     {
       offset: 1,
-      limit: 20,
+      limit: 100,
       orderby: "col1"
     }, function(err, rows) {
       console.log("Read " + rows.length + " rows");
-      // Clean posts.yml
+      // Clean companies.yml
       fs.truncate("./_data/companies.yml", 0, () => {
       });
       // Save rows as items in the YAML file

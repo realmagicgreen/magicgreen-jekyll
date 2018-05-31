@@ -1,6 +1,6 @@
 - brand: ASEAN biodiversity
   products: Conservation
-  website: https://aseanbiodiversity.org/
+  website: https://aseanbiodiversity.org
   email: 
   telephone: 
   address: 3/F ERDB Bldg. UPLB Forestry Campus, Los Banos 4031
@@ -25,21 +25,21 @@
   location: 
   country: Indonesia
 
-- brand: Big Tree Farms
-  products: Organic Products
-  website: https://bigtreefarms.com
-  email: info@bigtreefarms.com
-  telephone: 62 361 846 3327
-  address: Br. Piakan, Desa Sibangkaja, Kecamatan Abiansemal, Bali 80237
-  location: 
-  country: Indonesia
-
 - brand: Bamboo Central
   products: Bamboo
   website: http://bamboocentral.org
   email: bamboolinda@gmail.com
   telephone: 62 361974028
   address: P.O. box 196, Ubud, Bali 80571
+  location: 
+  country: Indonesia
+
+- brand: Big Tree Farms
+  products: Organic Products
+  website: https://bigtreefarms.com
+  email: info@bigtreefarms.com
+  telephone: 62 361 846 3327
+  address: Br. Piakan, Desa Sibangkaja, Kecamatan Abiansemal, Bali 80237
   location: 
   country: Indonesia
 
@@ -62,7 +62,7 @@
   country: Indonesia
 
 - brand: Eco Bali Recycling
-  products: Trash collection and recycling
+  products: Trash Collection, Recycling
   website: http://eco-bali.com
   email: info@eco-bali.com
   telephone: 62 82237799819
@@ -71,7 +71,7 @@
   country: Indonesia
 
 - brand: Eco Regions Indonesia
-  products: Development and Conservation
+  products: Developmen, Conservation
   website: http://ecoregions.co.id
   email: 
   telephone: 
@@ -115,8 +115,17 @@
   location: 
   country: Indonesia
 
+- brand: Indonesian Waste Platform
+  products: Waste Management
+  website: http://www.indonesianwaste.org
+  email: nina@indonesianwaste.org
+  telephone: 
+  address: 
+  location: 
+  country: Indonesia
+
 - brand: Lampbond Indonesia
-  products: LED bulbs
+  products: LED Bulbs
   website: https://www.lampbond1ndonesia.com
   email: 
   telephone: 
@@ -125,40 +134,31 @@
   country: Indonesia
 
 - brand: Numbeo
-  products: Cost of living database
-  website: https://www.numbeo.com/
+  products: Cost of LIiving Database
+  website: https://www.numbeo.com
   email: 
   telephone: 
   address: 
   location: 
   country: 
 
-- brand: Indonesian Waste Platform
-  products: Waste prevention and management
-  website: http://www.indonesianwaste.org
-  email: nina@indonesianwaste.org
-  telephone: 
-  address: 
-  location: 
-  country: Indonesia
-
-- brand: Singapore Botanical Gardens
-  products: Conservation and Education
-  website: https://www.sbg.org.sg
-  email: 
-  telephone: 
-  address: 
-  location: 
-  country: Singapore
-
-- brand: Plants For A Future
-  products: Plants database
+- brand: Plants for a Future
+  products: Plants Database
   website: https://pfaf.org
   email: 
   telephone: 
   address: 
   location: 
   country: 
+
+- brand: Singapore Botanic Gardens
+  products: Conservation, Education
+  website: https://www.sbg.org.sg
+  email: 
+  telephone: 
+  address: 
+  location: 
+  country: Singapore
 
 - brand: Sos From The Deep
   products: Conservation
@@ -175,6 +175,69 @@
   email: 
   telephone: 1 415 626 2212 
   address: 3 Meacham Pl, San Francisco, CA 94109
+  location: 
+  country: U.S.A.
+
+- brand: Ted
+  products: Conferences, Information
+  website: https://ted.com
+  email: 
+  telephone: 
+  address: 
+  location: 
+  country: U.S.A.
+
+- brand: The Plant List
+  products: Plants database
+  website: http://www.theplantlist.org
+  email: 
+  telephone: 
+  address: 
+  location: 
+  country: 
+
+- brand: Trash hero
+  products: Trash Collection, Information
+  website: https://trashhero.org
+  email: 
+  telephone: 
+  address: 
+  location: 
+  country: Indonesia
+
+- brand: Viar Electric Motor
+  products: Electric Scooters
+  website: https://www.e-viar.com
+  email: marketing@viarmotor.com 
+  telephone: 62 21 65832202
+  address: Jl. Danau Agung Selatan Blok O III no. 38, Sunter Sunter Jaya, Jakarta 14350
+  location: 
+  country: Indonesia
+
+- brand: Welcome Alternative Bags
+  products: Sustainable Bags
+  website: https://welcomealternativebags.com
+  email: info@welcomealternativebags.com
+  telephone: 
+  address: 
+  location: 
+  country: Indonesia
+
+- brand: World Mapper
+  products: Data on Maps
+  website: https://worldmapper.org/
+  email: 
+  telephone: 
+  address: 
+  location: 
+  country: 
+
+- brand: World Watch Institute
+  products: Information, Fact analysis
+  website: http://www.worldwatch.org
+  email: worldwatch@worldwatch.org 
+  telephone: 1 202 745-8092
+  address: 1400 16th St. NW, Ste. 430, Washington DC 20036
   location: 
   country: U.S.A.
 

@@ -5,16 +5,26 @@
   border-spacing: 0;
   min-width: 100%;
   width: 100%;
+
   tbody td {
-    font-size: 90%;
+    font-size: 86%;
     vertical-align: middle;
     margin: 0;
     padding: 0;
     border: 0;
+    padding-left: 10px;
+    @include media("screen", ">minWidth") {
+      font-size: 96%;
+    }
   }
+
   td:last-child {
     text-align: right;
+    a:after {
+      display: none;
+    }
   }
+
   .brand {
     font-weight: $semibold_font_weight;
   }
@@ -23,15 +33,16 @@
 .green_pages_table_header_row,
 .green_pages_table_row {
   width: 100%;
+
   span {
     text-align: left;
   }
 }
 
-.green_pages_table_header_row{
+.green_pages_table_header_row {
   font-weight: $semibold_font_weight;
-  // padding-bottom: 8px;
-  // margin-bottom: 8px;
+  // padding-bottom: 8px; //not working
+  // margin-bottom: 8px; //not working
   line-height: 2;
 }
 
@@ -39,38 +50,52 @@
   background-color: transparentize($brand_color, .75);
 }
 
+.functionalities_block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: column;
+  @include media("screen", ">minWidth") {
+    flex-direction: row;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+}
 
 .sort:after {
-  display:inline-block;
+  display: inline-block;
   width: 0;
   height: 0;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
   border-bottom: 5px solid transparent;
-  content:"";
+  content: "";
   position: relative;
-  top:-10px;
-  right:-3px;
+  top: -10px;
+  right: -3px;
 }
+
 .sort.asc:after {
   width: 0;
   height: 0;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
   border-top: 5px solid $black;
-  content:"";
+  content: "";
   position: relative;
-  top:4px;
-  right:-3px;
+  top: 4px;
+  right: -3px;
 }
+
 .sort.desc:after {
   width: 0;
   height: 0;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
   border-bottom: 5px solid $black;
-  content:"";
+  content: "";
   position: relative;
-  top:-4px;
-  right:-3px;
+  top: -4px;
+  right: -3px;
 }

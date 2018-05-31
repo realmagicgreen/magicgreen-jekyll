@@ -9,17 +9,20 @@
 
 </div>
 
-<div id="brands" class="responsive_table_bock">
+<div id="brands" class="responsive_table_block">
 
-  <input class="search input" placeholder="Search" />
-  <button class="sort button" data-sort="products">
-    Sort by Products
-  </button>
-  <button class="sort button" data-sort="brand">
-    Sort by Brand
-  </button>
+  <div class="functionalities_block">
+    <input class="search input" placeholder="Search" />
+    <button class="sort button" data-sort="products">
+      Sort by Products
+    </button>
+    <button class="sort button" data-sort="brand">
+      Sort by Brand
+    </button>
+  </div>
 
-  <table class="green_pages_table">
+
+  <table class="green_pages_table responsive_table">
 
     <thead>
       <tr class="green_pages_table_header_row">
@@ -32,9 +35,9 @@
     <tbody class="list">
       {% for company in site.data.companies %}
         <tr class="green_pages_table_row">
-          <td class="brand">{{ company.brand }}</td>
-          <td class="products">{{ company.products }}</td>
-          <td><a class="sober_link " href="{{ company.website}}">{{ company.website | remove:'http://' | remove:'https://' | remove:'www.' | remove:'/' }}</a></td>
+          <td data-th="Brand" class="brand">{{ company.brand }}</td>
+          <td data-th="Products" class="products">{{ company.products }}</td>
+          <td data-th="Website"><a class="sober_link " href="{{ company.website}}">{{ company.website | remove:'http://' | remove:'https://' | remove:'www.' | remove:'/' }}</a></td>
         </tr>
       {% endfor %}
     </tbody>
