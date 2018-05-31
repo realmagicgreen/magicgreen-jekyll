@@ -1,7 +1,7 @@
 ---
-layout: post_index_category
+layout: resources
 title: Resources
 category: resources
-description: To solve big problems we need resources. Here is who can help and who is worth supporting.
+description: To solve big problems we need resources. These organizations are doing the right thing and can help. Make a wise choice and support them.
 image: /assets/p/posts/resources/og.jpg
 ---

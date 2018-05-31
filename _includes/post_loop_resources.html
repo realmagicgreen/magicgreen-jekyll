@@ -9,36 +9,54 @@
 
 </div>
 
-<div class="">
+<div id="brands" class="responsive_table_bock">
 
-    <table class="green_pages_table">
-        <tbody>
+  <input class="search input" placeholder="Search" />
+  <button class="sort button" data-sort="products">
+    Sort by Products
+  </button>
 
-        <tr class="green_pages_table_header_row">
-          <td>Brand</td>
-          <td>Products</td>
-          <td>Website</td>
+  <table class="green_pages_table">
+
+    <thead>
+      <tr class="green_pages_table_header_row">
+        <td>Brand</td>
+        <td>Products</td>
+        <td>Website</td>
+      </tr>
+    </thead>
+
+    <tbody class="list">
+      {% for company in site.data.companies %}
+        <tr class="green_pages_table_row">
+          <td class="brand">{{ company.brand }}</td>
+          <td class="products">{{ company.products }}</td>
+          <td><a class="sober_link " href="{{ company.website}}">{{ company.website | remove:'http://' | remove:'https://' | remove:'www.' | remove:'/' }}</a></td>
         </tr>
+      {% endfor %}
+    </tbody>
 
-
-        {% for company in site.data.companies  %}
-          <tr class="green_pages_table_row">
-            <td>{{ company.brand }}</td>
-            <td>{{ company.products }}</td>
-            <td><a href="{{ company.website}}">{{ company.website | remove:'http://' | remove:'https://' | remove:'www.' | remove:'/' }}</a></td>
-          </tr>
-        {% endfor %}
-      </tbody>
-    </table>
+  </table>
 
 </div>
-<!--
-brand:
-website:
-products:
-email:
-telephone:
-address:
-location:
-country:
--->
+
+{% include script_list.html %}
+<script>
+  var options = {
+    valueNames: [ 'brand', 'products' ]
+  };
+
+  var userList = new List('brands', options);
+</script>
+
+{% comment %}
+DB Fields:
+brand
+website
+products
+email
+telephone
+address
+location
+country
+{% endcomment %}

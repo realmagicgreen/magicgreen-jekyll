@@ -6,6 +6,10 @@
 
   {% include head.html %}
 
+  {% comment %}
+  same as layouts/post_index_category
+  {% endcomment %}
+
   <body class="index {{page.title | slugify}} {% if site.menu %}{{ site.menu }}{% endif %} index">
 
     {% include svg/defs.html %}
@@ -16,7 +20,7 @@
 
       <div class="container" role="main">
 
-        {% include post_loop_category.html %}
+        {% include post_loop_resources.html %}
 
       </div>
 
