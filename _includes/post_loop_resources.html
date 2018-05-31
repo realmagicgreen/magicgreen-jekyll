@@ -15,6 +15,9 @@
   <button class="sort button" data-sort="products">
     Sort by Products
   </button>
+  <button class="sort button" data-sort="brand">
+    Sort by Brand
+  </button>
 
   <table class="green_pages_table">
 
@@ -39,6 +42,10 @@
   </table>
 
 </div>
+
+{% comment %}
+the followinf script must stay here, when moved to layout/resources.html somehow sorting work only once, weird!
+{% endcomment %}
 
 {% include script_list.html %}
 <script>

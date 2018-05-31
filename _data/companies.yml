@@ -1,79 +1,52 @@
-- brand: Byebye Plastic Bags
-  products: Events
-  website: http://www.byebyeplasticbags.org/
+- brand: ASEAN biodiversity
+  products: Conservation
+  website: https://aseanbiodiversity.org/
   email: 
   telephone: 
-  address: 
+  address: 3/F ERDB Bldg. UPLB Forestry Campus, Los Banos 4031
   location: 
-  country: Indonesia
-
-- brand: Forest Stewardship Council
-  products: Wood Certification
-  website: https://ic.fsc.org/
-  email: info@fsc.org
-  telephone: 49 228367660
-  address: Adenauerallee 134, Bonn 53115
-  location: 
-  country: Germany
-
-- brand: Ibuku
-  products: Bamboo
-  website: http://ibuku.com/
-  email: sales@ibuku.com
-  telephone: 
-  address: 
-  location: 
-  country: Indonesia
-
-- brand: Bamboo Central
-  products: Bamboo
-  website: http://bamboocentral.org/
-  email: bamboolinda@gmail.com
-  telephone: 62 361974028
-  address: P.o. box 196, Ubud, Bali 80571
-  location: 
-  country: Indonesia
-
-- brand: Bali Green School
-  products: Education
-  website: https://www.greenschool.org/
-  email: 
-  telephone: 
-  address: Jl. Raya Sibang Kaja, Abiansemal, Badung, Bali 80352
-  location: 
-  country: Indonesia
+  country: Philippines
 
 - brand: Bali eco stay
   products: Accomodation
-  website: https://www.baliecostay.com/
+  website: https://www.baliecostay.com
   email: info@baliecostay.com
   telephone: 62 85738467596
   address: Kanciana Village, Kemetug, Gunung Salak, East Selemadeg, Tabanan, Bali 82113
   location: https://goo.gl/maps/GRiDJ7d1qrE2
   country: Indonesia
 
-- brand: ET scooter
-  products: Electric Scooters
-  website: http://etscooter.com/
-  email: info@etscooter.com
+- brand: Bali Green School
+  products: Education
+  website: https://www.greenschool.org
+  email: 
   telephone: 
-  address: 6/F Building no. 4, Jinhuafa Industry Zero, Qingquan Road, Longhua Town, Shenzhen
-  location: 
-  country: China
-
-- brand: Viar Electric Motor
-  products: Electric Scooters
-  website: https://www.e-viar.com/
-  email: marketing@viarmotor.com 
-  telephone: 62 21 65832202
-  address: Jl. Danau Agung Selatan Blok O III no. 38, Sunter Sunter Jaya, Jakarta Utara 14350
+  address: Jl. Raya Sibang Kaja, Abiansemal, Badung, Bali 80352
   location: 
   country: Indonesia
 
-- brand: Gesits
-  products: Electric Scooters
-  website: http://gesits.co.id/
-  email: info@gesits.co.id
+- brand: Big Tree Farms
+  products: Organic Products
+  website: https://bigtreefarms.com
+  email: info@bigtreefarms.com
+  telephone: 62 361 846 3327
+  address: Br. Piakan, Desa Sibangkaja, Kecamatan Abiansemal, Bali 80237
+  location: 
+  country: Indonesia
+
+- brand: Bamboo Central
+  products: Bamboo
+  website: http://bamboocentral.org
+  email: bamboolinda@gmail.com
+  telephone: 62 361974028
+  address: P.O. box 196, Ubud, Bali 80571
+  location: 
+  country: Indonesia
+
+- brand: Byebye Plastic Bags
+  products: Events
+  website: http://www.byebyeplasticbags.org
+  email: 
   telephone: 
   address: 
   location: 
@@ -81,20 +54,11 @@
 
 - brand: Coral Triangle Center
   products: Conservation
-  website: http://www.coraltrianglecenter.org/
+  website: http://www.coraltrianglecenter.org
   email: info@coraltrianglecenter.org
   telephone: 62 361 289 338
-  address: Jalan Danau Tamblingan No.78, Sanur, Denpasar Selatan, Sanur, Denpasar, Kota Denpasar, Bali 
+  address: Jl. Danau Tamblingan no.78, Sanur, Bali 
   location: https://goo.gl/maps/nMcGx43yAvQ2
-  country: Indonesia
-
-- brand: Sos From The Deep
-  products: Conservation
-  website: http://sosfromthedeep.com/
-  email: hello@sosfromthedeep.com
-  telephone: 62 361 289338
-  address: Jalan Betngandang II, 88-89 Sanur, Bali
-  location: https://goo.gl/maps/tpUYgicPzr52
   country: Indonesia
 
 - brand: Eco Bali Recycling
@@ -106,46 +70,73 @@
   location: https://goo.gl/maps/cyMAtdcmiWC2
   country: Indonesia
 
-- brand: Indonesian Waste Platform
-  products: Waste prevention and management
-  website: http://www.indonesianwaste.org/
-  email: nina@indonesianwaste.org
-  telephone: 
-  address: 
-  location: 
-  country: Indonesia
-
-- brand: Welcome Alternative Bags
-  products: Sustainable Bags
-  website: https://welcomealternativebags.com/
-  email: info@welcomealternativebags.com
-  telephone: 
-  address: 
-  location: 
-  country: Indonesia
-
-- brand: World Watch Institute
-  products: Information, fact-based analysis
-  website: http://www.worldwatch.org/
-  email: worldwatch@worldwatch.org 
-  telephone: 1 202 745-8092
-  address: 1400 16th St. NW, Ste. 430, Washington, DC 20036
-  location: 
-  country: U.S.A.
-
-- brand: Sustainable Brands 
-  products: Information
-  website: http://www.sustainablebrands.com/
+- brand: Eco Regions Indonesia
+  products: Development and Conservation
+  website: http://ecoregions.co.id
   email: 
-  telephone: 1 415 626 2212 
-  address: 3 Meacham Pl, San Francisco, CA 94109
+  telephone: 
+  address: 
   location: 
-  country: U.S.A.
+  country: Indonesia
+
+- brand: ET scooter
+  products: Electric Scooters
+  website: http://etscooter.com
+  email: info@etscooter.com
+  telephone: 
+  address: 6/F Building no. 4, Jinhuafa Industry Zero, Qingquan Rd., Longhua Town, Shenzhen
+  location: 
+  country: China
+
+- brand: Forest Stewardship Council
+  products: Wood Certification
+  website: https://ic.fsc.org
+  email: info@fsc.org
+  telephone: 49 228367660
+  address: Adenauerallee 134, Bonn 53115
+  location: 
+  country: Germany
+
+- brand: Gesits
+  products: Electric Scooters
+  website: http://gesits.co.id
+  email: info@gesits.co.id
+  telephone: 
+  address: 
+  location: 
+  country: Indonesia
+
+- brand: Ibuku
+  products: Bamboo
+  website: http://ibuku.com
+  email: sales@ibuku.com
+  telephone: 
+  address: 
+  location: 
+  country: Indonesia
 
 - brand: Lampbond Indonesia
   products: LED bulbs
   website: https://www.lampbond1ndonesia.com
   email: 
+  telephone: 
+  address: 
+  location: 
+  country: Indonesia
+
+- brand: Numbeo
+  products: Cost of living database
+  website: https://www.numbeo.com/
+  email: 
+  telephone: 
+  address: 
+  location: 
+  country: 
+
+- brand: Indonesian Waste Platform
+  products: Waste prevention and management
+  website: http://www.indonesianwaste.org
+  email: nina@indonesianwaste.org
   telephone: 
   address: 
   location: 
@@ -160,21 +151,30 @@
   location: 
   country: Singapore
 
-- brand: Eco Regions Indonesia
-  products: Development and Conservation
-  website: http://ecoregions.co.id/
+- brand: Plants For A Future
+  products: Plants database
+  website: https://pfaf.org
   email: 
   telephone: 
   address: 
   location: 
+  country: 
+
+- brand: Sos From The Deep
+  products: Conservation
+  website: http://sosfromthedeep.com
+  email: hello@sosfromthedeep.com
+  telephone: 62 361 289338
+  address: Jl. Betngandang II no. 88-89, Sanur, Bali
+  location: https://goo.gl/maps/tpUYgicPzr52
   country: Indonesia
 
-- brand: Trash hero
-  products: Trash collection and information
-  website: https://trashhero.org/
+- brand: Sustainable Brands 
+  products: Information
+  website: http://www.sustainablebrands.com
   email: 
-  telephone: 
-  address: 
+  telephone: 1 415 626 2212 
+  address: 3 Meacham Pl, San Francisco, CA 94109
   location: 
-  country: Indonesia
+  country: U.S.A.
 
