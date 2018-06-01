@@ -86,6 +86,8 @@ exclude:
   - Rakefile
   - README
   - dev.md
+  - magicgreen-ab82b0150ffc.json
+  - getdata.js
 
 permalink: /:title/ # pretty
 
