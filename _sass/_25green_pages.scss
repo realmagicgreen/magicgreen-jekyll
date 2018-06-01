@@ -7,14 +7,16 @@
   width: 100%;
 
   tbody td {
-    font-size: 86%;
+    //font-size: 86%;
+    @include responsive-font(4.53125vw, 14px, 24px, 14px);
     vertical-align: middle;
     margin: 0;
     padding: 0;
     border: 0;
     padding-left: 10px;
     @include media("screen", ">minWidth") {
-      font-size: 96%;
+      //font-size: 96%;
+      @include responsive-font(2vw, 13px, 24px, 15px);
     }
   }
 

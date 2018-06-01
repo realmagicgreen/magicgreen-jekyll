@@ -24,7 +24,7 @@
       content: attr(data-th) "";
       display: inline-block;
       font-weight: $base_font_weight;
-      font-size: 70%;
+      font-size: 65%; // this refers to the already responsive size of parent!
       padding-top: $space--small/2;
       width: 18%;
       @include media("screen", ">minWidth") {
