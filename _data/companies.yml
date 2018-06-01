@@ -34,15 +34,6 @@
   location: 
   country: Indonesia
 
-- brand: Big Tree Farms
-  products: Organic Products
-  website: https://bigtreefarms.com
-  email: info@bigtreefarms.com
-  telephone: 62 361 846 3327
-  address: Br. Piakan, Desa Sibangkaja, Kecamatan Abiansemal, Bali 80237
-  location: 
-  country: Indonesia
-
 - brand: Byebye Plastic Bags
   products: Events
   website: http://www.byebyeplasticbags.org
@@ -52,13 +43,13 @@
   location: 
   country: Indonesia
 
-- brand: Coral Triangle Center
-  products: Conservation
-  website: http://www.coraltrianglecenter.org
-  email: info@coraltrianglecenter.org
-  telephone: 62 361 289 338
-  address: Jl. Danau Tamblingan no.78, Sanur, Bali 
-  location: https://goo.gl/maps/nMcGx43yAvQ2
+- brand: Big Tree Farms
+  products: Organic Products
+  website: https://bigtreefarms.com
+  email: info@bigtreefarms.com
+  telephone: 62 361 846 3327
+  address: Br. Piakan, Desa Sibangkaja, Kecamatan Abiansemal, Bali 80237
+  location: 
   country: Indonesia
 
 - brand: Eco Bali Recycling
@@ -68,6 +59,15 @@
   telephone: 62 82237799819
   address: Jl. Raya Padonan, Tibubeneng, Kuta Utara, Bali 80361
   location: https://goo.gl/maps/cyMAtdcmiWC2
+  country: Indonesia
+
+- brand: Coral Triangle Center
+  products: Conservation
+  website: http://www.coraltrianglecenter.org
+  email: info@coraltrianglecenter.org
+  telephone: 62 361 289 338
+  address: Jl. Danau Tamblingan no.78, Sanur, Bali 
+  location: https://goo.gl/maps/nMcGx43yAvQ2
   country: Indonesia
 
 - brand: Eco Regions Indonesia
@@ -178,15 +178,6 @@
   location: 
   country: U.S.A.
 
-- brand: Ted
-  products: Conferences, Information
-  website: https://ted.com
-  email: 
-  telephone: 
-  address: 
-  location: 
-  country: U.S.A.
-
 - brand: The Plant List
   products: Plants database
   website: http://www.theplantlist.org
@@ -195,6 +186,15 @@
   address: 
   location: 
   country: 
+
+- brand: Ted
+  products: Conferences, Information
+  website: https://ted.com
+  email: 
+  telephone: 
+  address: 
+  location: 
+  country: U.S.A.
 
 - brand: Trash hero
   products: Trash Collection, Information
@@ -232,6 +232,15 @@
   location: 
   country: 
 
+- brand: Nazava Water Filters
+  products: Water Filters
+  website: https://www.nazava.com/
+  email: info@nazava.com
+  telephone: 
+  address: 
+  location: 
+  country: Indonesia
+
 - brand: World Watch Institute
   products: Information, Fact analysis
   website: http://www.worldwatch.org
@@ -240,4 +249,139 @@
   address: 1400 16th St. NW, Ste. 430, Washington DC 20036
   location: 
   country: U.S.A.
+
+- brand: Ubud Organic Market
+  products: Organic Products
+  website: http://www.ubudorganicmarket.com/
+  email: 
+  telephone: 
+  address: Jl. Pengosekan, Ubud, Bali
+  location: https://goo.gl/maps/YdVNTjebzXB2
+  country: Indonesia
+
+- brand: ChokChok Chocolate
+  products: Organic Chocolate
+  website: http://chokchokchocolate.com/
+  email: info@chokchokchocolate.com
+  telephone: 62 819 16337753 
+  address: 
+  location: 
+  country: Indonesia
+
+- brand: The Organic Farm Bali
+  products: Organic Products
+  website: http://www.theorganicfarmbali.com/
+  email: marjan@theorganicfarmbali.com
+  telephone: 62 852 37950255
+  address: JL. Munduk Lumbang, Angseri, Baturiti, Tabanan, 82191 Bali
+  location: https://goo.gl/maps/HNHLcfNXDyk
+  country: Indonesia
+
+- brand: Bali Buda
+  products: Organic Products
+  website: http://www.balibuda.com/
+  email: 
+  telephone: 
+  address: Jl Pura Puseh #3, Br. Denjalan, Batu Bulan, Gianyar
+  location: 
+  country: Indonesia
+
+- brand: Bali Organic Association
+  products: Organic Products
+  website: 
+  email: yayasan_boa@yahoo.com
+  telephone: 62 87860131485
+  address: Jl Cargo Sari II no.6, Br Uma Sari, Ubung Kaja,Denpasar, Bali
+  location: 
+  country: Indonesia
+
+- brand: Down To Earth
+  products: Organic Food Distibution
+  website: http://www.downtoearthbali.com/
+  email: info@downtoearthbali.com
+  telephone: 62 361 736645
+  address: Jl. Lesmana/Oberoi No. 99, Seminyak, Bali 80361
+  location: 
+  country: Indonesia
+
+- brand: Earth Cafe & Market
+  products: Organic Products
+  website: http://www.earthcafebali.com/
+  email: 
+  telephone: 62 851 008 355 45
+  address: Jl. Goutama Selatan, Ubud, Bali
+  location: https://goo.gl/maps/zSfXaoEtih42
+  country: Indonesia
+
+- brand: Zula Bali
+  products: Organic, Vegetarian Food
+  website: http://www.zulabali.com/
+  email: 
+  telephone: 62 361 8497244
+  address: Jl. Danau Tamblingan No. 150, Sanur, Bali
+  location: 
+  country: Indonesia
+
+- brand: EarthXpress
+  products: Organic, Vegan Products 
+  website: http://earthx.press/
+  email: 
+  telephone: 62 812 4696 7117
+  address: Jl. Batu Bolong 37a, Canggu, Bali
+  location: https://goo.gl/maps/FKdKEzymHFR2
+  country: Indonesia
+
+- brand: Bali Jiwa
+  products: Organic Products
+  website: https://www.balijiwa.net/
+  email: hello@balijiwa.com
+  telephone: 62 361 27 00 81
+  address: 
+  location: 
+  country: Indonesia
+
+- brand: Awani
+  products: Fruit Jam, Conserves
+  website: https://awani.com/
+  email: enquiries.uk@awani.com
+  telephone: 44 746 265 8077
+  address: Unit 23, 222 Kensal Road, London W10 5BN
+  location: 
+  country: U.K.
+
+- brand: Emas Hitam
+  products: Ecological Solutions
+  website: http://emashitam.org/
+  email: emas.hitam.indonesia@gmail.com
+  telephone: 
+  address: C/O Outpost, Jl. Raya Nyuh Kuning, Ubud, Gianyar,Bali 80571
+  location: 
+  country: Indonesia
+
+- brand: Verdure Bali
+  products: Healthy Products
+  website: http://www.verdurebali.com/
+  email: info@verdurebali.com
+  telephone: 62 818 0279 6888
+  address: 
+  location: 
+  country: Indonesia
+
+- brand: Divine Earth Bali
+  products: Vegan Food, Cinema
+  website: http://www.divineearthbali.com/
+  email: info@divineearthbali.com
+  telephone: 62 361 731964
+  address: JL. Raya Basangkasa�, 1200A, Seminyak, Bali�
+  location: https://goo.gl/maps/tsrd3dmjdD72
+  country: Indonesia
+
+- brand: Paradiso Ubud
+  products: Organic, Vegan, Theatre
+  website: http://www.paradisoubud.com/
+  email: 
+  telephone: 
+  address: Jl. Gautama Selatan, Ubud - Bali
+  location: https://goo.gl/maps/ji76KsYEAt32
+  country: Indonesia
 

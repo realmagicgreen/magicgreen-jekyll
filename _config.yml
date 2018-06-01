@@ -2,11 +2,11 @@ title: Magic Green # capitalized for seo reasons!
 subtitle: Sustainable and environment-friendly examples from Bali and beyond.
 content_is_about: Going Green # general content of website, used in footer menu title
 description: > # this means to ignore newlines until "baseurl:"
-  Magic Green is a showcase of examples, infos and addresses of all stuff green related in Bali and beyond.
+  Magic Green magazine is a showcase of examples, infos and addresses of all stuff green related in Bali and beyond.
 keywords: magazine, natural, nature-friendly, magic-green, sustainable business practises, environment-friendly, renewable-energy, low-impact, Bali, Indonesia, south east Asia, environment-conscious, wise, minimal impact, healthy, water purification techniques, communication platform, green news,
 lang: en
-version: 0.3.0
-words_per_minute: 160
+version: 0.4.0
+words_per_minute: 160 #not working / not used | 2b fixed
 
 # site architecture
 baseurl: ""
