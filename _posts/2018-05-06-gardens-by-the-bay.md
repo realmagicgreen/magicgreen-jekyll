@@ -42,6 +42,8 @@ We aim to be a model for sustainable development and conservation.
 
 Underlying the concept of Gardens by the Bay are the principles of environmental sustainability. Much effort was made to plan and design for sustainable cycles in energy and water throughout Bay South Garden.
 
+{% include image.html name="-02" caption="" %}
+
 **Energetics of the conservatories**
 
 Comprising two glass biomes, the Conservatories replicate the cool-dry climate of the Mediterranean and semi-arid sub-tropical regions and the cool-moist climate of the Tropical Montane region. They house a diverse collection of plants that are not commonly seen in this part of the world and are of high conservation value.
@@ -66,7 +68,7 @@ The Conservatories apply the strategy of cooling only the lower levels, thus red
 
 To reduce the amount of energy required in the cooling process, the air in Flower Dome is de-humidified by liquid desiccant (drying agent) before it is cooled. This desiccant is recycled using the waste heat from the burning of the biomass.
 
-
+{% include image.html name="-03" caption="" %}
 
 **4) Generating energy and harnessing waste heat**
 
@@ -110,7 +112,11 @@ More than a scenic treat, the lakes are a rich source of aquatic life from fish 
 
 ## World of plants
 
-In this realm of lush greenery you can learn all about the spectacular myriad of tropical plants and the systems these plants support. Find out how plants disperse their seeds, how mushrooms benefit rainforest communities and how plants adapt to adverse environments. Enjoy the sights of flowers and fruits in bloom, learn how to identify different tree species and even see some of the most primitive plants in the world! More on [World of plants](http://www.gardensbythebay.com.sg/en/attractions/world-of-plants/visitor-information.html)
+In this realm of lush greenery you can learn all about the spectacular myriad of tropical plants and the systems these plants support. Find out how plants disperse their seeds, how mushrooms benefit rainforest communities and how plants adapt to adverse environments.
+
+{% include image.html name="-04" caption="" %}
+
+Enjoy the sights of flowers and fruits in bloom, learn how to identify different tree species and even see some of the most primitive plants in the world! More on [World of plants](http://www.gardensbythebay.com.sg/en/attractions/world-of-plants/visitor-information.html)
 
 ## The canyon
 
