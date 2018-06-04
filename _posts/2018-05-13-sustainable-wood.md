@@ -4,7 +4,7 @@ subtitle: Forest Stewardship Council is demonstrating responsible forest supply 
 description: #
 category: services
 tags:  certification eco-entrepreneurs environment-friendly responsible-sources save-trees  social-responsibility wood
-sticky: 
+sticky:
 image: /assets/p/posts/services/sustainable-wood/sustainable-wood.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces
@@ -22,6 +22,8 @@ That’s why FSC certification exists. Whether you’re a forest manager, produc
 
 Being FSC certified means that your forest, or supply chain, is managed responsibly; that you comply with our environmental, social, and economic standards. This covers much more than the trees themselves, among other things, it makes sure that local communities are respected, protects the habitats of endangered plant and animal species, and ensures workers are properly paid.
 
+{% include image.html name="-02" caption="Look for the logo before your next purchase" %}
+
 When you become certified, your product can carry an [FSC label](https://ic.fsc.org/en/for-business/business-benefits/fsc-labels). It is a trusted symbol that shows consumers and businesses that you are sustainably managing either your forest, by preserving it for future generations, or supply chain operations. It is public recognition of your responsibility.
 
 ### Why should you choose FSC certification?
@@ -29,6 +31,8 @@ When you become certified, your product can carry an [FSC label](https://ic.fsc.
 We are not the only forest management system, but our certification is credible, which, in turn, helps protect your brand and reputation. More and more organizations and governments specify FSC-certified materials must be used in procurement processes.
 
 Meanwhile, WWF even recommends FSC certification to consumers, forest managers, and businesses. Why? Because FSC is trusted not just by NGOs. FSC certification is the most widely adopted framework among Fortune 500 companies.
+
+{% include image.html name="-03" caption="Types of certification" %}
 
 Aside from showing the world your commitment to responsible forestry, FSC certification has other [business benefits](https://ic.fsc.org/en/benefits-for-business): it’s been proven that many businesses can receive financial benefits from being FSC certified (according to this [WWF cost-benefit report](http://wwf.panda.org/wwf_news/?250330)).
 
