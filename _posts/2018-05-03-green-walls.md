@@ -13,6 +13,15 @@ featured: true # use 'true' to have it displayed in home
 pinned: # pinned to top 'true' or empty
 photography: # put here photographer name
 ---
-Green walls are not only visually pleasant, but naturally absorb CO2 and other pollutants thus cleaning the air. Let's not forget that trees, and green in general, created the oxygen in our atmosphere.
+Green walls are not only visually pleasant, but naturally absorb CO2 and other pollutants thus cleaning the air.
+
+{% include image.html name="-02" caption="Singapore Raffles Hospital" %}
+
+Let's not forget that trees, and green in general, created the oxygen in our atmosphere.
+
+{% include image.html name="-03" caption="Singapore Orchard Mall rooftop" %}
 
 While this solution is picking up quickly in many metropolitan areas for the specific work they do for us, in Bali too we have some, like this one in Sanur.
+
+
+{% include image.html name="" caption="Bali, Sanur" %}
