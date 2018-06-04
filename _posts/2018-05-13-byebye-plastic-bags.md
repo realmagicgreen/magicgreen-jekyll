@@ -17,10 +17,15 @@ Byebye plastic bags is an initiative from children to force all the people to sa
 
 It was invented of two young women, Melati and Isabel Wijtsen. They have a vision of a plastic bag free world where the young generation takes care and take action. They want to ban the use, sale and production of plastic bags.
 
+{% include image.html name="-02" caption="Melati and Isabel in a typical Bali small shop" %}
+
+
 They have some sponsors and partners, but mostly they are living from donations. You too can be part of the movement, if you join or build your own BBPB team. Start by signing in at their [website](http://www.byebyeplasticbags.org). Or go straight to [donate to their non-profit Yayasan Bumi Indah](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FDNL9X89B8EPC).
 
 To get Bali free of plastic bags is such a great idea, but maybe harder to reach than they first thought. They promised to get Bali free in 2018, what is definitely not the case. Most of the people do not look around that much and only see the very easy handling of plastic bags.
 Hopefully the girls find some good new solutions to get there vision come true.
+
+{% include image.html name="-03" caption="These young people just cleaned the beach" %}
 
 The first important step they reckon is to educate people about the damage plastic bags brings to our environment and also how you can be part of the solution. They launched a lot of projects.
 
@@ -42,9 +47,14 @@ River booms collect trash that would otherwise flow into the ocean or get stuck 
 Women from a mountain village in Bali are making alternative bags, using collected and donated cloth materials. The bags will be sold across Bali retailers. For every one bag sold, one bag will be donated to a local community member.
 
 
+
 ### Education Booklet
 
-In 2014, BBPB completed version 1 of their educational booklet for primary aged students to learn about the harms of plastic. It was distributed throughout schools in Indonesia. An updated Version 2 of the booklet is to be published and distributed in 2018. [Educational booklet - PDF](https://drive.google.com/file/d/0Bxg4eo4M4UbeYmhxREI1cXJIY3c/view)
+In 2014, BBPB completed version 1 of their educational booklet for primary aged students to learn about the harms of plastic.
+
+{% include image.html name="-04" caption="The plastic problem in numbers" %}
+
+It was distributed throughout schools in Indonesia. An updated Version 2 of the booklet is to be published and distributed in 2018. [Educational booklet - PDF](https://drive.google.com/file/d/0Bxg4eo4M4UbeYmhxREI1cXJIY3c/view)
 
 
 
