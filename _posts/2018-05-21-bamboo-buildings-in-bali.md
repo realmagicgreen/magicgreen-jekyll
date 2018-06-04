@@ -20,11 +20,18 @@ Bamboo, technically a grass, has been used in building for centuries due to its 
 
 Bamboo is not seen as the poor man's timber anymore. Not far from the smoggy Bali capital Denpasar new ambitious bamboo projects are growing, mostly driven by eco-conscious foreigners and big resorts.
 
+{% include image.html name="-05" caption="The Green Village Bali entrance bridge" %}
+
 >"Bamboo is unmatched as a sustainable building material. What it can do is remarkable. It grows far more quickly than timber and doesn't destroy the land it's grown on" _Ben Ripple, Big Tree Farms Bali co-founder_
 
 Resorts, school, villas and even a chocolate factory structures in the Indonesian island are putting bamboo to work, showing excellent examples of a sustainable way to build.
 
+
+{% include image.html name="" caption="Sharma Springs at Ibuku" %}
+
 Studies show construction is one of the world's least sustainable industries, eating up around half of the globe's non-renewable resources, but sustainable construction is slowly taking root around the world.
+
+{% include image.html name="-04" caption="Green School Bali" %}
 
 One reason bamboo is so environmentally-friendly is the speed at which it grows, according to Terry Sunderland, a scientist at the Centre for International Forestry Research in Indonesia.
 
@@ -33,6 +40,10 @@ One reason bamboo is so environmentally-friendly is the speed at which it grows,
 Around 200 farmers across the island are paid to grow bamboo on areas of their land not used for agriculture. Some of the largest logs are 25 meters long but only take 3 years to grow.
 
 >"Many people still think bamboo is cheap and only for small buildings, but we're showing it can be used to make high houses and really redefine how the material is used."_Terry Sunderland_
+
+
+{% include image.html name="-02" caption="Bamboo interiors and floors at
+John Hardy Jewelry Factory" %}
 
 Bamboo has its drawbacks. Without intensive treatment, it is prone to rotting and catches fire relatively easily, which is why many countries limit bamboo structures height.
 

@@ -21,6 +21,8 @@ The wood that is used for the boards is Balsa, also known as [Ocroma Pyramidale]
 
 They have local farmers, who grow the trees in East Java. They have to take care about one tree for 5-7 years to get the right size and shape. Then the trees were harvest and dry up to three month.
 
+<div>{% include image.html name="" caption="test" %}</div>
+
 Finally the tree get in the manufactory cut and the shapers start to do their work. For one board a whole moth is needed until it is totally done for you to catch the waves. The board is of course glazed, so it is only 98% natural, but they were made to last your lifetime and they promise you also can give it to your children one day.
 
 >We start by gifting Balsa plants to local famers in the region of the Bromo Volcano. As an infant tree, it is still vulnerable and needs tendering to allow the perfect growth into the next cycle. With the favorable conditions provided by the local farmers, the saplings will continue to develop into a full grown tree within a 5-7 year time period. When the trees reach their maturity stage, we return to the local farmers and purchase them trees to harvest._Vince Tierny_

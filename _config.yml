@@ -91,7 +91,6 @@ exclude:
 
 permalink: /:title/ # pretty
 
-
 collections:
   pages:
     output: true

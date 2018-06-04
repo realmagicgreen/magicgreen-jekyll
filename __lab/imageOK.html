@@ -1,0 +1,9 @@
+
+{% assign j = page.image | split: '.' %}
+{% capture i %}{{ j[0] | relative_url }}{{ include.name }}.{{ j[1] }}{% endcapture %}
+
+
+    <figure>
+        <img src="{{ i }}">
+        <figcaption>{{ include.caption }}</figcaption>
+    </figure>
