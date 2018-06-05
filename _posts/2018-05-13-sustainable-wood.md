@@ -44,18 +44,18 @@ Wood, and other tree-based products, sourced from forests can undergo many proce
 
 ### What's the certification cost?
 
-The individual certification bodies that carry out assessments on behalf of FSC each determine their own fees. There is also an [annual administration fee (AAF)](annual administration fee (AAF)) that you’ll pay through your certification body as part of your annual FSC certification audit.
+The individual certification bodies that carry out assessments on behalf of FSC each determine their own fees. There is also an [annual administration fee (AAF)](https://ic.fsc.org/en/document-center/id/308) that you’ll pay through your certification body as part of your annual FSC certification audit.
 
 The AAF was established to support the core FSC functions and services provided to certificate holders. The fee you pay is dependent on the type of certification you hold, the size, and type, of your forest area or site, and your annual turnover.
 
 
 ### Trademark licensing: an alternative to certification
 
-If you’re a retailer, media organization, or educational institution, for example, you might not want or need to become certified, but may still want to promote FSC-labelled products or FSC certification as a framework. For these situations, FSC offer [trademark licensing](FSC trademark licensing).
+If you’re a retailer, media organization, or educational institution, for example, you might not want or need to become certified, but may still want to promote FSC-labelled products or FSC certification as a framework. For these situations, FSC offer [trademark licensing](https://ic.fsc.org/en/for-business/how-to-use-fsc-trademarks).
 
 **_Resources:_**
 
-Becoming certified [steps](https://ic.fsc.org/en/for-business/3-steps-to-certification)
+Becoming certified:  [steps](https://ic.fsc.org/en/for-business/3-steps-to-certification)
 
 Forest Stewardship Council [website](https://ic.fsc.org/en)
 

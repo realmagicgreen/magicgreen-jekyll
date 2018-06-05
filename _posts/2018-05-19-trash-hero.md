@@ -18,9 +18,9 @@ So you like to talk trash huh?
 
 The Trash Hero movement is a global phenomena and is growing bigger. They [educate](https://trashhero.org/edu/) and act.
 
-In Bali too, people are taking it in their own hands. It's Sunday and at the [Bajra Sandhi Monument](https://goo.gl/maps/NB3moggeHCz) you can see a bunch of poeple wearing yellow T-shirts walking around with recycled rice bag and picking up the plastic trash.
+In Bali too, people are taking it in their own hands. It's Sunday and at the [Bajra Sandhi Monument](https://goo.gl/maps/NB3moggeHCz) you can see a bunch of people wearing yellow T-shirts walking around with recycled rice bag and picking up the plastic trash.
 
-They are part of their local group, [Trash Hero Sanur](http://chapter.trashhero.org/chapters/sanur), which is supported by the following sponsors: Asli Desain, Cafe Locca Hostel, Sweet Magnolia, the Green Team Sanur...
+They are part of their local group, [Trash Hero Sanur](http://chapter.trashhero.org/chapters/sanur), which is supported by the following sponsors: **Asli Desain, Cafe Locca Hostel, Sweet Magnolia, the Green Team Sanur**...
 
 
 
@@ -53,8 +53,6 @@ Each chapter brings together residents, businesses, government agencies, schools
 - [Trash Hero Komodo](http://chapter.trashhero.org/chapters/komodo)
 
 - [Trash Hero Sanur](http://chapter.trashhero.org/chapters/sanur)
-
-- [Trash Hero Tanjung](Trash Hero Tanjung)
 
 - [Trash Hero Ubud](http://chapter.trashhero.org/chapters/ubud)
 

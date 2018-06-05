@@ -176,7 +176,7 @@ Open from 8.30am to 7.00pm daily, it's the only section with an Admission Fee: 5
 
 ### Reflexology path
 
-Near the bamboo area you will find the reflexology path, a joint community service project by the [Rotary Club of Changi](http://www.rotarychangi.com/), the [Rotary Club of Singapore ](http://www.rotary.org.sg/)East, Rotary Club of Kaohsiung East and the Rotary Club of Sanchung East.
+Near the bamboo area you will find the reflexology path, a joint community service project by the [Rotary Club of Changi](http://www.rotarychangi.com/), the [Rotary Club of Singapore](http://rotarysingaporefoundation.org/) East, Rotary Club of Kaohsiung East and the Rotary Club of Sanchung East.
 
 {% include image.html name="-05" caption="" %}
 
