@@ -1,6 +1,6 @@
 ---
 name: Flax is a superfood
-subtitle: Plants that clean the air and absorb CO2 at night.
+subtitle: 
 description: #
 category: health
 tags: superfood

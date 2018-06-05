@@ -1,6 +1,6 @@
 ---
 name: Roads made of plastic
-subtitle: This global phenomena is growing bigger. It's happening in Bali too.
+subtitle: 
 description: #
 category: solutions
 tags: Bali environment-friendly eco-friendly Indonesia

@@ -1,6 +1,6 @@
 ---
 name: food-safe-plastic
-subtitle: Plants that clean the air.
+subtitle: 
 description: #
 category: health
 tags: wellness CO2
