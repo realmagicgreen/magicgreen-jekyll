@@ -25,13 +25,13 @@ $underline_link_color: $brand_color;
 // category_06: health
 // category_07: resources
 
-$category_01: hsla(40, 80%, 75%, .75); //services
-$category_02: hsla(60, 80%, 65%, .75); //products
-$category_03: hsla(90, 80%, 75%, .75); //techniques
-$category_04: hsla(110, 80%, 70%, .75); //solutions
-$category_05: hsla(110, 60%, 40%, .75); //know
-$category_06: hsla(200, 80%, 70%, .75); //health
-$category_07: hsla(200, 80%, 30%, .75); //resources
+$category_01: hsla(40, 80%, 75%, .75); //services rgba(242, 208, 140, 1)
+$category_02: hsla(60, 80%, 65%, .75); //products rgba(237, 237, 94, 0.75)
+$category_03: hsla(90, 80%, 75%, .75); //techniques rgba(191, 242, 140, 0.75)
+$category_04: hsla(110, 80%, 70%, .75); //solutions rgba(138, 240, 117, 0.75)
+$category_05: hsla(110, 60%, 40%, .75); //know rgba(61, 163, 41, 0.75)
+$category_06: hsla(200, 80%, 70%, .75); //health rgba(117, 199, 240, 0.75)
+$category_07: hsla(200, 80%, 30%, .75); //resources rgba(15, 97, 138, 0.75)
 
 $space: 2rem;
 $space--small: 1rem;

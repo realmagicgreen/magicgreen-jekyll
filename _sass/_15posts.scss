@@ -37,10 +37,10 @@ figure {
   > * {
     display: block;
     max-width: 100%;
-    @include media( "screen", ">bp1Width") {
+    @include media("screen", ">bp1Width") {
       max-width: calc(50% - 10px);
     }
-    @include media( "screen", ">maxWidth") {
+    @include media("screen", ">maxWidth") {
       max-width: calc(33.33% - 10px);
     }
   }
@@ -61,7 +61,8 @@ figure {
   padding: 0 $space--small;
   margin-top: $space--small/2;
   margin-bottom: $space--small;
-  .card &  {
+
+  .card & {
     margin-bottom: 0;
     height: 100%;
     display: -webkit-box;
@@ -69,11 +70,10 @@ figure {
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
 }
-
 
 .post_text_content {
   margin-top: $space/2;
@@ -83,12 +83,13 @@ blockquote p {
   font-size: 1.25rem;
   line-height: 1.25;
   padding-left: $space--small;
-  @include media( "screen", ">minWidth") {
+  @include media("screen", ">minWidth") {
     margin: 0 auto 0 10%;
     padding-left: $space;
   }
+
   em {
-    font-size: .75rem;
+    font-size: 0.75rem;
   }
 }
 
@@ -97,27 +98,35 @@ blockquote p {
   position: relative;
   width: 100%;
   color: $transparent_grey;
+
   img {
     box-shadow: $bottom_shadow;
   }
+
   .services & {
     background-color: $category_01;
   }
+
   .products & {
     background-color: $category_02;
   }
+
   .techniques & {
     background-color: $category_03;
   }
+
   .solutions & {
     background-color: $category_04;
   }
+
   .know & {
     background-color: $category_05;
   }
+
   .health & {
     background-color: $category_06;
   }
+
   .resources & {
     background-color: $category_07;
   }
@@ -127,7 +136,6 @@ blockquote p {
   position: relative;
   width: 100%;
   color: $transparent_grey;
-
   // category_01: services
   // category_02: products
   // category_03: techniques
@@ -135,30 +143,34 @@ blockquote p {
   // category_05: know
   // category_06: health
   // category_07: resources
-
   .services & {
     background-color: $category_01;
   }
+
   .products & {
     background-color: $category_02;
   }
+
   .techniques & {
     background-color: $category_03;
   }
+
   .solutions & {
     background-color: $category_04;
   }
+
   .know & {
     background-color: $category_05;
   }
+
   .health & {
     background-color: $category_06;
   }
+
   .resources & {
     background-color: $category_07;
   }
 }
-
 
 .category {
   height: 24px;
@@ -169,6 +181,7 @@ blockquote p {
   padding-left: $space--small;
   padding-right: $space--small;
   color: transparentize($black, .5);
+
   .index & {
     line-height: 18px;
   }
@@ -184,6 +197,9 @@ blockquote p {
 
 .post_header {
   margin-bottom: $space;
+  h1, h2, h3 {
+    text-transform: uppercase;
+  }
 }
 
 .post .container {

@@ -5,7 +5,6 @@
 
     <figure class="">
 
-
       {% assign f = post.image | split: '.' %}
       <img src="{{ f[0] | relative_url }}-640.{{ f[1] }}"
            srcset="{{ f[0] | relative_url }}-640.{{ f[1] }} 640w,

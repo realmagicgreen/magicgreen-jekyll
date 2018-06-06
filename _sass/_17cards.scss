@@ -18,4 +18,8 @@
     -webkit-transform: translateY(0.25em);
     transform: translateY(0.25em);
   }
+
+  h1, h3 {
+    text-transform: uppercase;
+  }
 }
