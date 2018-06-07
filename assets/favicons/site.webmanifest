@@ -1,6 +1,6 @@
 {
-    "name": "Magic Green ",
-    "short_name": "MagicGreen ",
+    "name": "Magic Green",
+    "short_name": "MagicGreen",
     "icons": [
         {
             "src": "/assets/favicons/android-chrome-36x36.png?v=180513",
@@ -50,5 +50,6 @@
     ],
     "theme_color": "#000000",
     "background_color": "#000000",
-    "display": "standalone"
+    "display": "standalone",
+    "start_url": "https:\/\/magicgreen.org"
 }
