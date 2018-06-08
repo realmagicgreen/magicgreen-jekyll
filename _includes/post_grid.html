@@ -3,9 +3,9 @@
 
 {% for post in site.posts %}
 {% unless post.publish=='notyet' %}
-    <a class="looper__link card {{ post.category }}" title="{{ post.name }}" href="{{ site.baseurl }}/{{ post.category }}/{{ post.name  | slugify }}/">
+    <a class="card {{ post.category }}" title="{{ post.name }}" href="{{ site.baseurl }}/{{ post.category }}/{{ post.name  | slugify }}/">
 
-      <div class="post_image">
+      <div class="card_post_image">
         <figure class="">
           <img  class="post_thumb" src="{{ site.baseurl }}/assets/p/posts/{{ post.category }}/{{ post.name | slugify }}.jpg" alt="{{ post.name }}" title="{{ post.name }}">
           <figcaption class="figcaption {% if post.tag %}{{ post.tag | slugify }}{% else %}{% if post.publish=="notyet" %}coming-soon{% endif %}{% endif %}">
@@ -19,7 +19,7 @@
         </div>
       </div>
 
-      <div class="post_text">
+      <div class="card_post_text">
         <h2>{{post.name}}</h2>
         <h4>{{post.subtitle}}</h4>
       </div>

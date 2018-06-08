@@ -45,10 +45,6 @@ p + h2:not(.minimal_padding),
 p + h3:not(.minimal_padding) {
   padding-top: $space;
   padding-bottom: $space;
-  // .card & {
-  //   padding-top: $space--small/2;
-  //   padding-bottom: $space--small/2;
-  // }
 }
 
 h1 + h2:not(.minimal_padding),
@@ -57,8 +53,4 @@ h2 + h5:not(.minimal_padding),
 h3 + h5:not(.minimal_padding) {
   padding-top: $space/2;
   padding-bottom: $space/2;
-  // .card & {
-  //   padding-top: $space--small/2;
-  //   padding-bottom: $space--small/2;
-  // }
 }

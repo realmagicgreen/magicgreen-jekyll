@@ -11,7 +11,7 @@ flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
 pinned: # pinned to top 'true' or empty
-photography: Rokma # put here photographer name
+photography: # put here photographer name
 ---
 Peace lilies go by the scientific name of Spathiphyllum.
 

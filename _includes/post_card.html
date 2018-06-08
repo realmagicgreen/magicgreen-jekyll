@@ -1,9 +1,11 @@
 <!--includes/post_card-->
-<a class="looper__link card {{ post.category }} {% if post.sticky %}sticky_post{% endif %}" title="{{ post.name }}" href="{{ site.baseurl }}/{{ post.category }}/{{ post.name | slugify }}/">
+<a class="card {{ post.category }} {% if post.sticky %}sticky_post{% endif %}" title="{{ post.name }}" href="{{ site.baseurl }}/{{ post.category }}/{{ post.name | slugify }}/">
 
-  <div class="post_image">
+  <div class="vertical category {{ post.category | slugify }}">{{ post.category }}</div>
 
-    <figure class="">
+  <div class="card_post_image clipped">
+
+    <figure class="clipped">
 
       {% assign f = post.image | split: '.' %}
       <img src="{{ f[0] | relative_url }}-640.{{ f[1] }}"
@@ -20,15 +22,13 @@
       {% endif %}
     </figure>
 
-    <div class="category {{ post.category | slugify }}">
-      {{ post.category }}
-    </div>
+
   </div>
 
-  <div class="post_text">
+  <div class="card_post_text">
     <h1 class="{% if post.ad %}ad_symbol{% endif %}">{{post.name}}</h1>
     <h3 class="border_top border_bottom">{{post.subtitle}}</h3>
-    <div class="post_text_content">
+    <div class="card_post_text_content">
       {{post.content | strip_html | truncatewords: 22 }}
     </div>
 

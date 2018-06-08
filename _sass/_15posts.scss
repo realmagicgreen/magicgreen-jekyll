@@ -46,37 +46,10 @@ figure {
   }
 }
 
-.looper__link {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  margin-bottom: $space;
-}
-
 .post_text {
   padding: 0 $space--small;
   margin-top: $space--small/2;
   margin-bottom: $space--small;
-
-  .card & {
-    margin-bottom: 0;
-    height: 100%;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
-  }
-}
-
-.post_text_content {
-  margin-top: $space/2;
 }
 
 blockquote p {
@@ -93,44 +66,6 @@ blockquote p {
   }
 }
 
-.post_image {
-  box-shadow: $bottom_shadow;
-  position: relative;
-  width: 100%;
-  color: $transparent_grey;
-
-  img {
-    box-shadow: $bottom_shadow;
-  }
-
-  .services & {
-    background-color: $category_01;
-  }
-
-  .products & {
-    background-color: $category_02;
-  }
-
-  .techniques & {
-    background-color: $category_03;
-  }
-
-  .solutions & {
-    background-color: $category_04;
-  }
-
-  .know & {
-    background-color: $category_05;
-  }
-
-  .health & {
-    background-color: $category_06;
-  }
-
-  .resources & {
-    background-color: $category_07;
-  }
-}
 
 .post_image_group {
   position: relative;
@@ -173,7 +108,7 @@ blockquote p {
 }
 
 .category {
-  height: 24px;
+  height: 26px;
   line-height: 20px;
   text-align: right;
   text-transform: uppercase;
@@ -181,10 +116,6 @@ blockquote p {
   padding-left: $space--small;
   padding-right: $space--small;
   color: transparentize($black, .5);
-
-  .index & {
-    line-height: 18px;
-  }
 }
 
 .border_top {
@@ -197,7 +128,10 @@ blockquote p {
 
 .post_header {
   margin-bottom: $space;
-  h1, h2, h3 {
+
+  h1,
+  h2,
+  h3 {
     text-transform: uppercase;
   }
 }
