@@ -48,8 +48,35 @@ Asphalt produced by plastic and rubber waste material is more sticky when compar
 Indonesia, with a population of 257.6 million, is the world's second-biggest source of marine plastic waste.
 
 
+### The Bali Udayana experiment
+
+**Location:**
+
+• University Udayana, Jimbaran Bali
+
+• Road besides Rektorat and Jalan Sri Ratu Mahendradatta
+
+**Length:**
+
+• Using plastic waste ± 600 m
+
+• Without plastic waste as comparison road ± 100 m
+
+**Asphalt Mixing Plant (AMP):**
+
+• Batch type with capacity 800 kg per batch)
+
+• Distance from location ± 40 km, with travel time ± 2 hours
+
+
 **_Know more:_**
 
 [Plastic rubber asphalt](https://www.tinuku.com/2017/07/plastic-rubber-asphalt.html)
 
+[Tempo article](https://en.tempo.co/read/news/2017/07/30/056895560/Govt-Begins-Building-Roads-with-Plastic-Waste-Mix-in-Bali)
+
+[Plastic Waste for Road Construction in Indonesia - PDF](http://www.earthislandph.org/wp-content/uploads/2017/10/Utilization-of-Plastic-Waste-in-Bituminous-Mixes-for-Road-Construction.pdf)
+
 [Invisibles plastics](https://orbmedia.org/stories/invisibles_plastics/images)
+
+[sustainable roads](https://www.dow.com/en-us/news/press-releases/building-sustainable-roads-dow-strengthens-indonesias-plastics-waste-management-efforts)
