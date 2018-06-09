@@ -79,21 +79,21 @@
   location: 
   country: Indonesia
 
-- brand: Byebye Plastic Bags
-  products: Events
-  website: http://www.byebyeplasticbags.org
-  email: 
-  telephone: 
-  address: 
-  location: 
-  country: Indonesia
-
 - brand: Big Tree Farms
   products: Organic Products
   website: https://bigtreefarms.com
   email: info@bigtreefarms.com
   telephone: 62 361 846 3327
   address: Br. Piakan, Desa Sibangkaja, Kecamatan Abiansemal, Bali 80237
+  location: 
+  country: Indonesia
+
+- brand: Byebye Plastic Bags
+  products: Events
+  website: http://www.byebyeplasticbags.org
+  email: 
+  telephone: 
+  address: 
   location: 
   country: Indonesia
 
@@ -115,15 +115,6 @@
   location: https://goo.gl/maps/nMcGx43yAvQ2
   country: Indonesia
 
-- brand: Down To Earth
-  products: Organic Food Distibution
-  website: http://www.downtoearthbali.com
-  email: info@downtoearthbali.com
-  telephone: 62 361 736645
-  address: Jl. Lesmana/Oberoi No. 99, Seminyak, Bali 80361
-  location: 
-  country: Indonesia
-
 - brand: Divine Earth Bali
   products: Vegan Food, Cinema
   website: http://www.divineearthbali.com
@@ -131,6 +122,15 @@
   telephone: 62 361 731964
   address: JL. Raya Basangkasa�, 1200A, Seminyak, Bali�
   location: https://goo.gl/maps/tsrd3dmjdD72
+  country: Indonesia
+
+- brand: Down To Earth
+  products: Organic Food Distibution
+  website: http://www.downtoearthbali.com
+  email: info@downtoearthbali.com
+  telephone: 62 361 736645
+  address: Jl. Lesmana/Oberoi No. 99, Seminyak, Bali 80361
+  location: 
   country: Indonesia
 
 - brand: Earth Cafe & Market
@@ -330,6 +330,15 @@
   address: 
   location: 
   country: 
+
+- brand: Satvika Bhoga
+  products: Organic shop
+  website: https://satvikabhoga.wordpress.com
+  email: satvikabhoga@gmail.com
+  telephone: 62 361 284055
+  address: Jl. Hang Tuah No.9c, Sanur, Bali 80227
+  location: https://goo.gl/maps/BoG56fCJG4D2
+  country: Indonesia
 
 - brand: Singapore Botanic Gardens
   products: Conservation, Education

@@ -5,8 +5,8 @@ description: #
 category: techniques
 tags: Bali design environment-friendly glass Indonesia learning social-responsibility up-cycle
 image: /assets/p/posts/techniques/up-cycled-glass/up-cycled-glass.jpg
-show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
-home_slideshow_caption: up-cycled # lowercase, max 12 digits, including spaces
+show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
+home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home

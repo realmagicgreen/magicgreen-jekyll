@@ -5,12 +5,12 @@ description: #
 category: products
 tags: Bali design environment-friendly eco-friendly Indonesia sustainable-construction social-responsibility
 image: /assets/p/posts/products/balsa-wood-surfboards/balsa-wood-surfboards.jpg
-show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
-home_slideshow_caption: # lowercase, max 12 digits, including spaces
+show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
+home_slideshow_caption: Balsa Boards # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: true # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-pinned: # pinned to top 'true' or empty
+pinned:  # pinned to top 'true' or empty
 photography: # put here photographer name
 ---
 Surfing is one of the most environment-friendly sports , because of the love to the ocean every surfer keeps. But there is also a side of it thats not eco-friendly at all: the equipment. Everything is made out of plastic and the boards are mostly out of foam with epoxy, what is not very green.
