@@ -61,24 +61,6 @@
   location: 
   country: Indonesia
 
-- brand: Bamboo Central
-  products: Bamboo
-  website: http://bamboocentral.org
-  email: bamboolinda@gmail.com
-  telephone: 62 361974028
-  address: P.O. box 196, Ubud, Bali 80571
-  location: 
-  country: Indonesia
-
-- brand: Big Tree Farms
-  products: Organic Products
-  website: https://bigtreefarms.com
-  email: info@bigtreefarms.com
-  telephone: 62 361 846 3327
-  address: Br. Piakan, Desa Sibangkaja, Kecamatan Abiansemal, Bali 80237
-  location: 
-  country: Indonesia
-
 - brand: Bali Organic Association
   products: Organic Products
   website: 
@@ -88,12 +70,30 @@
   location: 
   country: Indonesia
 
+- brand: Bamboo Central
+  products: Bamboo
+  website: http://bamboocentral.org
+  email: bamboolinda@gmail.com
+  telephone: 62 361974028
+  address: P.O. box 196, Ubud, Bali 80571
+  location: 
+  country: Indonesia
+
 - brand: Byebye Plastic Bags
   products: Events
   website: http://www.byebyeplasticbags.org
   email: 
   telephone: 
   address: 
+  location: 
+  country: Indonesia
+
+- brand: Big Tree Farms
+  products: Organic Products
+  website: https://bigtreefarms.com
+  email: info@bigtreefarms.com
+  telephone: 62 361 846 3327
+  address: Br. Piakan, Desa Sibangkaja, Kecamatan Abiansemal, Bali 80237
   location: 
   country: Indonesia
 
@@ -115,15 +115,6 @@
   location: https://goo.gl/maps/nMcGx43yAvQ2
   country: Indonesia
 
-- brand: Divine Earth Bali
-  products: Vegan Food, Cinema
-  website: http://www.divineearthbali.com
-  email: info@divineearthbali.com
-  telephone: 62 361 731964
-  address: JL. Raya Basangkasa�, 1200A, Seminyak, Bali�
-  location: https://goo.gl/maps/tsrd3dmjdD72
-  country: Indonesia
-
 - brand: Down To Earth
   products: Organic Food Distibution
   website: http://www.downtoearthbali.com
@@ -131,6 +122,15 @@
   telephone: 62 361 736645
   address: Jl. Lesmana/Oberoi No. 99, Seminyak, Bali 80361
   location: 
+  country: Indonesia
+
+- brand: Divine Earth Bali
+  products: Vegan Food, Cinema
+  website: http://www.divineearthbali.com
+  email: info@divineearthbali.com
+  telephone: 62 361 731964
+  address: JL. Raya Basangkasa�, 1200A, Seminyak, Bali�
+  location: https://goo.gl/maps/tsrd3dmjdD72
   country: Indonesia
 
 - brand: Earth Cafe & Market
@@ -232,6 +232,15 @@
   location: 
   country: 
 
+- brand: Gringgo
+  products: Waste App
+  website: https://gringgo.co/
+  email: info@gringgo.co
+  telephone: 
+  address: Jl. Sunset Road No. 28, Seminyak, Kuta, Bali 80361
+  location: 
+  country: Indonesia
+
 - brand: Ibuku
   products: Bamboo
   website: http://ibuku.com
@@ -258,6 +267,24 @@
   address: 
   location: 
   country: Indonesia
+
+- brand: Mission Blue
+  products: Save ocean, Information
+  website: https://mission-blue.org/
+  email: 
+  telephone: 01 707 492-6866
+  address: P.O. Box 6882, Napa, CA 94581
+  location: 
+  country: U.S.A.
+
+- brand: Mongabay
+  products: Conservation news
+  website: http://www.mongabay.co.id/
+  email: mongabay@mongabay.com
+  telephone: 
+  address: 
+  location: 
+  country: 
 
 - brand: Mute Garage Bali
   products: Electric Scooters rent
@@ -286,15 +313,6 @@
   location: 
   country: 
 
-- brand: Plants for a Future
-  products: Plants Database
-  website: https://pfaf.org
-  email: 
-  telephone: 
-  address: 
-  location: 
-  country: 
-
 - brand: Paradiso Ubud
   products: Organic, Vegan, Theatre
   website: http://www.paradisoubud.com
@@ -303,6 +321,15 @@
   address: Jl. Gautama Selatan, Ubud - Bali
   location: https://goo.gl/maps/ji76KsYEAt32
   country: Indonesia
+
+- brand: Plants for a Future
+  products: Plants Database
+  website: https://pfaf.org
+  email: 
+  telephone: 
+  address: 
+  location: 
+  country: 
 
 - brand: Singapore Botanic Gardens
   products: Conservation, Education
