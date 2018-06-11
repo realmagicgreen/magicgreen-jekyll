@@ -5,8 +5,11 @@
   border-spacing: 0;
   min-width: 100%;
   width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 20px;
 
-  tbody td {
+  tbody td,
+  thead td {
     //font-size: 86%;
     @include responsive-font(4.53125vw, 14px, 24px, 14px);
     vertical-align: middle;
@@ -15,27 +18,87 @@
     border: 0;
     padding-left: 10px;
     @include media("screen", ">minWidth") {
-      //font-size: 96%;
       @include responsive-font(2vw, 13px, 24px, 15px);
+    }
+
+    &.address {
+      @include responsive-font(2vw, 13px, 24px, 15px);
+
+      &:before {
+        @include responsive-font(2vw, 13px, 24px, 15px);
+      }
+    }
+
+    &.email,
+    &.location,
+    &.telephone,
+    &.website {
+      display: inline-block;
+
+      &:before {
+        display: none;
+      }
+
+      a {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        margin-bottom: 10px;
+      }
+      @include media("screen", ">minWidth") {
+        display: table-cell;
+      }
+    }
+
+    &:empty {
+      display: none;
+      @include media("screen", ">minWidth") {
+        display: table-cell;
+      }
     }
   }
 
   td:last-child {
     text-align: right;
+
+    a {
+      padding-right: 20px;
+    }
+
     a:after {
       display: none;
     }
+
     a:hover:after {
-      display: inline-block;
-      width: .9rem;
-      height: .9rem;
-      top: 0.15rem;
-      margin-right: 5px;
+      display: none;
     }
   }
 
   .brand {
     font-weight: $semibold_font_weight;
+  }
+
+  a[target="_blank"]:after {
+    display: none;
+
+    &:focus,
+    &:hover {
+      display: none;
+    }
+  }
+
+  svg {
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 32px;
+    height: 32px;
   }
 }
 
@@ -50,12 +113,19 @@
 
 .green_pages_table_header_row {
   font-weight: $semibold_font_weight;
-  // padding-bottom: 8px; //not working
-  // margin-bottom: 8px; //not working
-  line-height: 2;
+  line-height: 3;
+
+  td {
+    text-transform: uppercase;
+  }
 }
 
-.green_pages_table_row:nth-child(odd) td {
+.green_pages_table_row {
+  //tr
+}
+
+.green_pages_table_row:nth-child(odd) {
+  //tr
   background-color: transparentize($brand_color, .75);
 }
 
@@ -63,8 +133,14 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
   flex-direction: column;
   @include media("screen", ">minWidth") {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
     flex-direction: row;
     -webkit-box-pack: center;
     -ms-flex-pack: center;
@@ -107,4 +183,11 @@
   position: relative;
   top: -4px;
   right: -3px;
+}
+
+.hide_on_phones {
+  display: none!important;
+  @include media("screen", ">minWidth") {
+    display: table-cell;
+  }
 }

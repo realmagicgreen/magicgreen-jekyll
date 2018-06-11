@@ -10,13 +10,13 @@ html {
   -webkit-font-smoothing: antialiased;
   font-family: $font-family;
   font-size: $base_font_size--tiny;
-  @include media( "screen", ">minWidth") {
+  @include media("screen", ">minWidth") {
     font-size: $base_font_size--min;
   }
-  @include media( "screen", ">bp1Width") {
+  @include media("screen", ">bp1Width") {
     font-size: $base_font_size--bp1;
   }
-  @include media( "screen", ">maxWidth") {
+  @include media("screen", ">maxWidth") {
     font-size: $base_font_size--max;
   }
   line-height: $base_line_height;
@@ -58,7 +58,7 @@ body {
 // }
 
 .hide {
-  display: none;
+  display: none!important;
 }
 
 .group:after,
@@ -70,7 +70,6 @@ body {
 .group:after {
   clear: both;
 }
-
 
 img {
   width: 100%;
@@ -88,10 +87,8 @@ svg {
   position: relative;
   z-index: 8;
   -webkit-box-shadow: $bottom_shadow;
-          box-shadow: $bottom_shadow;
+  box-shadow: $bottom_shadow;
 }
-
-
 //// Predefined Break-points
 // $mediaMinWidth: 640px;
 // $mediaBp1Width: 880px;
@@ -100,26 +97,23 @@ svg {
 .container {
   padding: $space--small*1.5;
   max-width: 100%;
-
-  @include media( "screen", ">minWidth") {
+  @include media("screen", ">minWidth") {
     padding: $space;
   }
-
-  @include media( "screen", ">bp1Width") {
+  @include media("screen", ">bp1Width") {
     max-width: $mediaBp1Width*1.15;
     margin: 0 auto;
   }
-
-  @include media( "screen", ">maxWidth") {
+  @include media("screen", ">maxWidth") {
     max-width: $mediaMaxWidth*1.15;
     margin: 0 auto;
   }
 
-  p,
-  .book_now {
+  .book_now,
+  p {
     margin: 0 0 0 auto;
     max-width: 100%;
-    @include media( "screen", ">minWidth"){
+    @include media("screen", ">minWidth") {
       max-width: 600px;
     }
   }
@@ -130,7 +124,7 @@ svg {
     max-width: 100%;
     margin-left: auto;
     padding-left: 20px;
-    @include media( "screen", ">minWidth"){
+    @include media("screen", ">minWidth") {
       max-width: 600px;
     }
   }
@@ -138,7 +132,7 @@ svg {
 
 .text_content {
   max-width: 960px;
-  @include media( "screen", ">bp1Width") {
+  @include media("screen", ">bp1Width") {
     margin: 0 auto;
   }
 }
@@ -148,8 +142,8 @@ svg {
 }
 
 .show_on_phones {
-  @include media( "screen", ">minWidth") {
-    display: none;
+  @include media("screen", ">minWidth") {
+    display: none!important;
   }
 }
 
@@ -166,6 +160,7 @@ blockquote p {
   white-space: nowrap;
 }
 
-.uppercased, .uppercase {
+.uppercase,
+.uppercased {
   text-transform: uppercase;
 }

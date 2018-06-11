@@ -48,6 +48,9 @@ async.series([function setAuth(step) {
           "products: " +
           row.products +
           "\n\x20\x20" +
+          "company: " +
+          row.company +
+          "\n\x20\x20" +
           "website: " +
           row.website +
           "\n\x20\x20" +

@@ -1,5 +1,6 @@
 - brand: ASEAN biodiversity
   products: Conservation
+  company: ASEAN biodiversity Nonprofit
   website: https://aseanbiodiversity.org
   email: 
   telephone: 
@@ -9,6 +10,7 @@
 
 - brand: Awani
   products: Fruit Jam, Conserves
+  company:  
   website: https://awani.com
   email: enquiries.uk@awani.com
   telephone: 44 746 265 8077
@@ -18,42 +20,47 @@
 
 - brand: Bali Buda
   products: Organic Products
+  company:  
   website: http://www.balibuda.com
   email: 
   telephone: 
-  address: Jl Pura Puseh #3, Br. Denjalan, Batu Bulan, Gianyar
+  address: Jl Pura Puseh #3, Br. Denjalan, Batu Bulan, Bali
   location: 
   country: Indonesia
 
 - brand: Bali ebikes
   products: Electric Bicycle Tours
-  website: http://www.bali-ebikes.com/
+  company:  
+  website: http://www.bali-ebikes.com
   email: info@bali-ebikes.com
   telephone: 62 813 53622250 
-  address: Jl. Suweta No. 30, Ubud - Bali
+  address: Jl. Suweta No. 30, Ubud, Bali
   location: https://goo.gl/maps/qQQ5HbwvNSH2
   country: Indonesia
 
 - brand: Bali eco stay
   products: Accomodation
+  company:  
   website: https://www.baliecostay.com
   email: info@baliecostay.com
   telephone: 62 85738467596
-  address: Kanciana Village, Kemetug, Gunung Salak, East Selemadeg, Tabanan, Bali 82113
+  address: Kanciana Village, Kemetug, Gunung Salak, Selemadeg, Bali 82113
   location: https://goo.gl/maps/GRiDJ7d1qrE2
   country: Indonesia
 
 - brand: Bali Green School
   products: Education
+  company:  
   website: https://www.greenschool.org
   email: 
   telephone: 
-  address: Jl. Raya Sibang Kaja, Abiansemal, Badung, Bali 80352
+  address: Jl. Raya Sibang Kaja, Abiansemal, Bali 80352
   location: 
   country: Indonesia
 
 - brand: Bali Jiwa
   products: Organic Products
+  company:  
   website: https://www.balijiwa.net
   email: hello@balijiwa.com
   telephone: 62 361 27 00 81
@@ -63,6 +70,7 @@
 
 - brand: Bali Organic Association
   products: Organic Products
+  company:  
   website: 
   email: yayasan_boa@yahoo.com
   telephone: 62 87860131485
@@ -72,6 +80,7 @@
 
 - brand: Bamboo Central
   products: Bamboo
+  company: Environmental Bamboo Foundation
   website: http://bamboocentral.org
   email: bamboolinda@gmail.com
   telephone: 62 361974028
@@ -81,6 +90,7 @@
 
 - brand: Big Tree Farms
   products: Organic Products
+  company:  
   website: https://bigtreefarms.com
   email: info@bigtreefarms.com
   telephone: 62 361 846 3327
@@ -90,6 +100,7 @@
 
 - brand: Byebye Plastic Bags
   products: Events
+  company: Yayasan Bumi Indah
   website: http://www.byebyeplasticbags.org
   email: 
   telephone: 
@@ -99,6 +110,7 @@
 
 - brand: ChokChok Chocolate
   products: Organic Chocolate
+  company:  
   website: http://chokchokchocolate.com
   email: info@chokchokchocolate.com
   telephone: 62 819 16337753 
@@ -108,6 +120,7 @@
 
 - brand: Coral Triangle Center
   products: Conservation
+  company:  
   website: http://www.coraltrianglecenter.org
   email: info@coraltrianglecenter.org
   telephone: 62 361 289 338
@@ -117,15 +130,17 @@
 
 - brand: Divine Earth Bali
   products: Vegan Food, Cinema
+  company:  
   website: http://www.divineearthbali.com
   email: info@divineearthbali.com
   telephone: 62 361 731964
-  address: JL. Raya Basangkasa�, 1200A, Seminyak, Bali�
+  address: JL. Raya Basangkasa, 1200A, Seminyak, Bali
   location: https://goo.gl/maps/tsrd3dmjdD72
   country: Indonesia
 
 - brand: Down To Earth
   products: Organic Food Distibution
+  company: PT Down To Earth Bali
   website: http://www.downtoearthbali.com
   email: info@downtoearthbali.com
   telephone: 62 361 736645
@@ -135,6 +150,7 @@
 
 - brand: Earth Cafe & Market
   products: Organic Products
+  company:  
   website: http://www.earthcafebali.com
   email: 
   telephone: 62 851 008 355 45
@@ -144,6 +160,7 @@
 
 - brand: EarthXpress
   products: Organic, Vegan Products 
+  company:  
   website: http://earthx.press
   email: 
   telephone: 62 812 4696 7117
@@ -153,24 +170,37 @@
 
 - brand: eBikes Bali
   products: Electric Bicycle Tours
-  website: https://www.ebikesbali.com/
+  company:  
+  website: https://www.ebikesbali.com
   email: info@ebikesbali.com
   telephone: 62 812-3866408
-  address: Jl. Tirta Tawar, Petulu, Ubud, Kabupaten Gianyar, Bali 80571, Indonesia
+  address: Jl. Tirta Tawar, Petulu, Ubud, Bali 80571
   location: https://goo.gl/maps/yWRWHxSfDtD2
   country: Indonesia
 
 - brand: Eco Bali Recycling
   products: Trash Collection, Recycling
+  company: PT Bumi Lestari Bali
   website: http://eco-bali.com
   email: info@eco-bali.com
   telephone: 62 82237799819
-  address: Jl. Raya Padonan, Tibubeneng, Kuta Utara, Bali 80361
+  address: Jl. Raya Padonan, Tibubeneng, Kuta, Bali 80361
   location: https://goo.gl/maps/cyMAtdcmiWC2
+  country: Indonesia
+
+- brand: Emas Hitam
+  products: Ecological Solutions
+  company:  
+  website: http://emashitam.org
+  email: emas.hitam.indonesia@gmail.com
+  telephone: 
+  address: C/O Outpost, Jl. Raya Nyuh Kuning, Ubud, Bali 80571
+  location: 
   country: Indonesia
 
 - brand: Eco Regions Indonesia
   products: Developmen, Conservation
+  company:  
   website: http://ecoregions.co.id
   email: 
   telephone: 
@@ -178,35 +208,29 @@
   location: 
   country: Indonesia
 
-- brand: Emas Hitam
-  products: Ecological Solutions
-  website: http://emashitam.org
-  email: emas.hitam.indonesia@gmail.com
-  telephone: 
-  address: C/O Outpost, Jl. Raya Nyuh Kuning, Ubud, Gianyar,Bali 80571
-  location: 
-  country: Indonesia
-
 - brand: ET scooter
   products: Electric Scooters
+  company:  
   website: http://etscooter.com
   email: info@etscooter.com
   telephone: 
-  address: 6/F Building no. 4, Jinhuafa Industry Zero, Qingquan Rd., Longhua Town, Shenzhen
+  address: 6/F Building no. 4, Jinhuafa Industry Zero, Qingquan Rd., Longhua, Shenzhen
   location: 
   country: China
 
 - brand: Ewabi Electric Bamboo Bikes
   products: Electric, Bamboo Bicycles
+  company:  
   website: http://ewabi.co/
   email: cassy@ewabi.co
   telephone: 62 853 3831 3814
-  address: Jl. Gadon III no.7, Kerobokan Kaja, Kuta Utara, Kabupaten Badung, Bali 80361
+  address: Jl. Gadon III no.7, Kerobokan Kaja, Kuta, Bali 80361
   location: https://goo.gl/maps/2sNZkRhdKmS2
   country: Indonesia
 
 - brand: Forest Stewardship Council
   products: Wood Certification
+  company: FSC Global Development GmbH
   website: https://ic.fsc.org
   email: info@fsc.org
   telephone: 49 228367660
@@ -216,6 +240,7 @@
 
 - brand: Gesits
   products: Electric Scooters
+  company: Garansindo Electric Scooter ITS
   website: http://gesits.co.id
   email: info@gesits.co.id
   telephone: 
@@ -225,16 +250,18 @@
 
 - brand: Green Bikes Bali
   products: Electric Bicycle Tours
-  website: https://www.greenbikesbali.com/
+  company:  
+  website: https://www.greenbikesbali.com
   email: info@baliecobikes.com
   telephone: 62 8123 7895885
   address: Banjar Gunungsari, Desa Jatiluwih, Bali 8215
   location: 
-  country: 
+  country: Indonesia
 
 - brand: Gringgo
   products: Waste App
-  website: https://gringgo.co/
+  company: Kembali Innovation Hub
+  website: https://gringgo.co
   email: info@gringgo.co
   telephone: 
   address: Jl. Sunset Road No. 28, Seminyak, Kuta, Bali 80361
@@ -243,6 +270,7 @@
 
 - brand: Ibuku
   products: Bamboo
+  company: Ibuku
   website: http://ibuku.com
   email: sales@ibuku.com
   telephone: 
@@ -252,6 +280,7 @@
 
 - brand: Indonesian Waste Platform
   products: Waste Management
+  company:  
   website: http://www.indonesianwaste.org
   email: nina@indonesianwaste.org
   telephone: 
@@ -261,6 +290,7 @@
 
 - brand: Lampbond Indonesia
   products: LED Bulbs
+  company:  
   website: https://www.lampbond1ndonesia.com
   email: 
   telephone: 
@@ -268,9 +298,20 @@
   location: 
   country: Indonesia
 
+- brand: Leaf Republic
+  products: Leaf plates, bowls
+  company: Leaf Republic GmbH
+  website: https://www.leaf-republic.com
+  email: sales@leaf-republic.com
+  telephone: 49 89 1891 2857
+  address: Mehlbeerenstr. 6, 82024 Taufkirchen, Munich
+  location: https://goo.gl/maps/5Dmc4zsWiJ52
+  country: Germany
+
 - brand: Mission Blue
   products: Save ocean, Information
-  website: https://mission-blue.org/
+  company: Sylvia Earle Alliance/Mission Blue
+  website: https://mission-blue.org
   email: 
   telephone: 01 707 492-6866
   address: P.O. Box 6882, Napa, CA 94581
@@ -279,7 +320,8 @@
 
 - brand: Mongabay
   products: Conservation news
-  website: http://www.mongabay.co.id/
+  company:  
+  website: http://www.mongabay.co.id
   email: mongabay@mongabay.com
   telephone: 
   address: 
@@ -288,7 +330,8 @@
 
 - brand: Mute Garage Bali
   products: Electric Scooters rent
-  website: http://www.e-mute.com/
+  company:  
+  website: http://www.e-mute.com
   email: 
   telephone: 
   address: Jalan Petitenget No.115, Seminyak, Bali,
@@ -297,6 +340,7 @@
 
 - brand: Nazava Water Filters
   products: Water Filters
+  company:  
   website: https://www.nazava.com
   email: info@nazava.com
   telephone: 
@@ -306,6 +350,7 @@
 
 - brand: Numbeo
   products: Cost of LIiving Database
+  company:  
   website: https://www.numbeo.com
   email: 
   telephone: 
@@ -315,6 +360,7 @@
 
 - brand: Paradiso Ubud
   products: Organic, Vegan, Theatre
+  company:  
   website: http://www.paradisoubud.com
   email: 
   telephone: 
@@ -324,6 +370,7 @@
 
 - brand: Plants for a Future
   products: Plants Database
+  company:  
   website: https://pfaf.org
   email: 
   telephone: 
@@ -333,6 +380,7 @@
 
 - brand: Satvika Bhoga
   products: Organic shop
+  company:  
   website: https://satvikabhoga.wordpress.com
   email: satvikabhoga@gmail.com
   telephone: 62 361 284055
@@ -340,8 +388,19 @@
   location: https://goo.gl/maps/BoG56fCJG4D2
   country: Indonesia
 
+- brand: Selis Bali
+  products: Electric Scooters
+  company:  
+  website: http://www.tokoselis.com
+  email: customer.service@selis.co.id
+  telephone: 62 361 4748205
+  address: Jl. Teuku Umar No.216, Dauh Puri Kauh, Denpasar, Bali 80113
+  location: https://goo.gl/maps/niT14G3dCbu
+  country: Indonesia
+
 - brand: Singapore Botanic Gardens
   products: Conservation, Education
+  company:  
   website: https://www.sbg.org.sg
   email: 
   telephone: 
@@ -351,7 +410,8 @@
 
 - brand: Skutis
   products: Electric Scooters
-  website: https://skutis.co/
+  company:  
+  website: https://skutis.co
   email: 
   telephone: 62 82145238963
   address: 
@@ -360,6 +420,7 @@
 
 - brand: Sos From The Deep
   products: Conservation
+  company:  
   website: http://sosfromthedeep.com
   email: hello@sosfromthedeep.com
   telephone: 62 361 289338
@@ -369,6 +430,7 @@
 
 - brand: Sustainable Brands 
   products: Information
+  company:  
   website: http://www.sustainablebrands.com
   email: 
   telephone: 1 415 626 2212 
@@ -378,6 +440,7 @@
 
 - brand: Ted
   products: Conferences, Information
+  company:  
   website: https://ted.com
   email: 
   telephone: 
@@ -387,15 +450,17 @@
 
 - brand: The Organic Farm Bali
   products: Organic Products
+  company:  
   website: http://www.theorganicfarmbali.com
   email: marjan@theorganicfarmbali.com
   telephone: 62 852 37950255
-  address: JL. Munduk Lumbang, Angseri, Baturiti, Tabanan, 82191 Bali
+  address: JL. Munduk Lumbang, Angseri, Baturiti, 82191 Bali
   location: https://goo.gl/maps/HNHLcfNXDyk
   country: Indonesia
 
 - brand: The Plant List
   products: Plants database
+  company:  
   website: http://www.theplantlist.org
   email: 
   telephone: 
@@ -405,6 +470,7 @@
 
 - brand: Trash hero
   products: Trash Collection, Information
+  company:  
   website: https://trashhero.org
   email: 
   telephone: 
@@ -414,6 +480,7 @@
 
 - brand: Ubud Organic Market
   products: Organic Products
+  company:  
   website: http://www.ubudorganicmarket.com
   email: 
   telephone: 
@@ -423,6 +490,7 @@
 
 - brand: Verdure Bali
   products: Healthy Products
+  company:   
   website: http://www.verdurebali.com
   email: info@verdurebali.com
   telephone: 62 818 0279 6888
@@ -432,15 +500,17 @@
 
 - brand: Viar Electric Motor
   products: Electric Scooters
+  company: PT Triangle Motorindo
   website: https://www.e-viar.com
   email: marketing@viarmotor.com 
   telephone: 62 21 65832202
-  address: Jl. Danau Agung Selatan Blok O III no. 38, Sunter Sunter Jaya, Jakarta 14350
+  address: Jl. Danau Agung Selatan Blok O III no. 38, Jakarta 14350
   location: 
   country: Indonesia
 
 - brand: Vince Tierny Surfboards
   products: Balsa Wooden Surfboards
+  company:  
   website: http://vincetierny.com
   email: info@vincetierny.com
   telephone: 62 858-1432-7942
@@ -450,6 +520,7 @@
 
 - brand: Welcome Alternative Bags
   products: Sustainable Bags
+  company:  
   website: https://welcomealternativebags.com
   email: info@welcomealternativebags.com
   telephone: 
@@ -459,6 +530,7 @@
 
 - brand: World Mapper
   products: Data on Maps
+  company:  
   website: https://worldmapper.org
   email: 
   telephone: 
@@ -468,6 +540,7 @@
 
 - brand: World Watch Institute
   products: Information, Fact analysis
+  company:  
   website: http://www.worldwatch.org
   email: worldwatch@worldwatch.org 
   telephone: 1 202 745-8092
@@ -477,6 +550,7 @@
 
 - brand: Zula Bali
   products: Organic, Vegetarian Food
+  company:  
   website: http://www.zulabali.com
   email: 
   telephone: 62 361 8497244
