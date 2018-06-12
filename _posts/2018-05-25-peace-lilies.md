@@ -3,7 +3,7 @@ name: Peace lilies
 subtitle: One of the most powerful pollutant remover.
 description: #
 category: health
-tags: CO2 bedroom-plants air-cleaning plants learning wellness
+tags: CO2 bedroom-plants air-cleaning botany plants learning wellness
 image: /assets/p/posts/health/peace-lilies/peace-lilies.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

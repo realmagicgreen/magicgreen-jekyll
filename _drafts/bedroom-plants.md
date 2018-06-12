@@ -37,11 +37,6 @@ Despite the negative superstitions, Peepal tree has several benefits which makes
 Beautiful and beneficial, orchids are a perfect choice to be settled in the corner of your bedroom. Apart from emitting oxygen during the nighttime, Orchids also banish xylene – pollutant found in paints, and fills the room with fresh air to breathe.
 
 
-### Areca Palm
-
-Dypsis lutescens, also known as golden cane palm, areca palm,[2] yellow palm,[2] or butterfly palm,[
-
-
 ### Spider Plant
 
 Not to be confused with the Snake Plant, the Spider Plant is also a champion cleanser of air. The NASA tests showed it to remove around 90% of the potentially cancer-causing chemical formaldehyde from the air. Since formaldehyde is found in common household products like adhesives, grout and fillers, it’s a good idea to keep one of these plants around. Spider Plants will also absorb odors and fumes as well as sustaining oxygen levels in the room, promoting better sleep.
