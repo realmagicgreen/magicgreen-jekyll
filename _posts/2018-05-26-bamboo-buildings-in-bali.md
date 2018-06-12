@@ -4,14 +4,13 @@ subtitle: Bamboo is booming here, showing excellent examples of a sustainable wa
 description: #
 category: solutions
 tags: architecture bamboo Bali design eco-friendly eco-entrepreneurs recycle hydro-power Indonesia learning permaculture sustainable-construction  
-sticky: true
 image: /assets/p/posts/solutions/bamboo-buildings-in-bali/bamboo-buildings-in-bali.jpg
 show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: bamboo # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-pinned: true # pinned to top 'true' or empty
+sticky: true # 'true' or empty
 photography: # put here photographer name
 ---
 The Indonesian island of Bali is witnessing a new trend. Bamboo building, emblem of sustainable construction, are replacing concrete and steel with far greener alternatives.

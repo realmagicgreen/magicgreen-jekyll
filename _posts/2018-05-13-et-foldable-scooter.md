@@ -10,7 +10,7 @@ home_slideshow_caption: e-scooter # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: true # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-pinned: # pinned to top 'true' or empty
+sticky: # 'true' or empty
 photography: Rokma # put here photographer name
 ---
 Among the big offer of e-bikes and scooters one which sticks out is definitely this slick ET foldable electric scooter.

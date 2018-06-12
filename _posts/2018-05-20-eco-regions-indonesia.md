@@ -5,13 +5,12 @@ description:
 category: solutions
 tags: biodiversity eco-tourism eco-entrepreneurs Lombok Indonesia social-responsibility Sumbawa sustainable-development
 image: /assets/p/posts/solutions/eco-regions-indonesia/eco-regions-indonesia.jpg
-sticky:
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-pinned: # pinned to top 'true' or empty
+sticky: # 'true' or empty
 photography: # put here photographer name
 ---
 

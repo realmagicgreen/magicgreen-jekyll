@@ -10,7 +10,7 @@ home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-pinned: # pinned to top 'true' or empty
+sticky: # 'true' or empty
 photography: # put here photographer name # put here photographer name
 ---
 Billions of plastic bags are made each year. Of these bags, one hundred billion are thrown away according to [Worldwatch Institute](http://www.worldwatch.org/), with less than 1 percent finding their way into a recycle bin.

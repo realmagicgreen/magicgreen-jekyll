@@ -10,7 +10,7 @@ home_slideshow_caption: Balsa Boards # lowercase, max 12 digits, including space
 flag: # new or other...
 ad: true # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-pinned:  # pinned to top 'true' or empty
+sticky: # 'true' or empty
 photography: # put here photographer name
 ---
 Surfing is one of the most environment-friendly sports , because of the love to the ocean every surfer keeps. But there is also a side of it thats not eco-friendly at all: the equipment. Everything is made out of plastic and the boards are mostly out of foam with epoxy, what is not very green.

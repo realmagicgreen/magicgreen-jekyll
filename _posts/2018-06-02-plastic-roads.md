@@ -10,7 +10,7 @@ home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-pinned: true # pinned to top 'true' or empty
+sticky: true # 'true' or empty
 photography: # put here photographer name
 ---
 

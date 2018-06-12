@@ -10,7 +10,7 @@ home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-pinned: # pinned to top 'true' or empty
+sticky: # 'true' or empty
 photography: Jace Grandinetti # put here photographer name
 ---
 Did you know that nearly 4 billion trees are cut down each year for paper. Used paper towels are not recyclable.
