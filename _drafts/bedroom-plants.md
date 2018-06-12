@@ -28,15 +28,6 @@ Indoor plants remove pollutants from the air by absorbing these gases through th
 
 While most leafy plants are adept at purifying indoor air, some of the plants that scientists have found most useful in removing VOCs include Japanese royal ferns, spider plants, Boston ferns, purple waffle plants, English ivy, areca palms, golden pothos, aloe vera, snake plants and peace lilies.
 
-### Snake Plant
-
-_**Sansevieria trifasciata Laurentii** also called mother-in-law's tongue._
-Much like Aloe Vera, snake plant also emits oxygen at night. What is another amazing fact is that it simultaneously takes in carbon dioxide. Amazing isn’t it? So, get one in your house and breathe in an healthy environment even during night.
-
-### Aloe Vera
-
-Whenever a list of plants with benefits is made, Aloe Vera tops the charts always. Listed as one of the plants improving the air of NASA, Aloe Vera emits oxygen at night and increases the longevity of your life. It is almost a ‘no-maintenance’ plant and caters to a lot of beauty benefits too.
-
 ### Peepal tree
 
 Despite the negative superstitions, Peepal tree has several benefits which makes it a rather important tree. It not only emits oxygen but can also be used to manage diabetes, treat constipation and asthama.
@@ -45,12 +36,10 @@ Despite the negative superstitions, Peepal tree has several benefits which makes
 
 Beautiful and beneficial, orchids are a perfect choice to be settled in the corner of your bedroom. Apart from emitting oxygen during the nighttime, Orchids also banish xylene – pollutant found in paints, and fills the room with fresh air to breathe.
 
-### Neem Tree
-
-Synonymous to health benefits, Neem tree also purifies the air during nighttime by emitting oxygen. It is believed that Neem should be planted inside the house, especially in the centre of the court of the house, and the fact is scientifically true because it acts as a natural pesticide.
 
 ### Areca Palm
 
+Dypsis lutescens, also known as golden cane palm, areca palm,[2] yellow palm,[2] or butterfly palm,[
 
 
 ### Spider Plant
