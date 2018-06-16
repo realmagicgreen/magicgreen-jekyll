@@ -2,6 +2,15 @@ figure {
   position: relative;
   margin: 0;
   padding: 0;
+  &.post_content_image {
+    margin-top: $space--small;
+    figcaption {
+      text-transform: uppercase;
+      font-size: 80%;
+      margin-bottom: $space--small;
+    }
+  }
+
 }
 
 .figcaption {
