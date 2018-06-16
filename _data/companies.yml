@@ -188,16 +188,6 @@
   location: https://goo.gl/maps/cyMAtdcmiWC2
   country: Indonesia
 
-- brand: Emas Hitam
-  products: Ecological Solutions
-  company:  
-  website: http://emashitam.org
-  email: emas.hitam.indonesia@gmail.com
-  telephone: 
-  address: C/O Outpost, Jl. Raya Nyuh Kuning, Ubud, Bali 80571
-  location: 
-  country: Indonesia
-
 - brand: Eco Regions Indonesia
   products: Developmen, Conservation
   company:  
@@ -205,6 +195,26 @@
   email: 
   telephone: 
   address: 
+  location: 
+  country: Indonesia
+
+- brand: Ecovia Intelligence
+  products: Research, Consulting, Training
+  company: 
+  website: http://www.ecoviaint.com/
+  email: postmaster@ecoviaint.com
+  telephone: 44 20 8567 0788
+  address: 20B The Mall, London W5 2PJ
+  location: 
+  country: United Kingdom
+
+- brand: Emas Hitam
+  products: Ecological Solutions
+  company:  
+  website: http://emashitam.org
+  email: emas.hitam.indonesia@gmail.com
+  telephone: 
+  address: C/O Outpost, Jl. Raya Nyuh Kuning, Ubud, Bali 80571
   location: 
   country: Indonesia
 
@@ -217,6 +227,16 @@
   address: 6/F Building no. 4, Jinhuafa Industry Zero, Qingquan Rd., Longhua, Shenzhen
   location: 
   country: China
+
+- brand: Evoware
+  products: Seaweed Based Packaging
+  company: 
+  website: http://www.evoware.id/
+  email: info@evoware.id
+  telephone: 62 8118692424 
+  address: 
+  location: 
+  country: Indonesia
 
 - brand: Ewabi Electric Bamboo Bikes
   products: Electric, Bamboo Bicycles
@@ -238,16 +258,6 @@
   location: 
   country: Germany
 
-- brand: Gesits
-  products: Electric Scooters
-  company: Garansindo Electric Scooter ITS
-  website: http://gesits.co.id
-  email: info@gesits.co.id
-  telephone: 
-  address: 
-  location: 
-  country: Indonesia
-
 - brand: Green Bikes Bali
   products: Electric Bicycle Tours
   company:  
@@ -255,6 +265,16 @@
   email: info@baliecobikes.com
   telephone: 62 8123 7895885
   address: Banjar Gunungsari, Desa Jatiluwih, Bali 8215
+  location: 
+  country: Indonesia
+
+- brand: Gesits
+  products: Electric Scooters
+  company: Garansindo Electric Scooter ITS
+  website: http://gesits.co.id
+  email: info@gesits.co.id
+  telephone: 
+  address: 
   location: 
   country: Indonesia
 
@@ -398,16 +418,6 @@
   location: https://goo.gl/maps/niT14G3dCbu
   country: Indonesia
 
-- brand: Singapore Botanic Gardens
-  products: Conservation, Education
-  company:  
-  website: https://www.sbg.org.sg
-  email: 
-  telephone: 
-  address: 
-  location: 
-  country: Singapore
-
 - brand: Skutis
   products: Electric Scooters
   company:  
@@ -417,6 +427,16 @@
   address: 
   location: 
   country: Indonesia
+
+- brand: Singapore Botanic Gardens
+  products: Conservation, Education
+  company:  
+  website: https://www.sbg.org.sg
+  email: 
+  telephone: 
+  address: 
+  location: 
+  country: Singapore
 
 - brand: Sos From The Deep
   products: Conservation
@@ -437,6 +457,16 @@
   address: 3 Meacham Pl, San Francisco, CA 94109
   location: 
   country: U.S.A.
+
+- brand: Sustainable Foods Summit
+  products: Conferences, Information
+  company: Asia-Pacific Representative
+  website: http://sustainablefoodssummit.com/asia/
+  email: info@sustainablefoodssummit.com
+  telephone: 65 9639 5390
+  address: 1 Scotts Road, #24-10 Shaw Centre,  Singapore
+  location: 
+  country: Singapore
 
 - brand: Ted
   products: Conferences, Information
