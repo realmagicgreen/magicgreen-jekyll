@@ -3,7 +3,7 @@ name: Evoware not plastic
 subtitle: A green and eco-friendly alternative to food-grade plastic based on seaweed.
 description: #
 category: products
-tags: design environment-friendly eco-friendly Indonesia social-responsibility
+tags: design environment-friendly eco-friendly Indonesia plastic-alternatives social-responsibility
 image: /assets/p/posts/products/evoware-not-plastic/evoware-not-plastic.jpg
 show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: Bio Packages # lowercase, max 12 digits, including spaces
