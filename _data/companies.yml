@@ -48,26 +48,6 @@
   location: https://goo.gl/maps/GRiDJ7d1qrE2
   country: Indonesia
 
-- brand: Bali Green School
-  products: Education
-  company:  
-  website: https://www.greenschool.org
-  email: 
-  telephone: 
-  address: Jl. Raya Sibang Kaja, Abiansemal, Bali 80352
-  location: 
-  country: Indonesia
-
-- brand: Bali Jiwa
-  products: Organic Products
-  company:  
-  website: https://www.balijiwa.net
-  email: hello@balijiwa.com
-  telephone: 62 361 270081
-  address: 
-  location: 
-  country: Indonesia
-
 - brand: Bali life bamboo straws
   products: Bamboo straws
   company: 
@@ -78,6 +58,16 @@
   location: 
   country: Malta
 
+- brand: Bali Green School
+  products: Education
+  company:  
+  website: https://www.greenschool.org
+  email: 
+  telephone: 
+  address: Jl. Raya Sibang Kaja, Abiansemal, Bali 80352
+  location: 
+  country: Indonesia
+
 - brand: Bali Organic Association
   products: Organic Products
   company:  
@@ -85,6 +75,16 @@
   email: yayasan_boa@yahoo.com
   telephone: 62 878 60131485
   address: Jl Cargo Sari II no.6, Br Uma Sari, Ubung Kaja,Denpasar, Bali
+  location: 
+  country: Indonesia
+
+- brand: Bali Jiwa
+  products: Organic Products
+  company:  
+  website: https://www.balijiwa.net
+  email: hello@balijiwa.com
+  telephone: 62 361 270081
+  address: 
   location: 
   country: Indonesia
 
@@ -118,16 +118,6 @@
   location: 
   country: U.S.A.
 
-- brand: Byebye Plastic Bags
-  products: Events
-  company: Yayasan Bumi Indah
-  website: http://www.byebyeplasticbags.org
-  email: 
-  telephone: 
-  address: 
-  location: 
-  country: Indonesia
-
 - brand: Big Tree Farms
   products: Organic Products
   company:  
@@ -135,6 +125,16 @@
   email: info@bigtreefarms.com
   telephone: 62 361 8463327
   address: Br. Piakan, Desa Sibangkaja, Kecamatan Abiansemal, Bali 80237
+  location: 
+  country: Indonesia
+
+- brand: Byebye Plastic Bags
+  products: Events
+  company: Yayasan Bumi Indah
+  website: http://www.byebyeplasticbags.org
+  email: 
+  telephone: 
+  address: 
   location: 
   country: Indonesia
 
@@ -178,16 +178,6 @@
   location: 
   country: Indonesia
 
-- brand: Earth Cafe & Market
-  products: Organic Products
-  company:  
-  website: http://www.earthcafebali.com
-  email: 
-  telephone: 62 851 00835545
-  address: Jl. Goutama Selatan, Ubud, Bali
-  location: https://goo.gl/maps/zSfXaoEtih42
-  country: Indonesia
-
 - brand: EarthXpress
   products: Organic, Vegan Products 
   company:  
@@ -198,16 +188,6 @@
   location: https://goo.gl/maps/FKdKEzymHFR2
   country: Indonesia
 
-- brand: eBikes Bali
-  products: Electric Bicycle Tours
-  company:  
-  website: https://www.ebikesbali.com
-  email: info@ebikesbali.com
-  telephone: 62 812 3866408
-  address: Jl. Tirta Tawar, Petulu, Ubud, Bali 80571
-  location: https://goo.gl/maps/yWRWHxSfDtD2
-  country: Indonesia
-
 - brand: Eco Bali Recycling
   products: Trash Collection, Recycling
   company: PT Bumi Lestari Bali
@@ -216,6 +196,26 @@
   telephone: 62 822 37799819
   address: Jl. Raya Padonan, Tibubeneng, Kuta, Bali 80361
   location: https://goo.gl/maps/cyMAtdcmiWC2
+  country: Indonesia
+
+- brand: Earth Cafe & Market
+  products: Organic Products
+  company:  
+  website: http://www.earthcafebali.com
+  email: 
+  telephone: 62 851 00835545
+  address: Jl. Goutama Selatan, Ubud, Bali
+  location: https://goo.gl/maps/zSfXaoEtih42
+  country: Indonesia
+
+- brand: eBikes Bali
+  products: Electric Bicycle Tours
+  company:  
+  website: https://www.ebikesbali.com
+  email: info@ebikesbali.com
+  telephone: 62 812 3866408
+  address: Jl. Tirta Tawar, Petulu, Ubud, Bali 80571
+  location: https://goo.gl/maps/yWRWHxSfDtD2
   country: Indonesia
 
 - brand: Eco Regions Indonesia
@@ -378,16 +378,6 @@
   location: 
   country: 
 
-- brand: Nazava Water Filters
-  products: Water Filters
-  company:  
-  website: https://www.nazava.com
-  email: info@nazava.com
-  telephone: 
-  address: 
-  location: 
-  country: Indonesia
-
 - brand: Mute Garage Bali
   products: Electric Scooters rent
   company:  
@@ -395,6 +385,16 @@
   email: 
   telephone: 
   address: Jalan Petitenget No.115, Seminyak, Bali,
+  location: 
+  country: Indonesia
+
+- brand: Nazava Water Filters
+  products: Water Filters
+  company:  
+  website: https://www.nazava.com
+  email: info@nazava.com
+  telephone: 
+  address: 
   location: 
   country: Indonesia
 
