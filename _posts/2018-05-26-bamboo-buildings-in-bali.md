@@ -13,28 +13,26 @@ featured: true # use 'true' to have it displayed in home
 sticky: true # 'true' or empty
 photography: # put here photographer name
 ---
-The Indonesian island of Bali is witnessing a new trend. Bamboo building, emblem of sustainable construction, are replacing concrete and steel with far greener alternatives.
+The Indonesian island of Bali is witnessing a new trend. Bamboo building, emblem of sustainable construction, are replacing concrete and steel.
 
-Bamboo, technically a grass, has been used in building for centuries due to its impressive strength-to-weight ratio.
+Buildings had use bamboo for centuries. It has an impressive strength-to-weight ratio.
 
-Bamboo is not seen as the poor man's timber anymore. Not far from the smoggy Bali capital Denpasar new ambitious bamboo projects are growing, mostly driven by eco-conscious foreigners and big resorts.
+Bamboo is not seen as the poor man's timber anymore. Not far from smoggy Denpasar new ambitious bamboo projects are growing. These buildings are the brainchild of eco-conscious foreigners.
 
 {% include image.html name="-05" caption="The Green Village Bali entrance bridge" %}
 
->"Bamboo is unmatched as a sustainable building material. What it can do is remarkable. It grows far more quickly than timber and doesn't destroy the land it's grown on" _Ben Ripple, Big Tree Farms Bali co-founder_
+>"Bamboo is unmatched as a sustainable building material. What it can do is remarkable. It grows far quicker than timber and doesn't destroy the land it's grown on" _Ben Ripple, Big Tree Farms Bali co-founder_
 
-Resorts, school, villas and even a chocolate factory structures in the Indonesian island are putting bamboo to work, showing excellent examples of a sustainable way to build.
+Resorts, schools, villas and even a chocolate factory in the Indonesian island are putting bamboo to work. These structures show excellent examples of a sustainable way to build.
 
 
 {% include image.html name="" caption="Sharma Springs at Ibuku" %}
 
-Studies show construction is one of the world's least sustainable industries, eating up around half of the globe's non-renewable resources, but sustainable construction is slowly taking root around the world.
+Studies show construction is one of the world's least sustainable industries. It's eating up around half of the globe's non-renewable resources. Sustainable construction though is slowly taking root all over the world.
 
 {% include image.html name="-04" caption="Green School Bali" %}
 
-One reason bamboo is so environmentally-friendly is the speed at which it grows, according to Terry Sunderland, a scientist at the Centre for International Forestry Research in Indonesia.
-
->"Building-quality bamboo will grow between six and 10 meters in that time," _Terry Sunderland_
+>"What makes bamboo environmentally-friendly is the speed at which it grows. Building-quality bamboo will grow between six and 10 meters in that time," _Terry Sunderland, scientist at the Centre for International Forestry Research in Indonesia_
 
 Around 200 farmers across the island are paid to grow bamboo on areas of their land not used for agriculture. Some of the largest logs are 25 meters long but only take 3 years to grow.
 
@@ -44,7 +42,7 @@ Around 200 farmers across the island are paid to grow bamboo on areas of their l
 {% include image.html name="-02" caption="Bamboo interiors and floors at
 John Hardy Jewelry Factory" %}
 
-Bamboo has its drawbacks. Without intensive treatment, it is prone to rotting and catches fire relatively easily, which is why many countries limit bamboo structures height.
+Bamboo has its drawbacks. Without intensive treatment, it's prone to rotting. It also catches fire relatively easily. For these reasons many countries limit bamboo structures height.
 
 Building with bamboo is not fool proof, but technologies to protect it from the elements are rapidly improving.
 
