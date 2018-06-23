@@ -18,16 +18,6 @@
   location: 
   country: U.K.
 
-- brand: Bali Buda
-  products: Organic Products
-  company:  
-  website: http://www.balibuda.com
-  email: 
-  telephone: 62 361 299467
-  address: Jl Pura Puseh no.3, Br. Denjalan, Batu Bulan, Bali
-  location: 
-  country: Indonesia
-
 - brand: Bali ebikes
   products: Electric Bicycle Tours
   company:  
@@ -36,6 +26,16 @@
   telephone: 62 813 53622250 
   address: Jl. Suweta No. 30, Ubud, Bali
   location: https://goo.gl/maps/qQQ5HbwvNSH2
+  country: Indonesia
+
+- brand: Bali Buda
+  products: Organic Products
+  company:  
+  website: http://www.balibuda.com
+  email: 
+  telephone: 62 361 299467
+  address: Jl Pura Puseh no.3, Br. Denjalan, Batu Bulan, Bali
+  location: 
   country: Indonesia
 
 - brand: Bali eco stay
@@ -48,16 +48,6 @@
   location: https://goo.gl/maps/GRiDJ7d1qrE2
   country: Indonesia
 
-- brand: Bali life bamboo straws
-  products: Bamboo straws
-  company: 
-  website: https://www.balilifebamboostraws.com
-  email: sales@balilifebamboostraws.com
-  telephone: 35 677099345
-  address: 55 Triq Fra Diegu Hamrun Malta
-  location: 
-  country: Malta
-
 - brand: Bali Green School
   products: Education
   company:  
@@ -68,16 +58,6 @@
   location: 
   country: Indonesia
 
-- brand: Bali Organic Association
-  products: Organic Products
-  company:  
-  website: 
-  email: yayasan_boa@yahoo.com
-  telephone: 62 878 60131485
-  address: Jl Cargo Sari II no.6, Br Uma Sari, Ubung Kaja,Denpasar, Bali
-  location: 
-  country: Indonesia
-
 - brand: Bali Jiwa
   products: Organic Products
   company:  
@@ -85,6 +65,26 @@
   email: hello@balijiwa.com
   telephone: 62 361 270081
   address: 
+  location: 
+  country: Indonesia
+
+- brand: Bali life bamboo straws
+  products: Bamboo straws
+  company: 
+  website: https://www.balilifebamboostraws.com
+  email: sales@balilifebamboostraws.com
+  telephone: 35 677099345
+  address: 55 Triq Fra Diegu Hamrun Malta
+  location: 
+  country: Malta
+
+- brand: Bali Organic Association
+  products: Organic Products
+  company:  
+  website: 
+  email: yayasan_boa@yahoo.com
+  telephone: 62 878 60131485
+  address: Jl Cargo Sari II no.6, Br Uma Sari, Ubung Kaja,Denpasar, Bali
   location: 
   country: Indonesia
 
@@ -178,26 +178,6 @@
   location: 
   country: Indonesia
 
-- brand: EarthXpress
-  products: Organic, Vegan Products 
-  company:  
-  website: http://earthx.press
-  email: 
-  telephone: 62 812 4696 7117
-  address: Jl. Batu Bolong 37a, Canggu, Bali
-  location: https://goo.gl/maps/FKdKEzymHFR2
-  country: Indonesia
-
-- brand: Eco Bali Recycling
-  products: Trash Collection, Recycling
-  company: PT Bumi Lestari Bali
-  website: http://eco-bali.com
-  email: info@eco-bali.com
-  telephone: 62 822 37799819
-  address: Jl. Raya Padonan, Tibubeneng, Kuta, Bali 80361
-  location: https://goo.gl/maps/cyMAtdcmiWC2
-  country: Indonesia
-
 - brand: Earth Cafe & Market
   products: Organic Products
   company:  
@@ -208,6 +188,36 @@
   location: https://goo.gl/maps/zSfXaoEtih42
   country: Indonesia
 
+- brand: EarthXpress
+  products: Organic, Vegan Products 
+  company:  
+  website: http://earthx.press
+  email: 
+  telephone: 62 812 4696 7117
+  address: Jl. Batu Bolong 37a, Canggu, Bali
+  location: https://goo.gl/maps/FKdKEzymHFR2
+  country: Indonesia
+
+- brand: East Bali Bamboo Bikes
+  products: Bamboo Bikes
+  company: 
+  website: https://www.eastbalibamboobikes.com
+  email: ebbb@eastbalipovertyproject.org
+  telephone: 
+  address: 
+  location: 
+  country: 
+
+- brand: East Bali Poverty Project
+  products: Eliminate poverty
+  company: Yayasan Ekoturisme Indonesia
+  website: https://www.eastbalipovertyproject.org
+  email: 
+  telephone: 62  361 410071
+  address: PO Box 3850 Denpasar
+  location: 
+  country: Indonesia
+
 - brand: eBikes Bali
   products: Electric Bicycle Tours
   company:  
@@ -216,6 +226,16 @@
   telephone: 62 812 3866408
   address: Jl. Tirta Tawar, Petulu, Ubud, Bali 80571
   location: https://goo.gl/maps/yWRWHxSfDtD2
+  country: Indonesia
+
+- brand: Eco Bali Recycling
+  products: Trash Collection, Recycling
+  company: PT Bumi Lestari Bali
+  website: http://eco-bali.com
+  email: info@eco-bali.com
+  telephone: 62 822 37799819
+  address: Jl. Raya Padonan, Tibubeneng, Kuta, Bali 80361
+  location: https://goo.gl/maps/cyMAtdcmiWC2
   country: Indonesia
 
 - brand: Eco Regions Indonesia
@@ -418,16 +438,6 @@
   location: https://goo.gl/maps/ji76KsYEAt32
   country: Indonesia
 
-- brand: Plants for a Future
-  products: Plants Database
-  company:  
-  website: https://pfaf.org
-  email: 
-  telephone: 
-  address: 
-  location: 
-  country: 
-
 - brand: Plastik detox
   products: Reduce Plastic Information
   company: 
@@ -437,6 +447,16 @@
   address: c/o Catalyze, Jl. Penyaringan No.30B, Sanur, Bali
   location: 
   country: Indonesia
+
+- brand: Plants for a Future
+  products: Plants Database
+  company:  
+  website: https://pfaf.org
+  email: 
+  telephone: 
+  address: 
+  location: 
+  country: 
 
 - brand: Satvika Bhoga
   products: Organic shop
@@ -501,7 +521,7 @@
 - brand: Sustainable Foods Summit
   products: Conferences, Information
   company: Asia-Pacific Representative
-  website: http://sustainablefoodssummit.com/asia/
+  website: http://sustainablefoodssummit.com/asia
   email: info@sustainablefoodssummit.com
   telephone: 65 96395390
   address: 1 Scotts Road, no.24-10 Shaw Centre,  Singapore
@@ -558,16 +578,6 @@
   location: https://goo.gl/maps/YdVNTjebzXB2
   country: Indonesia
 
-- brand: Verdure Bali
-  products: Healthy Products
-  company:   
-  website: http://www.verdurebali.com
-  email: info@verdurebali.com
-  telephone: 62 818 0279 6888
-  address: 
-  location: 
-  country: Indonesia
-
 - brand: Viar Electric Motor
   products: Electric Scooters
   company: PT Triangle Motorindo
@@ -575,6 +585,16 @@
   email: marketing@viarmotor.com 
   telephone: 62 21 65832202
   address: Jl. Danau Agung Selatan Blok O III no. 38, Jakarta 14350
+  location: 
+  country: Indonesia
+
+- brand: Verdure Bali
+  products: Healthy Products
+  company:   
+  website: http://www.verdurebali.com
+  email: info@verdurebali.com
+  telephone: 62 818 0279 6888
+  address: 
   location: 
   country: Indonesia
 
