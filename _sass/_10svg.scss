@@ -1,13 +1,14 @@
 footer {
   .email,
-  .facebook {
+  .facebook,
+  .qr  {
     fill: $brand_color;
   }
 }
 
 .logo,
 .open,
-.close {
+.close{
   fill: $brand_color;
 }
 
