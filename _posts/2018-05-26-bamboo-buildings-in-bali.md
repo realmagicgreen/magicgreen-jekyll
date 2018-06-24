@@ -19,14 +19,14 @@ Buildings had use bamboo for centuries. It has an impressive strength-to-weight 
 
 Bamboo is not seen as the poor man's timber anymore. Not far from smoggy Denpasar new ambitious bamboo projects are growing. These buildings are the brainchild of eco-conscious foreigners.
 
-{% include image.html name="-05" caption="The Green Village Bali entrance bridge" %}
+{% include image.html name="-05" caption="The entrance bridge at Green Village, Bali" %}
 
 >"Bamboo is unmatched as a sustainable building material. What it can do is remarkable. It grows far quicker than timber and doesn't destroy the land it's grown on" _Ben Ripple, Big Tree Farms Bali co-founder_
 
 Resorts, schools, villas and even a chocolate factory in the Indonesian island are putting bamboo to work. These structures show excellent examples of a sustainable way to build.
 
 
-{% include image.html name="" caption="Sharma Springs at Ibuku" %}
+{% include image.html name="" caption="Sharma Springs at Ibuku, Bali" %}
 
 Studies show construction is one of the world's least sustainable industries. It's eating up around half of the globe's non-renewable resources. Sustainable construction though is slowly taking root all over the world.
 
@@ -39,8 +39,7 @@ Around 200 farmers across the island are paid to grow bamboo on areas of their l
 >"Many people still think bamboo is cheap and only for small buildings, but we're showing it can be used to make high houses and really redefine how the material is used."_Terry Sunderland_
 
 
-{% include image.html name="-02" caption="Bamboo interiors and floors at
-John Hardy Jewelry Factory" %}
+{% include image.html name="-02" caption="Bamboo interiors and floors at John Hardy Jewelry Factory, Bali" %}
 
 Bamboo has its drawbacks. Without intensive treatment, it's prone to rotting. It also catches fire relatively easily. For these reasons many countries limit bamboo structures height.
 

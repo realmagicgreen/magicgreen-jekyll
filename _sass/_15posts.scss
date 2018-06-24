@@ -61,17 +61,30 @@ figure {
   margin-bottom: $space--small;
 }
 
-blockquote p {
-  font-size: 1.25rem;
-  line-height: 1.25;
-  padding-left: $space--small;
+blockquote {
   @include media("screen", ">minWidth") {
-    margin: 0 auto 0 10%;
-    padding-left: $space;
+    margin-right: 10vw;
   }
+  @include media("screen", ">bp1Width") {
+    margin-right: 12vw;
+  }
+  @include media("screen", ">maxWidth") {
+    margin-right: 18vw;
+  }
+  p {
+    font-size: 1.25rem;
+    line-height: 1.25;
+    padding-left: $space--small;
+    @include media("screen", ">minWidth") {
+      margin: 0 auto 0 10%;
+      padding-left: $space;
+    }
 
-  em {
-    font-size: 0.75rem;
+    em {
+      font-size: 0.75rem;
+      padding-top: $space--small/2;
+      display: block;
+    }
   }
 }
 
