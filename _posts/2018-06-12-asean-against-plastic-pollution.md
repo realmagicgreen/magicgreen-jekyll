@@ -3,7 +3,7 @@ name: ASEAN against plastic pollution
 subtitle: ASEAN Centre for Biodiversity (ACB) joins the movement against the use of plastics, supports the initiatives in banning plastic use.
 description: #
 category: solutions
-tags: Indonesia Malaysia Myanmar Philippine Singapore environment-friendly initiative social-responsibility waste
+tags: ASEAN Indonesia Malaysia Myanmar Philippine Singapore environment-friendly initiative social-responsibility waste
 image: /assets/p/posts/solutions/asean-against-plastic-pollution/asean-against-plastic-pollution.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

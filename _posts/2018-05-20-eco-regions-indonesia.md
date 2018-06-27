@@ -3,7 +3,7 @@ name: Eco Regions Indonesia
 subtitle: The Eco Region approach aspire to be a game changer for large scale green development.
 description:
 category: solutions
-tags: biodiversity eco-tourism eco-entrepreneurs Lombok Indonesia social-responsibility Sumbawa sustainable-development
+tags: biodiversity eco-tourism eco-entrepreneurs Lombok Indonesia initiative social-responsibility Sumbawa sustainable-development
 image: /assets/p/posts/solutions/eco-regions-indonesia/eco-regions-indonesia.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces
