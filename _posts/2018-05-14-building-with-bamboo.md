@@ -3,7 +3,7 @@ name: Building with bamboo
 subtitle: Bamboo is unmatched as a sustainable building material. It grows quickly and doesn't destroy the land.
 description: #
 category: techniques
-tags: architecture bamboo design environment-friendly learning sustainable-construction save-trees
+tags: architecture bamboo design environment-friendly learning sustainable-construction save-trees wood
 image: /assets/p/posts/techniques/building-with-bamboo/building-with-bamboo.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

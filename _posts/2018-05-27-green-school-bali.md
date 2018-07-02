@@ -3,7 +3,7 @@ name: Green School Bali
 subtitle: Architectural wonder to educate for sustainability.
 description:
 category: services
-tags: architecture Bali bamboo environment-friendly design Indonesia hydro-power learning permaculture recycle renewable-energy  
+tags: architecture Bali bamboo environment-friendly design Indonesia hydro-power learning permaculture recycle renewable-energy wood
 image: /assets/p/posts/services/green-school-bali/green-school-bali.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

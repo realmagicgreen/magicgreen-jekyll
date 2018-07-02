@@ -3,7 +3,7 @@ name: Artotel bamboo
 subtitle: Luxury meets sustainability. Looking good with excellent bamboo architecture in Sanur, Bali.
 description:
 category: solutions
-tags: architecture bamboo Bali design eco-friendly learning Indonesia
+tags: architecture bamboo Bali design eco-friendly learning Indonesia wood
 image: /assets/p/posts/solutions/artotel-bamboo/artotel-bamboo.jpg
 show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: Bamboo masters # lowercase, max 12 digits, including spaces

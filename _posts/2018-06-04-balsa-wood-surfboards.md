@@ -3,7 +3,7 @@ name: Balsa Wood Surfboards
 subtitle: Vince Tierny surfboards are produced with 100% balsa wood sourced from small scale plantations in East Java.
 description: #
 category: products
-tags: Bali design environment-friendly eco-friendly Indonesia sustainable-construction social-responsibility
+tags: Bali design environment-friendly eco-friendly Indonesia sustainable-construction social-responsibility wood
 image: /assets/p/posts/products/balsa-wood-surfboards/balsa-wood-surfboards.jpg
 show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: Balsa Boards # lowercase, max 12 digits, including spaces

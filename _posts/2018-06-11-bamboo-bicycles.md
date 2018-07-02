@@ -3,7 +3,7 @@ name: Bamboo bicycles
 subtitle: Making bikes out of bamboo is actually not all that crazy. East Bali bamboo bikes manufacture them locally.
 description: #
 category: products
-tags: bamboo Bali design environment-friendly Indonesia learning sustainable-construction
+tags: bamboo Bali design eco-friendly environment-friendly Indonesia learning sustainable-construction wood
 image: /assets/p/posts/products/bamboo-bicycles/bamboo-bicycles.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces
