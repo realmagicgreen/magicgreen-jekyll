@@ -54,6 +54,6 @@ Challenges did not stop Bali entrepreneurs, and project like [Bali Green village
 **_Know more:_**
 
 
-[Asali Bali](http://www.bamboobali.asia/)
+[Asali Bali](http://www.asalibali.com/)
 
 [Indo Bamboo](http://indobamboo.com/bamboo/)
