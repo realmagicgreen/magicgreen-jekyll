@@ -3,7 +3,7 @@ name: Trash hero
 subtitle: This global phenomena is growing bigger. And it's happening in Bali too.
 description: #
 category: solutions
-tags: Bali environment-friendly eco-friendly initiative Indonesia social-responsibility save-oceans
+tags: Bali environment-friendly eco-friendly free initiative Indonesia social-responsibility save-oceans
 image: /assets/p/posts/solutions/trash-hero/trash-hero.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

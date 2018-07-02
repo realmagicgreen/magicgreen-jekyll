@@ -3,7 +3,7 @@ name: Racing to clean
 subtitle: Volcom Indonesia offers an example of responsible action, the Red Bag race.
 description: #
 category: techniques
-tags: Bali environment-friendly eco-friendly Indonesia initiative social-responsibility save-oceans waste
+tags: Bali environment-friendly eco-friendly free Indonesia initiative social-responsibility save-oceans waste
 image: /assets/p/posts/techniques/racing-to-clean/racing-to-clean.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces
