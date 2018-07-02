@@ -34,6 +34,8 @@ Some companies, like [Recycle teak](http://www.recycleteak.com/about-us/) are co
 
 Some companies even go a step further and donate 10% of proceeds go to no-profits. For example [boat wood furniture Bali](http://boatwoodfurniturebali.com/) supprt Ypac Jimbaran, a local organization helping the physically handicapped children of bali.
 
+If you life far away and want to make something using reclaimed wood here is a [tutorial that guide you to build a reclaimed wood armchair](http://www.instructables.com/id/Reclaimed-Wood-Patio-Armchair/).
+
 **_Know more:_**
 
 [Recycle teak](http://www.recycleteak.com/)
