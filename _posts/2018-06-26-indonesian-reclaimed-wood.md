@@ -3,7 +3,7 @@ name: Indonesian reclaimed wood
 subtitle: Reclaimed timber is trendy now! Check out this smart way to up-cycle old wood turning it into furniture.
 description: #
 category: products
-tags: design environment-friendly eco-friendly Indonesia learning recycle save-trees wood
+tags: design environment-friendly eco-friendly Indonesia learning recycle save-trees sustainable-construction wood
 image: /assets/p/posts/products/indonesian-reclaimed-wood/indonesian-reclaimed-wood.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption:  # lowercase, max 12 digits, including spaces

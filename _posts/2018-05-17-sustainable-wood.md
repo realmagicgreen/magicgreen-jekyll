@@ -3,7 +3,7 @@ name: Sustainable wood
 subtitle: Forest Stewardship Council is demonstrating responsible forest supply chain management
 description: #
 category: services
-tags:  certification eco-entrepreneurs environment-friendly responsible-sources save-trees  social-responsibility wood
+tags:  certification eco-entrepreneurs environment-friendly responsible-sources save-trees sustainable-construction social-responsibility wood
 image: /assets/p/posts/services/sustainable-wood/sustainable-wood.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces
