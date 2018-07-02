@@ -1,5 +1,5 @@
 ---
-name: Fern eliminate poisons
+name: Fern eliminate air pollutants
 subtitle: This ancient plant offers a superior pollutants removal efficiency. A must have for an healthy home.
 description: #
 category: health
