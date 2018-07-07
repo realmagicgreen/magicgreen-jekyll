@@ -41,6 +41,8 @@ Equity and Tourism, A case study from Bali, 17 January 2012_.
 
 [IDEP Bali water protection page](http://idepfoundation.org/bwp)
 
+[BWP - the study - PDF](https://docs.google.com/viewerng/viewer?url=http://www.idepfoundation.org/images/idep/how-you-can-help/support-a-project/bali-water-protection-program/bwp_agama_tirtha.pdf)
+
 [Video - baligolive](https://youtu.be/Hx8DGqdiGec)
 
 [Video - 42Gurus](Bali Water Crisis - The Time to Act Is NOW!)
