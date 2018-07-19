@@ -36,8 +36,6 @@ Spirulina may also have other beneficial effects, such as helping to "detoxify" 
 {% include image.html name="-02" caption="It is actually quite amazing how nutritious Spirulina is." %}
 
 
-
-
 A single tablespoon (7 grams) of dried Spirulina powder contains (2):
 
 - Protein: 4 grams.
@@ -53,8 +51,30 @@ This is coming with only 20 calories, and 1.7 grams of digestible carbohydrate.
 
 Spirulina may literally be the single most nutritious food on the planet.
 
+### What Are the Dangers of Spirulina?
+
+Because it takes in minerals from its environment, however, spirulina can absorb toxic amounts of some substances. If you use spirulina, buy it from a reputable source and use it in moderation.
+
+Like other water-grown nutritional products, spirulina easily absorbs heavy metals, such as mercury and lead, from its environment. Spirulina grown in areas with large concentrations of these metals can contain dangerously high amounts of of them, passing them on to consumers.
+
+Although a 1986 study revealed alarmingly high concentrations of lead and mercury in several brands of spirulina supplements, a 1989 study found the concentrations to be much lower, concluding that one would have to take in more than 77 grams of the most heavily contaminated spirulina daily to suffer from toxicity.
+
+Spirulina contains microcystins, groups of amino acids that can be toxic to your liver if you take in too much of them, according to Purdue University. Because scientists have not yet determined a specific intake amount that is toxic, many nutritional product manufacturers do not regulate them at all.
+
+Many consumers have reported experiencing adverse health effects after using spirulina, a group of German researchers conducted a study, published in "Toxicology and Applied Pharmacology" in 2011, reviewing its safety.
+
+They analyzed 13 commercially distributed products and found cytotoxins, substances that are harmful to cells, in each of them. The researchers concluded that such nutritional products are highly questionable.
+
+Spirulina contains an abundance of nucleic acids, according to the Beth Israel Deaconess Medical Center. These substances, which are related to DNA, produce uric acid when they are metabolized. If too much uric acid accumulates in your body, gout or kidney stones can develop.
+
+If you are susceptible to gout attacks or kidney stones, spirulina may be especially harmful to you. To avoid excessive uric acid, the hospital recommends limiting your intake of spirulina to less than 50 grams per day.
+
 **_Know more:_**
 
 [Spirulina - Wikipedia](https://en.wikipedia.org/wiki/Spirulina_(dietary_supplement))
 
 [10 Health Benefits of Spirulina](https://www.healthline.com/nutrition/10-proven-benefits-of-spirulina)
+
+[Spirulina project at Auroville](https://www.auroville.com/spirulina)
+
+[Dangers of Spirulina](https://healthyeating.sfgate.com/dangers-spirulina-7035.html)
