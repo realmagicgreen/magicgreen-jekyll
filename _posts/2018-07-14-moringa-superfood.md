@@ -1,9 +1,9 @@
 ---
 name: Moringa superfood
-subtitle: This ancient plant offers a superior pollutants removal efficiency. A must have for an healthy home.
+subtitle: Also called drumstick tree, horseradish tree, Moringa is an excellent source of vitamins, antioxidants and minerals.
 description: #
 category: health
-tags: CO2 bedroom-plants air-cleaning botany plants learning wellness
+tags: CO2 botany plants learning superfood wellness
 image: /assets/p/posts/health/moringa-superfood/moringa-superfood.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces
@@ -21,7 +21,7 @@ Almost all parts of the tree are eaten or used as ingredients in traditional her
 Moringa leaves are an excellent source of many vitamins and minerals. One cup of fresh, chopped leaves (21 grams) contains:
 
 - Protein: 2 grams
-- Vitamin B6: 19% of the RDA
+- Vitamin B6: 19% of the [RDA](https://en.wikipedia.org/wiki/Dietary_Reference_Intake)
 - Vitamin C: 12% of the RDA
 - Iron: 11% of the RDA
 - Riboflavin (B2): 11% of the RDA
@@ -43,9 +43,6 @@ Moringa benefits are:
 - Can Lower Cholesterol
 - May Protect Against Arsenic Toxicity
 
-However, there is one downside, Moringa leaves may also [contain high levels of antinutrients](https://www.sciencedirect.com/science/article/abs/pii/S0044848602004970), which can reduce the absorption of minerals and protein.
-
-The [antinutritional substances tested]((https://www.ncbi.nlm.nih.gov/pubmed/24206684)) were tannins (20.7 mg g(-1)), trypsin inhibitor (1.45TIU mg g(-1)), nitrate (17 mg g(-1)) and oxalic acid (10.5 mg g(-1)), besides the absence of cyanogenic compounds. β-Carotene and lutein stood out as major carotenoids, with concentrations of 161.0 and 47.0 μg g(-1) leaf, respectively.
 
 Antioxidants are compounds that act against free radicals in your body.
 
@@ -57,6 +54,9 @@ In addition to vitamin C and beta-carotene, these include Quercetin which is a p
 
 One study in women found that taking 1.5 teaspoons (7 grams) of moringa leaf powder every day for three months significantly increased blood [antioxidant](https://link.springer.com/article/10.1007%2Fs13197-012-0859-9) levels.
 
+However, there is one downside, Moringa leaves may also [contain high levels of antinutrients](https://www.sciencedirect.com/science/article/abs/pii/S0044848602004970), which can reduce the absorption of minerals and protein.
+
+The results suggest that Moringa leaf meal can be used to substitute up to 10% of dietary protein in Nile tilapia fish without significant reduction in growth. Diets with higher inclusion levels of moringa leaves significantly depressed growth performance on the fish tested.
 
 **_Know more:_**
 
