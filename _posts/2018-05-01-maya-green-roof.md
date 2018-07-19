@@ -10,7 +10,7 @@ home_slideshow_caption: green roofs # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: true # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-sticky: true # 'true' or empty
+sticky: # 'true' or empty
 photography: Rokma # put here photographer name
 ---
 Designed by award-winning architect, Budiman Hendropurnomo of Denton Corker Marshall, Maya Sanur Resort feature an innovative design that elevates aesthetics to exciting new heights.
