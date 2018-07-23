@@ -3,7 +3,7 @@ name: ASEAN against plastic pollution
 subtitle: ASEAN Centre for Biodiversity (ACB) joins the movement against the use of plastics, supports the initiatives in banning plastic use.
 description: Every year, the world produces around five trillion plastic bags. That is about 700 bags per person. Utilized for just a few minutes, take centuries to decompose. These wastes pile up in our lands and easily washed up into our streams, and rivers until they reach the oceans. Polluting our waters, destroying aquatic habitats, and eventually kill marine species.
 category: solutions
-tags: ASEAN Indonesia Malaysia Myanmar Philippine Singapore environment-friendly initiative social-responsibility waste
+tags: ASEAN Indonesia Malaysia Myanmar Philippines Singapore environment-friendly initiative social-responsibility waste
 image: /assets/p/posts/solutions/asean-against-plastic-pollution/asean-against-plastic-pollution.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces
@@ -38,7 +38,7 @@ A line of mini-marts and convenience stores in **Thailand** with 11,000 operatin
 
 Large businesses and enterprises in **Vietnam** also introduced eco-friendly bags for shoppers, and the government imposes environment tax on plastic bags, which is VND 40,000 (USD 1.76) per kilogram.
 
-On 12 June 2018, the **Philippine** government through the Department of Environment and Natural Resources (DENR) urged the general public to avoid using disposable plastic products that clog waterways, cause ocean pollution, and poison marine species.
+On 12 June 2018, the **Philippines** government through the Department of Environment and Natural Resources (DENR) urged the general public to avoid using disposable plastic products that clog waterways, cause ocean pollution, and poison marine species.
 
 >“Plastic, particularly those for single-use packaging, has greatly contributed to the degradation of the environment. Plastic pollution continues to poison our oceans and injure marine life. When not properly disposed, they clog waterways and cause flooding,” _Roy Cimatu, DENR Secretary_
 
