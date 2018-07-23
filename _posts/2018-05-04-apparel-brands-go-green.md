@@ -1,7 +1,7 @@
 ---
 name: Apparel brands go green
 subtitle: Go green or go home, millennials shop Eco-Friendly, new study finds.
-description: #
+description: New data has found that Americans don’t want to get caught buying from a company exploiting the planet The findings show that 90% of millennials will buy from a brand whose social and environmental practices they trust, and 95% of them will recommend that brand to a friend.
 category: know
 tags:  CO2 eco-entrepreneurs environment-friendly social-responsibility
 image: /assets/p/posts/know/apparel-brands-go-green/apparel-brands-go-green.jpg

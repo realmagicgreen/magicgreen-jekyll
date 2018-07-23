@@ -1,7 +1,7 @@
 ---
 name: Paper towels
 subtitle: Nearly 4 billion trees are cut down each year for paper.
-description: #
+description: Did you know that nearly 4 billion trees are cut down each year for paper. Used paper towels are not recyclable. 1 ton of paper towels consumes 17 trees, pollutes 75.708.236 liters of water. Solutions exist. For the simple household think washable fabric towels. If you are running an hotel or a restaurant, think electric hand driers. Lets do our part to save the environment.
 category: know
 tags:  learning paper recycle save-trees social-responsibility
 image: /assets/p/posts/know/paper-towels/paper-towels.jpg
@@ -17,4 +17,6 @@ Did you know that nearly 4 billion trees are cut down each year for paper. Used 
 
 1 ton of paper towels consumes 17 trees, pollutes 75.708.236 liters of water.
 
-Solution are there. For the simple household think washable fabric towels. If you are running an hotel or a restaurant, think electric hand driers. Lets do our part to save the environment.
+Solutions exist. For the simple household think washable fabric towels.
+
+If you are running an hotel or a restaurant, think electric hand driers. Let's do our part to save the environment.

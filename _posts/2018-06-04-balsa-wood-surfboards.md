@@ -1,7 +1,7 @@
 ---
 name: Balsa Wood Surfboards
 subtitle: Vince Tierny surfboards are produced with 100% balsa wood sourced from small scale plantations in East Java.
-description: #
+description: "Surfing is one of the most environment-friendly sports , because of the love to the ocean every surfer keeps. But there is also a side of it thats not eco-friendly at all: the equipment. Everything is made out of plastic and the boards are mostly out of foam with epoxy, what is not very green. Vince Tierny changed that. Since the early 80s he came from France to Indonesia and more or less stayed here. He grew up a manufactory of wooden Surfboards, with some struggling, but he kept on going until now, where they produce up to 150 boards annually."
 category: products
 tags: Bali design environment-friendly eco-friendly Indonesia sustainable-construction social-responsibility wood
 image: /assets/p/posts/products/balsa-wood-surfboards/balsa-wood-surfboards.jpg
@@ -17,7 +17,7 @@ Surfing is one of the most environment-friendly sports , because of the love to 
 
 {% include image.html name="-06" caption="Vince Tierny showroom" %}
 
-Vince Tierny changed that. Since the early 80s he came from France to Indonesia and more or less stayed here. He grew up a manufactory of wooden Surfboards, with some struggeling, but he kept on going until now, where they produce up to 150 boards annually.
+Vince Tierny changed that. Since the early 80s he came from France to Indonesia and more or less stayed here. He grew up a manufactory of wooden Surfboards, with some struggling, but he kept on going until now, where they produce up to 150 boards annually.
 
 
 {% include image.html name="-04" caption="Vince Tierny" %}

@@ -1,7 +1,7 @@
 ---
 name: Gardens by the bay
 subtitle: An astonishing example of sustainable edutainment environment
-description: #
+description: Rated number 3 on things to do in Singapore Tripadvisor. Reached more than 40 million visitors to date. World's top 20 most checked-in places on Facebook. Contains more than 1,000,000 plants. The two Cooled Conservatories at Gardens by the Bay are the world’s largest column-less greenhouses.
 category: solutions
 tags: architecture biodiversity design eco-entrepreneurs hydro-power learning recycle Singapore sustainable-construction
 image: /assets/p/posts/solutions/gardens-by-the-bay/gardens-by-the-bay.jpg

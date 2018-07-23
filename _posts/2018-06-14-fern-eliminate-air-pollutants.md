@@ -1,7 +1,7 @@
 ---
 name: Fern eliminate air pollutants
 subtitle: This ancient plant offers a superior pollutants removal efficiency. A must have for an healthy home.
-description: #
+description: The importance of indoor air quality to human health has become of increasing interest in developed countries where inhabitants often spend over 90% of their time indoors. Scientists studying the air-purification capacities of indoor plants have found that plants can absorb many other gases in addition to carbon dioxide, including a long list of volatile organic compounds (VOCs).
 category: health
 tags: CO2 bedroom-plants air-cleaning botany plants learning wellness
 image: /assets/p/posts/health/fern-eliminate-air-pollutants/fern-eliminate-air-pollutants.jpg
@@ -14,8 +14,7 @@ sticky: # 'true' or empty
 photography: Rokma # put here photographer name
 ---
 
-The importance of indoor air quality to human health has become of increasing
-interest in developed countries where inhabitants often spend over 90% of their time indoors.
+The importance of indoor air quality to human health has become of increasing interest in developed countries where inhabitants often spend over 90% of their time indoors.
 
 Scientists studying the air-purification capacities of indoor plants have found that plants can absorb many other gases in addition to carbon dioxide, including a long list of volatile organic compounds (VOCs).
 

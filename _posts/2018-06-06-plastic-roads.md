@@ -1,7 +1,7 @@
 ---
 name: Plastic roads
 subtitle: Indonesia uses plastic and rubber tires waste for road asphalt. A clever way to reduce plastic pollution.
-description: #
+description: Indonesia began to use plastic and rubber tires waste or a mixture of both for the asphalt material of the highway. The Research and Development Agency at the Ministry of Public Works and People's Housing of Indonesia uses plastic waste as a road asphalt material.
 category: solutions
 tags: Bali Indonesia plastic social-responsibility recycle waste
 image: /assets/p/posts/solutions/plastic-roads/plastic-roads.jpg

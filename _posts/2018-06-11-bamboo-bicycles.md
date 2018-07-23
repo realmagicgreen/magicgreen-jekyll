@@ -1,7 +1,7 @@
 ---
 name: Bamboo bicycles
 subtitle: Making bikes out of bamboo is actually not all that crazy. East Bali bamboo bikes manufacture them locally.
-description: #
+description: The crazy idea of making bikes out of bamboo is actually not all that crazy. It has excellent vibration dampening effects, noticeable on bumpy roads. And producing them means almost zero greenhouse gases emissions. Bamboo is a very strong material which grows fast naturally. It has properties comparable to steel. It's an earthquake resistant construction material used to build bridges. Go figure.
 category: products
 tags: bamboo Bali design eco-friendly environment-friendly Indonesia learning sustainable-construction wood
 image: /assets/p/posts/products/bamboo-bicycles/bamboo-bicycles.jpg

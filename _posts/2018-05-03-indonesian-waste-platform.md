@@ -1,7 +1,7 @@
 ---
 name: Indonesian waste platform
-subtitle: Hub promoting and facilitating cross-sector collaborations for solutions on the waste problems in Indonesia..
-description: #
+subtitle: Hub promoting and facilitating cross-sector collaborations for solutions on the waste problems in Indonesia.
+description: Indonesian Waste Platform is a hub – promoting and facilitating. IWP works on a daily basis to connect stakeholders, share news and contribute to capacity building cross-sector collaborations for solutions on the waste problems in Indonesia.
 category: solutions
 tags:  Bali Indonesia learning social-responsibility waste
 image: /assets/p/posts/solutions/indonesian-waste-platform/indonesian-waste-platform.jpg

@@ -1,7 +1,7 @@
 ---
 name: Honda electric cub
 subtitle: Soon available in Indonesia the retro looking scooter with revolutionary features.
-description: #
+description: The new Honda EV-Cub is definitely an eyebrow raiser. Two electric motors, one in the front, the other in the back. Sure this is unique. I only know of a few electric bikes that have that configuration, which, by the way, is plenty of fun in the right conditions.
 category: products
 tags: commuting environment-friendly eco-friendly electric Indonesia  
 image: /assets/p/posts/products/honda-electric-cub/honda-electric-cub.jpg

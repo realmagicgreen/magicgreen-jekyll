@@ -1,7 +1,7 @@
 ---
 name: Indonesian reclaimed wood
 subtitle: Reclaimed timber is trendy now! Check out this smart way to up-cycle old wood turning it into furniture.
-description: #
+description: Rest easy, feel good, you are sitting on a reclaimed timber chair! In the last few years in Indonesia and specially in Bali, we have seen a big boom in furniture made from reclaimed wood. They sell it locally and also ship it all over the world.
 category: products
 tags: design environment-friendly eco-friendly Indonesia learning recycle save-trees sustainable-construction up-cycle wood
 image: /assets/p/posts/products/indonesian-reclaimed-wood/indonesian-reclaimed-wood.jpg

@@ -1,7 +1,7 @@
 ---
 name: Sustainable wood
 subtitle: Forest Stewardship Council is demonstrating responsible forest supply chain management
-description: #
+description: The future of the world’s forests is very important to the planet, to animals, to businesses, to all of us. That’s why FSC certification exists. Whether you’re a forest manager, product manufacturer, retailer, or any number of other kinds of company, you can apply for FSC certification.
 category: services
 tags:  certification eco-entrepreneurs environment-friendly responsible-sources save-trees sustainable-construction social-responsibility wood
 image: /assets/p/posts/services/sustainable-wood/sustainable-wood.jpg

@@ -1,7 +1,7 @@
 ---
 name: Peace lilies
 subtitle: One of the most powerful pollutant remover.
-description: #
+description: Peace lilies go by the scientific name of Spathiphyllum. NASA Clean Air Study found that it is one of the most powerful pollutant remover. While is toxic to cat and dogs, it does a fantastic job in cleaning the air that we humans pollute.
 category: health
 tags: CO2 bedroom-plants air-cleaning botany plants learning wellness
 image: /assets/p/posts/health/peace-lilies/peace-lilies.jpg

@@ -1,7 +1,7 @@
 ---
 name: Green walls
 subtitle: Absorb pollution, offer cooling shade and cost much less than any other walls.
-description: #
+description: Green walls are not only visually pleasant, but naturally absorb CO2 and other pollutants thus cleaning the air.
 category: solutions
 tags: air-cleaning Bali CO2 design environment-friendly Indonesia
 image: /assets/p/posts/solutions/green-walls/green-walls.jpg

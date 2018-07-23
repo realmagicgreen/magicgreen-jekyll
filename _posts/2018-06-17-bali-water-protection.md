@@ -1,7 +1,7 @@
 ---
 name: Bali water protection
 subtitle: This project calls on Bali’s leadership and responsibility to address the island’s diminishing water table and rapidly dropping levels of freshwater availability.
-description: #
+description: We are pumping the ground water dry and we must act now to avoid permanent damage. Bali is on the verge of an environmental catastrophe. Groundwater reserves in Bali are at around 20% according to Politeknik Negeri Bali  in a report published by Republika. This project calls on Bali’s spiritual, political, economical, and civil leadership attention and responsibility to address the island’s diminishing water table and rapidly dropping levels of freshwater availability to ensure Bali’s present and future water sovereignty and supply resilience. A freshwater table lost to salt water is one of the rare ecological conditions which is not reversible.
 category: solutions
 tags: Bali Indonesia environment-friendly initiative social-responsibility water
 image: /assets/p/posts/solutions/bali-water-protection/bali-water-protection.jpg

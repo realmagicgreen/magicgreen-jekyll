@@ -1,7 +1,7 @@
 ---
 name: Zero electric motorcycles
 subtitle: Garansindo brings Zero superbikes to Indonesia. Serious riding.
-description: #
+description: Powerful. Electric and available now. Developed to aggressively take on urban environments while encouraging occasional detours to your favorite stretch of backcountry twisties, the Zero S electric motorcycle integrates revolutionary technology with innovative motorcycle design.
 category: products
 tags: commuting environment-friendly eco-friendly electric Indonesia travel
 image: /assets/p/posts/products/zero-electric-motorcycles/zero-electric-motorcycles.jpg

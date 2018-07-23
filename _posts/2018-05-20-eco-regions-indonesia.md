@@ -1,7 +1,7 @@
 ---
 name: Eco Regions Indonesia
 subtitle: The Eco Region approach aspire to be a game changer for large scale green development.
-description:
+description: The plan is to create Southeast Asia’s no. 1 green destination and attract the world's most engaged green partners and most passionate eco-tourists. Along the Alas Strait, between Lombok and Sumbawa, East Indonesia, Eco Regions Indonesia are creating two large-scale Eco Regions that embrace over 1,000 ha of land and 20,000 ha of water teeming with biodiversity. They envision to create a blueprint for sustainable development and to preserve two of Indonesia’s most iconic locations for generations to come.
 category: solutions
 tags: biodiversity eco-tourism eco-entrepreneurs Lombok Indonesia initiative social-responsibility Sumbawa sustainable-development
 image: /assets/p/posts/solutions/eco-regions-indonesia/eco-regions-indonesia.jpg

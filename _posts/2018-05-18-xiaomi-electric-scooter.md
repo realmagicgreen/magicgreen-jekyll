@@ -1,7 +1,7 @@
 ---
 name: Xiaomi Electric Scooter
 subtitle: This convenient foldable scooter in now available in Indonesia
-description: #
+description: XIAOMI Mijia 365  electric scooter comes with a dual-brake system. The front wheel has E-ABS anti-lock system, while the rear wheel uses mechanical disk brake. The braking distance can be shortened to 4 meters. Powered by 18650 lithium-ion battery pack with a battery capacity of 280 watts/hour and offering an overlong cruising distance of 30 km.
 category: products
 tags: Bali commuting environment-friendly eco-friendly electric Indonesia  
 image: /assets/p/posts/products/xiaomi-electric-scooter/xiaomi-electric-scooter.jpg

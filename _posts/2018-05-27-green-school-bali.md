@@ -1,7 +1,7 @@
 ---
 name: Green School Bali
 subtitle: Architectural wonder to educate for sustainability.
-description:
+description: Founded and conceived by John and Cynthia Hardy in 2006, Green School opened in 2008 with 90 students and a tailor-made campus that emerged from the jungle and rice fields. Since then it has grown to approximately 400 students. It uses some renewable energy sources, including micro-hydro power from a "hydroelectric vortex", and solar power. The campus is designed around the principles of an organic permaculture system, and the students cultivate an organic garden as part of their learning activities.
 category: services
 tags: architecture Bali bamboo environment-friendly design Indonesia hydro-power learning permaculture recycle renewable-energy sustainable-construction wood
 image: /assets/p/posts/services/green-school-bali/green-school-bali.jpg

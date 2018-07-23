@@ -1,7 +1,7 @@
 ---
 name: Singapore Botanic Gardens
 subtitle: This outstanding world of plants is a UNESCO world heritage site. A must see for all!
-description: #
+description: The Singapore Botanic Gardens, with 4 millions visitors per year, 150 years of connecting plant and people, free entrance and his own subway stop, is an outstanding example of educational facility.
 category: solutions
 tags: botany biodiversity eco-entrepreneurs free forest heritage horticulture learning plants Singapore tropical  
 image: /assets/p/posts/solutions/singapore-botanic-gardens/singapore-botanic-gardens.jpg

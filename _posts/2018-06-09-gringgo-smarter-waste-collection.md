@@ -1,7 +1,7 @@
 ---
 name: Gringgo smarter waste collection
 subtitle: Born in Bali this platform for recycling is tackling the trash problem head on.
-description: #
+description: In many places around the world, trash is a big problem and recycling is not easy, so people don't recycle. Gringgo make it easy. Gringgo was initially created as a platform for recycling aimed at local schools. Their goals was to make recycling easier, rewarding and fun. The concept has evolved and now Gringgo is tackling the trash problem head on.
 category: solutions
 tags: Bali environment-friendly eco-friendly initiative Indonesia social-responsibility save-oceans waste
 image: /assets/p/posts/solutions/gringgo-smarter-waste-collection/gringgo-smarter-waste-collection.jpg

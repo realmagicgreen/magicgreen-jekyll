@@ -1,7 +1,7 @@
 ---
 name: Byebye plastic bags
 subtitle: Youth Driven Change to get the people of Bali to say no to plastic bags.
-description: #
+description: Byebye plastic bags is an initiative from children to force all the people to say no to plastic bags, because of the enormous environmental pollution they cause. It was invented of two young women, Melati and Isabel Wijtsen. They have a vision of a plastic bag free world where the young generation takes care and take action. They want to ban the use, sale and production of plastic bags.
 category: solutions
 tags: Bali eco-entrepreneurs environment-friendly initiative Indonesia save-oceans  social-responsibility
 image: /assets/p/posts/solutions/byebye-plastic-bags/byebye-plastic-bags.jpg

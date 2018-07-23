@@ -1,7 +1,7 @@
 ---
 name: ET foldable scooter
 subtitle: Charge it, un-fold it and ride smarter.
-description: #
+description: Among the big offer of e-bikes and scooters one which sticks out is definitely this slick ET foldable electric scooter. With a catchy design it guarantees you will be noticeable while feeling good emitting no pollution nor noise. Go tell this to your neighbor who's riding an Harley Davidson.
 category: products
 tags: commuting electric environment-friendly
 image: /assets/p/posts/products/et-foldable-scooter/et-foldable-scooter.jpg

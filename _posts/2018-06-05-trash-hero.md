@@ -1,7 +1,7 @@
 ---
 name: Trash hero
 subtitle: This global phenomena is growing bigger. And it's happening in Bali too.
-description: #
+description: So you like to talk trash huh? The Trash Hero movement is a global phenomena and is growing bigger. They educate and act. In Bali too, people are taking it in their own hands. It's Sunday and at the Bajra Sandhi Monument you can see a bunch of people wearing yellow T-shirts walking around with recycled rice bag and picking up the plastic trash.
 category: solutions
 tags: Bali environment-friendly eco-friendly free initiative Indonesia social-responsibility save-oceans
 image: /assets/p/posts/solutions/trash-hero/trash-hero.jpg

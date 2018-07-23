@@ -1,7 +1,7 @@
 ---
 name: Bedroom plants
 subtitle: Plants that absorb CO2 at night and help you sleep better.
-description: #
+description: Sure, that potted fern is pretty, but can it really spruce up the air quality in your home? Studies by scientists at NASA, Pennsylvania State University, the University of Georgia and other respected institutions suggest that it can. Plants are notoriously adept at absorbing gases through pores on the surface of their leaves. It's this skill that facilitates photosynthesis, the process by which plants convert light energy and carbon dioxide into chemical energy to fuel growth.
 category: health
 tags: CO2 bedroom-plants air-cleaning botany plants learning wellness
 image: /assets/p/posts/health/bedroom-plants/bedroom-plants.jpg

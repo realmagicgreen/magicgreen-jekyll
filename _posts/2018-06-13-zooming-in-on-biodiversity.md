@@ -1,7 +1,7 @@
 ---
 name: Zooming in on biodiversity
 subtitle: An ASEAN wide photo contest capturing the richness of biological resources in the region.
-description: #
+description: Biodiversity is the variety of life on Earth. These forms of life include microorganisms, fungi, plants, and animals, including the communities that they form and the habitats in which they live. According to the Convention on Biological Diversity, biodiversity is - the variability among living organisms from all sources including, inter alia, terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part; this includes diversity within species, between species and of ecosystems...
 category: know
 tags: ASEAN  Indonesia Malaysia Myanmar Philippine Singapore biodiversity initiative learning tropical
 image: /assets/p/posts/know/zooming-in-on-biodiversity/zooming-in-on-biodiversity.jpg

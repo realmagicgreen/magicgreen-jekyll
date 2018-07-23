@@ -1,7 +1,7 @@
 ---
 name: Bali wave energy park
 subtitle: Wello will build a 10 MW Wave Energy Park in Nusa Penida an island close to  Bali.
-description: #
+description: Currently more than 60% of the worlds electricity is produced with fossil fuels. With 75% of the earth’s surface being covered by water, the huge clean, continues energy production potential of wave energy is rapidly increasing in interest. Gapura Energi Utama, an Indonesian infrastructure construction company, has ordered a 10 MegaWatt Wello Penguin wave energy park. It floats on water and captures kinetic energy from the waves, which is then turned into electrical power with zero emissions. The vessel is positioned away from the wave breaking zone.
 category: solutions
 tags: Bali Indonesia Nusa-Penida environment-friendly renewable-energy eco-entrepeneurs social-responsibility sustainable-development water wave-power
 image: /assets/p/posts/solutions/bali-wave-energy-park/bali-wave-energy-park.jpg

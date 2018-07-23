@@ -1,7 +1,7 @@
 ---
 name: Energy saving bulbs
 subtitle: Saving the planet starts from saving energy.
-description: #
+description: Now available almost in Bali at a cheap price (11.000 rp), this 9 watts LED bulb produces as much light as old incandescent 100w bulbs, and last much longer. Save money, and contribute to reducing energy consumption. Remember that in Indonesia electricity is still mostly produced by burning fossil fuels.
 category: know
 tags: energy-saving energy-efficiency electric learning
 image: /assets/p/posts/know/energy-saving-bulbs/energy-saving-bulbs.jpg
