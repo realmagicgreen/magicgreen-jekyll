@@ -31,8 +31,8 @@
     "change-case": "^3.0.2",
     "google-spreadsheet": "^2.0.5",
     "gulp": "^4.0.0",
-    "gulp-rename": "^1.2.3",
-    "gulp-responsive": "^2.10.0"
+    "gulp-rename": "^1.4.0",
+    "gulp-responsive": "^2.11.0"
   },
   "dependencies": {
     "npm": "^6.2.0",
