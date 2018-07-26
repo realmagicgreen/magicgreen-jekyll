@@ -3,7 +3,7 @@ name: Dracaena benefits
 subtitle: This plant removes many pollutants. It's perfect for an healthy home.
 description: People use Dracaena for the health benefits they offer. Dracaena, which name comes from ancient greek, meaning female dragon, is a genus of about 120 species of trees and succulent shrubs. Caring for it is quite easy. It can withstand a certain amount of neglect. A brightly lit spot without direct sunshine is suggested. A small amount of morning or evening sun is not a problem. Avoid having a plant sitting near cold drafts. A fast draining potting soil mix is best to use. Over-watering can kill it.
 category: health
-tags: CO2 bedroom-plants air-cleaning botany plants learning wellness
+tags: CO2 bedroom-plants air-cleaning botany horticulture plants learning wellness
 image: /assets/p/posts/health/dracena-benefits/dracena-benefits.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

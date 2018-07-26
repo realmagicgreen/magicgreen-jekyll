@@ -3,7 +3,7 @@ name: Snake plant
 subtitle: Recommended for improving indoor air quality, it absorbs CO2 at night.
 description: Sansevieria Trifasciata also called mother-in-law's tongue is one of the most recommended plants for improving indoor air quality. An evergreen perennial plant which, like Aloe Vera, emits oxygen at night. Sansevieria thrive on warmth and bright light, but will also tolerate shade. They can rot from over-watering, so it is important that they are potted in well-drained soil, and not over-watered.
 category: health
-tags: CO2 bedroom-plants air-cleaning botany plants learning wellness
+tags: CO2 bedroom-plants air-cleaning botany horticulture plants learning wellness
 image: /assets/p/posts/health/snake-plant/snake-plant.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

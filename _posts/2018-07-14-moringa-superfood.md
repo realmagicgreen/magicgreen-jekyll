@@ -3,7 +3,7 @@ name: Moringa superfood
 subtitle: Also called drumstick tree, horseradish tree, Moringa is an excellent source of vitamins, antioxidants and minerals.
 description: Moringa also called drumstick tree, horseradish tree, ben oil tree or benzoil tree is a fast-growing, drought-resistant tree, native to the southern foothills of the Himalayas. Almost all parts of the tree are eaten or used as ingredients in traditional herbal medicines. The results suggest that Moringa leaf meal can be used to substitute up to 10% of dietary protein in Nile tilapia fish without significant reduction in growth. Diets with higher inclusion levels of moringa leaves significantly depressed growth performance on the fish tested.
 category: health
-tags: CO2 botany plants learning superfood wellness
+tags: CO2 botany horticulture plants learning superfood wellness
 image: /assets/p/posts/health/moringa-superfood/moringa-superfood.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

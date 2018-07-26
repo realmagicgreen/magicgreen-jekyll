@@ -3,7 +3,7 @@ name: Areca Palm
 subtitle: Removes CO2 and produces lots of oxygen. Its health benefits will boost your energy and productivity.
 description: Dypsis lutescens, also known as golden Cane Palm, Areca Palm, Yellow Palm, or Butterfly Palm is a wonder plant. Besides cleaning the air by removing pollutants it's an effective humidifier. Areca Palm leaves produce negative ions, similar to many air purifying machines. Negative ions attach themselves to (and effectively remove) particles such as dust, mold spores, bacteria, and allergens. The presence of negative ions is credited for increasing psychological health, productivity, and overall well-being.
 category: health
-tags: CO2 bedroom-plants air-cleaning botany plants learning wellness
+tags: CO2 bedroom-plants air-cleaning botany horticulture plants learning wellness
 image: /assets/p/posts/health/areca-palm/areca-palm.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces

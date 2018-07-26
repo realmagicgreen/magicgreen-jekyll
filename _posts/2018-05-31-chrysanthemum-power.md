@@ -3,7 +3,7 @@ name: Chrysanthemum power
 subtitle: Beautiful flowers and powerful pollutant remover. A must have for an healthy home.
 description: Chrysanthemum, known also as Pot Mum or Florist's Mum, mildly toxic and an irritant to cats and dogs is an excellent poison remover. The Pot Mum has an incredible transpiration rate and this is one of the reasons it is so effective at cleaning the air, because of this you will need to water quite often, perhaps up to twice a week. Keep the soil damp at all times.
 category: health
-tags: CO2 bedroom-plants air-cleaning plants learning wellness
+tags: CO2 bedroom-plants air-cleaning horticulture plants learning wellness
 image: /assets/p/posts/health/chrysanthemum-power/chrysanthemum-power.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces
