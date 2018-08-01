@@ -20,6 +20,8 @@ Trash accumulates in 5 ocean garbage patches, the largest one being the Great Pa
 
 Ocean currents concentrate plastic in five areas in the world: the subtropical gyres, also known as the world’s "ocean garbage patches". Once in these patches, the plastic will not go away by itself.
 
+{% include image.html name="-02" caption="" %}
+
 The challenge of cleaning up the gyres is the plastic pollution spreads across millions of square kilometers and travels in all directions.
 
 Covering this area using vessels and nets would take thousands of years and cost billions of dollars to complete. How can we use these ocean currents to our advantage?
@@ -28,8 +30,8 @@ Covering this area using vessels and nets would take thousands of years and cost
 
 Solving this problem requires a combination of closing the source, and cleaning up what has already accumulated in the ocean.
 
+{% include image.html name="-05" caption="" %}
 
-{% include image.html name="-02" caption="" %}
 
 The Ocean Cleanup develops advanced [technologies](https://www.theoceancleanup.com/technology/) to rid the world's oceans of plastic. A full-scale deployment of our systems is estimated to clean up 50 % of the Great Pacific Garbage Patch in 5 years.
 
@@ -61,3 +63,9 @@ After fleets of systems are deployed into every ocean gyre, combined with source
 **_Know more:_**
 
 [The Ocean Cleanup - website](https://www.theoceancleanup.com)
+
+[See more photos](https://www.theoceancleanup.com/media-gallery/)
+
+[The Ocean Cleanup - aerial expedition](https://www.theoceancleanup.com/milestones/aerial-expedition/)
+
+[The Ocean Cleanup - YouTube channel](https://www.youtube.com/user/TheOceanCleanup)
