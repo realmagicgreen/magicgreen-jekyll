@@ -1,7 +1,7 @@
 ---
-name: the-ocean-cleanup
-subtitle: At recent ASEAN meeting Indonesia pushed the need to combat invasive alien species.
-description: #
+name: The Ocean Cleanup
+subtitle: Trash accumulates in 5 ocean garbage patches, the largest one being the Great Pacific Garbage Patch. If left to circulate, the plastic will impact our ecosystems, health and economies.
+description: "Trash accumulates in 5 ocean garbage patches, the largest one being the Great Pacific Garbage Patch, located between Hawaii and California. If left to circulate, the plastic will impact our ecosystems, health and economies. Ocean currents concentrate plastic in five areas in the world, the subtropical gyres, also known as the world ocean garbage patches. Once in these patches, the plastic will not go away by itself."
 category: solutions
 tags: biodiversity eco-entrepreneurs initiative plastic learning save-oceans social-responsibility sustainable-development waste water
 image: /assets/p/posts/solutions/the-ocean-cleanup/the-ocean-cleanup.jpg
