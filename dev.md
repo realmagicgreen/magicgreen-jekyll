@@ -78,8 +78,8 @@ Store photos, at least 2000x1333px, .tif or .jpg, in ```/src/_p-hi```
 Copy those to process into:   
 
 - ```/src/p_input``` if not yet lowercase, or  
-- ```/src/p_lowercase``` if already all lowercase , or  
-- ```/src/p_jpeg```if already .jpg
+- ```/src/p_lowercase``` if already all lowercase, or  
+- ```/src/p_jpeg``` if already .jpg
 
 Then use:
 
