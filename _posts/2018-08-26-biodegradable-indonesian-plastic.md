@@ -3,7 +3,7 @@ name: Biodegradable Indonesian Plastic
 subtitle: Avani’s cassava-based biodegradable bags and products are solutions to the worldwide plastic problem.
 description: "Every year, an estimated 1 trillion plastic bags are consumed worldwide. Avani cassava-based biodegradable bags are a solution to mitigate this horrible worldwide epidemic. Avani bags are bio-based, an ideal replacement to petroleum-based plastic bags. Compostable and biodegradable these bags can be recycled along with paper."
 category: products
-tags: design environment-friendly eco-friendly Indonesia learning recycle sustainable-construction plastic
+tags: design environment-friendly eco-friendly Indonesia recycle sustainable-construction plastic plastic-alternatives social-responsibility
 image: /assets/p/posts/products/biodegradable-indonesian-plastic/biodegradable-indonesian-plastic.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption:  # lowercase, max 12 digits, including spaces
