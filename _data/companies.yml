@@ -198,6 +198,16 @@
   location: https://goo.gl/maps/zSfXaoEtih42
   country: Indonesia
 
+- brand: earthquake track
+  products: Earthquake infos
+  company: 
+  website: https://www.earthquaketrack.com/
+  email: earthquaketrack@gmail.com
+  telephone: 
+  address: 
+  location: 
+  country: WorldWide
+
 - brand: EarthXpress
   products: Organic, Vegan Products 
   company:  
@@ -215,16 +225,6 @@
   email: ebbb@eastbalipovertyproject.org
   telephone: 
   address: 
-  location: 
-  country: 
-
-- brand: East Bali Poverty Project
-  products: Eliminate poverty
-  company: Yayasan Ekoturisme Indonesia
-  website: https://www.eastbalipovertyproject.org
-  email: 
-  telephone: 62  361 410071
-  address: PO Box 3850 Denpasar
   location: 
   country: Indonesia
 
@@ -246,6 +246,16 @@
   telephone: 62 822 37799819
   address: Jl. Raya Padonan, Tibubeneng, Kuta, Bali 80361
   location: https://goo.gl/maps/cyMAtdcmiWC2
+  country: Indonesia
+
+- brand: East Bali Poverty Project
+  products: Eliminate poverty
+  company: Yayasan Ekoturisme Indonesia
+  website: https://www.eastbalipovertyproject.org
+  email: 
+  telephone: 62  361 410071
+  address: PO Box 3850 Denpasar
+  location: 
   country: Indonesia
 
 - brand: Eco Regions Indonesia
@@ -388,16 +398,6 @@
   location: https://goo.gl/maps/5Dmc4zsWiJ52
   country: Germany
 
-- brand: Mongabay
-  products: Conservation news
-  company:  
-  website: http://www.mongabay.co.id
-  email: mongabay@mongabay.com
-  telephone: 
-  address: 
-  location: 
-  country: 
-
 - brand: Mission Blue
   products: Save ocean, Information
   company: Sylvia Earle Alliance/Mission Blue
@@ -407,6 +407,16 @@
   address: P.O. Box 6882, Napa, CA 94581
   location: 
   country: U.S.A.
+
+- brand: Mongabay
+  products: Conservation news
+  company:  
+  website: http://www.mongabay.co.id
+  email: mongabay@mongabay.com
+  telephone: 
+  address: 
+  location: 
+  country: Indonesia
 
 - brand: Mute Garage Bali
   products: Electric Scooters rent
@@ -428,16 +438,6 @@
   location: 
   country: Indonesia
 
-- brand: Numbeo
-  products: Cost of LIiving Database
-  company:  
-  website: https://www.numbeo.com
-  email: 
-  telephone: 
-  address: 
-  location: 
-  country: 
-
 - brand: Paradiso Ubud
   products: Organic, Vegan, Theatre
   company:  
@@ -448,6 +448,16 @@
   location: https://goo.gl/maps/ji76KsYEAt32
   country: Indonesia
 
+- brand: Numbeo
+  products: Cost of LIiving Database
+  company:  
+  website: https://www.numbeo.com
+  email: 
+  telephone: 
+  address: 
+  location: 
+  country: WorldWide
+
 - brand: Plants for a Future
   products: Plants Database
   company:  
@@ -456,7 +466,7 @@
   telephone: 
   address: 
   location: 
-  country: 
+  country: WorldWide
 
 - brand: Plastik detox
   products: Reduce Plastic Information
@@ -467,6 +477,16 @@
   address: c/o Catalyze, Jl. Penyaringan No.30B, Sanur, Bali
   location: 
   country: Indonesia
+
+- brand: Sage Publications
+  products: Research journals
+  company: SAGE Publications
+  website: http://journals.sagepub.com
+  email: journals@sagepub.com
+  telephone: 44 20 7324 8701
+  address: 
+  location: 
+  country: United Kingdom
 
 - brand: Satvika Bhoga
   products: Organic shop
@@ -528,16 +548,6 @@
   location: 
   country: U.S.A.
 
-- brand: Sustainable Foods Summit
-  products: Conferences, Information
-  company: Asia-Pacific Representative
-  website: http://sustainablefoodssummit.com/asia
-  email: info@sustainablefoodssummit.com
-  telephone: 65 96395390
-  address: 1 Scotts Road, no.24-10 Shaw Centre,  Singapore
-  location: 
-  country: Singapore
-
 - brand: Ted
   products: Conferences, Information
   company:  
@@ -547,6 +557,16 @@
   address: 
   location: 
   country: U.S.A.
+
+- brand: Sustainable Foods Summit
+  products: Conferences, Information
+  company: Asia-Pacific Representative
+  website: http://sustainablefoodssummit.com/asia
+  email: info@sustainablefoodssummit.com
+  telephone: 65 96395390
+  address: 1 Scotts Road, no.24-10 Shaw Centre,  Singapore
+  location: 
+  country: Singapore
 
 - brand: The Organic Farm Bali
   products: Organic Products
@@ -566,7 +586,7 @@
   telephone: 
   address: 
   location: 
-  country: 
+  country: WorldWide
 
 - brand: Trash hero
   products: Trash Collection, Information
@@ -646,7 +666,7 @@
   telephone: 
   address: 
   location: 
-  country: 
+  country: WorldWide
 
 - brand: World Watch Institute
   products: Information, Fact analysis
