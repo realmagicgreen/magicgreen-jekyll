@@ -10,7 +10,7 @@ home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-sticky: # 'true' or empty
+sticky: true # 'true' or empty
 photography: # put here photographer name
 ---
 Epipremnum aureum is an evergreen climber with a multitude of common names including **golden pothos**, hunter's robe, ivy arum, **money plant**, silver vine, Solomon Islands ivy and taro vine. It is also called **devil's vine** or devil's ivy because it is almost impossible to kill and it stays green even when kept in the dark.
@@ -31,6 +31,8 @@ Epipremnum aureum can become a highly invasive species when introduced into trop
 [Golden pothos - wikipedia](https://en.wikipedia.org/wiki/Epipremnum_aureum)
 
 [Air purifiers plants](http://air-purifier-reviewsite.com/blog/15-house-plants-you-can-use-as-air-purifiers/)
+
+[How to grow a prayer plant - very nice guide tutorial](https://www.jenreviews.com/prayer-plant/)
 
 [NASA Clean Air Study](https://en.wikipedia.org/wiki/NASA_Clean_Air_Study)
 
