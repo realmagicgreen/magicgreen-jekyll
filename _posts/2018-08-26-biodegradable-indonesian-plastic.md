@@ -5,8 +5,8 @@ description: "Every year, an estimated 1 trillion plastic bags are consumed worl
 category: products
 tags: design environment-friendly eco-friendly Indonesia recycle sustainable-construction plastic plastic-alternatives social-responsibility
 image: /assets/p/posts/products/biodegradable-indonesian-plastic/biodegradable-indonesian-plastic.jpg
-show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
-home_slideshow_caption:  # lowercase, max 12 digits, including spaces
+show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
+home_slideshow_caption: bio plastic # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: true # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
