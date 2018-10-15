@@ -118,16 +118,6 @@
   location: 
   country: Indonesia
 
-- brand: Bambu 
-  products: Sustainable kitchen ware
-  company: 
-  website: https://www.bambuhome.com
-  email: customercare@bambuhome.com
-  telephone: 1 8556303149
-  address: 
-  location: 
-  country: U.S.A.
-
 - brand: Big Tree Farms
   products: Organic Products
   company:  
@@ -137,6 +127,16 @@
   address: Br. Piakan, Desa Sibangkaja, Kecamatan Abiansemal, Bali 80237
   location: 
   country: Indonesia
+
+- brand: Bambu 
+  products: Sustainable kitchen ware
+  company: 
+  website: https://www.bambuhome.com
+  email: customercare@bambuhome.com
+  telephone: 1 8556303149
+  address: 
+  location: 
+  country: U.S.A.
 
 - brand: Byebye Plastic Bags
   products: Events
@@ -228,6 +228,16 @@
   location: 
   country: Indonesia
 
+- brand: East Bali Poverty Project
+  products: Eliminate poverty
+  company: Yayasan Ekoturisme Indonesia
+  website: https://www.eastbalipovertyproject.org
+  email: 
+  telephone: 62  361 410071
+  address: PO Box 3850 Denpasar
+  location: 
+  country: Indonesia
+
 - brand: eBikes Bali
   products: Electric Bicycle Tours
   company:  
@@ -246,16 +256,6 @@
   telephone: 62 822 37799819
   address: Jl. Raya Padonan, Tibubeneng, Kuta, Bali 80361
   location: https://goo.gl/maps/cyMAtdcmiWC2
-  country: Indonesia
-
-- brand: East Bali Poverty Project
-  products: Eliminate poverty
-  company: Yayasan Ekoturisme Indonesia
-  website: https://www.eastbalipovertyproject.org
-  email: 
-  telephone: 62  361 410071
-  address: PO Box 3850 Denpasar
-  location: 
   country: Indonesia
 
 - brand: Eco Regions Indonesia
@@ -278,16 +278,6 @@
   location: 
   country: United Kingdom
 
-- brand: Emas Hitam
-  products: Ecological Solutions
-  company:  
-  website: http://emashitam.org
-  email: emas.hitam.indonesia@gmail.com
-  telephone: 
-  address: C/O Outpost, Jl. Raya Nyuh Kuning, Ubud, Bali 80571
-  location: 
-  country: Indonesia
-
 - brand: ET scooter
   products: Electric Scooters
   company:  
@@ -297,6 +287,16 @@
   address: 6/F Building no.4, Jinhuafa Industry Zero, Qingquan Rd., Longhua, Shenzhen
   location: 
   country: China
+
+- brand: Emas Hitam
+  products: Ecological Solutions
+  company:  
+  website: http://emashitam.org
+  email: emas.hitam.indonesia@gmail.com
+  telephone: 
+  address: C/O Outpost, Jl. Raya Nyuh Kuning, Ubud, Bali 80571
+  location: 
+  country: Indonesia
 
 - brand: Evoware
   products: Seaweed Based Packaging
@@ -308,16 +308,6 @@
   location: 
   country: Indonesia
 
-- brand: Forest Stewardship Council
-  products: Wood Certification
-  company: FSC Global Development GmbH
-  website: https://ic.fsc.org
-  email: info@fsc.org
-  telephone: 49 228367660
-  address: Adenauerallee 134, Bonn 53115
-  location: 
-  country: Germany
-
 - brand: Ewabi Electric Bamboo Bikes
   products: Electric, Bamboo Bicycles
   company:  
@@ -327,6 +317,16 @@
   address: Jl. Gadon III no.7, Kerobokan, Kuta, Bali 80361
   location: https://goo.gl/maps/2sNZkRhdKmS2
   country: Indonesia
+
+- brand: Forest Stewardship Council
+  products: Wood Certification
+  company: FSC Global Development GmbH
+  website: https://ic.fsc.org
+  email: info@fsc.org
+  telephone: 49 228367660
+  address: Adenauerallee 134, Bonn 53115
+  location: 
+  country: Germany
 
 - brand: Gesits
   products: Electric Scooters
@@ -346,6 +346,16 @@
   telephone: 62 812 37895885
   address: Banjar Gunungsari, Desa Jatiluwih, Bali 8215
   location: 
+  country: Indonesia
+
+- brand: Green Books
+  products: Promoting eco-literacy
+  company: Green Books 
+  website: https://www.green-books.org/
+  email: info@green-books.org
+  telephone: 62 82144530169
+  address: Pondok Gede Eco-Lodge, Jl. Batan Celagi, Tibubeneng, 80361 Kuta, Bali
+  location: https://goo.gl/maps/nZzR82MZph12
   country: Indonesia
 
 - brand: Gringgo
@@ -438,16 +448,6 @@
   location: 
   country: Indonesia
 
-- brand: Paradiso Ubud
-  products: Organic, Vegan, Theatre
-  company:  
-  website: http://www.paradisoubud.com
-  email: 
-  telephone: 
-  address: Jl. Gautama Selatan, Ubud - Bali
-  location: https://goo.gl/maps/ji76KsYEAt32
-  country: Indonesia
-
 - brand: Numbeo
   products: Cost of LIiving Database
   company:  
@@ -457,6 +457,16 @@
   address: 
   location: 
   country: WorldWide
+
+- brand: Paradiso Ubud
+  products: Organic, Vegan, Theatre
+  company:  
+  website: http://www.paradisoubud.com
+  email: 
+  telephone: 
+  address: Jl. Gautama Selatan, Ubud - Bali
+  location: https://goo.gl/maps/ji76KsYEAt32
+  country: Indonesia
 
 - brand: Plants for a Future
   products: Plants Database
@@ -548,16 +558,6 @@
   location: 
   country: U.S.A.
 
-- brand: Ted
-  products: Conferences, Information
-  company:  
-  website: https://ted.com
-  email: 
-  telephone: 
-  address: 
-  location: 
-  country: U.S.A.
-
 - brand: Sustainable Foods Summit
   products: Conferences, Information
   company: Asia-Pacific Representative
@@ -567,6 +567,16 @@
   address: 1 Scotts Road, no.24-10 Shaw Centre,  Singapore
   location: 
   country: Singapore
+
+- brand: Ted
+  products: Conferences, Information
+  company:  
+  website: https://ted.com
+  email: 
+  telephone: 
+  address: 
+  location: 
+  country: U.S.A.
 
 - brand: The Organic Farm Bali
   products: Organic Products
