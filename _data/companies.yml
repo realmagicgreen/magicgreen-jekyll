@@ -58,16 +58,6 @@
   location: https://goo.gl/maps/GRiDJ7d1qrE2
   country: Indonesia
 
-- brand: Bali Green School
-  products: Education
-  company:  
-  website: https://www.greenschool.org
-  email: 
-  telephone: 
-  address: Jl. Raya Sibang Kaja, Abiansemal, Bali 80352
-  location: 
-  country: Indonesia
-
 - brand: Bali Jiwa
   products: Organic Products
   company:  
@@ -75,6 +65,16 @@
   email: hello@balijiwa.com
   telephone: 62 361 270081
   address: 
+  location: 
+  country: Indonesia
+
+- brand: Bali Green School
+  products: Education
+  company:  
+  website: https://www.greenschool.org
+  email: 
+  telephone: 
+  address: Jl. Raya Sibang Kaja, Abiansemal, Bali 80352
   location: 
   country: Indonesia
 
@@ -118,16 +118,6 @@
   location: 
   country: Indonesia
 
-- brand: Big Tree Farms
-  products: Organic Products
-  company:  
-  website: https://bigtreefarms.com
-  email: info@bigtreefarms.com
-  telephone: 62 361 8463327
-  address: Br. Piakan, Desa Sibangkaja, Kecamatan Abiansemal, Bali 80237
-  location: 
-  country: Indonesia
-
 - brand: Bambu 
   products: Sustainable kitchen ware
   company: 
@@ -137,6 +127,16 @@
   address: 
   location: 
   country: U.S.A.
+
+- brand: Big Tree Farms
+  products: Organic Products
+  company:  
+  website: https://bigtreefarms.com
+  email: info@bigtreefarms.com
+  telephone: 62 361 8463327
+  address: Br. Piakan, Desa Sibangkaja, Kecamatan Abiansemal, Bali 80237
+  location: 
+  country: Indonesia
 
 - brand: Byebye Plastic Bags
   products: Events
@@ -278,16 +278,6 @@
   location: 
   country: United Kingdom
 
-- brand: ET scooter
-  products: Electric Scooters
-  company:  
-  website: http://etscooter.com
-  email: info@etscooter.com
-  telephone: 
-  address: 6/F Building no.4, Jinhuafa Industry Zero, Qingquan Rd., Longhua, Shenzhen
-  location: 
-  country: China
-
 - brand: Emas Hitam
   products: Ecological Solutions
   company:  
@@ -297,6 +287,16 @@
   address: C/O Outpost, Jl. Raya Nyuh Kuning, Ubud, Bali 80571
   location: 
   country: Indonesia
+
+- brand: ET scooter
+  products: Electric Scooters
+  company:  
+  website: http://etscooter.com
+  email: info@etscooter.com
+  telephone: 
+  address: 6/F Building no.4, Jinhuafa Industry Zero, Qingquan Rd., Longhua, Shenzhen
+  location: 
+  country: China
 
 - brand: Evoware
   products: Seaweed Based Packaging
@@ -348,8 +348,8 @@
   location: 
   country: Indonesia
 
-- brand: Green Books
-  products: Promoting eco-literacy
+- brand: Green-Books.org
+  products: Eco Education For Fids
   company: Green Books 
   website: https://www.green-books.org/
   email: info@green-books.org
