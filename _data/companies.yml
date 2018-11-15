@@ -38,16 +38,6 @@
   location: 
   country: U.K.
 
-- brand: Bali Buda
-  products: Organic Products
-  company:  
-  website: http://www.balibuda.com
-  email: 
-  telephone: 62 361 299467
-  address: Jl Pura Puseh no.3, Br. Denjalan, Batu Bulan, Bali
-  location: 
-  country: Indonesia
-
 - brand: Bali ebikes
   products: Electric Bicycle Tours
   company:  
@@ -56,6 +46,16 @@
   telephone: 62 813 53622250 
   address: Jl. Suweta No. 30, Ubud, Bali
   location: https://goo.gl/maps/qQQ5HbwvNSH2
+  country: Indonesia
+
+- brand: Bali Buda
+  products: Organic Products
+  company:  
+  website: http://www.balibuda.com
+  email: 
+  telephone: 62 361 299467
+  address: Jl Pura Puseh no.3, Br. Denjalan, Batu Bulan, Bali
+  location: 
   country: Indonesia
 
 - brand: Bali eco stay
@@ -138,10 +138,20 @@
   location: 
   country: U.S.A.
 
+- brand: Byo Living
+  products: Woven furniture, Weaving Spoecialist
+  company: Byo Living
+  website: http://bioliving.com
+  email: lim@byoliving.com
+  telephone: 
+  address: Pluit karang utara 79a Jakarta
+  location: https://goo.gl/maps/r1knaTVR3BB2
+  country: Indonesia
+
 - brand: Bambu Indah
   products: Hospitality
   company: 
-  website: http://bambuindah.com/
+  website: http://bambuindah.com
   email: reservations@bambuindah.com
   telephone: 62 361 977922
   address: Banjar Baung, Desa Sayan, Ubud, Gianyar, Bali 80571
@@ -221,7 +231,7 @@
 - brand: earthquake track
   products: Earthquake infos
   company: 
-  website: https://www.earthquaketrack.com/
+  website: https://www.earthquaketrack.com
   email: earthquaketrack@gmail.com
   telephone: 
   address: 
@@ -291,22 +301,12 @@
 - brand: Ecovia Intelligence
   products: Research, Consulting, Training
   company: 
-  website: http://www.ecoviaint.com/
+  website: http://www.ecoviaint.com
   email: postmaster@ecoviaint.com
   telephone: 44 20 85670788
   address: 20B The Mall, London W5 2PJ
   location: 
   country: United Kingdom
-
-- brand: ET scooter
-  products: Electric Scooters
-  company:  
-  website: http://etscooter.com
-  email: info@etscooter.com
-  telephone: 
-  address: 6/F Building no.4, Jinhuafa Industry Zero, Qingquan Rd., Longhua, Shenzhen
-  location: 
-  country: China
 
 - brand: Emas Hitam
   products: Ecological Solutions
@@ -318,10 +318,20 @@
   location: 
   country: Indonesia
 
+- brand: ET scooter
+  products: Electric Scooters
+  company:  
+  website: http://etscooter.com
+  email: info@etscooter.com
+  telephone: 
+  address: 6/F Building no.4, Jinhuafa Industry Zero, Qingquan Rd., Longhua, Shenzhen
+  location: 
+  country: China
+
 - brand: Evoware
   products: Seaweed Based Packaging
   company: 
-  website: http://www.evoware.id/
+  website: http://www.evoware.id
   email: info@evoware.id
   telephone: 62 811 8692424 
   address: 
@@ -338,16 +348,6 @@
   location: https://goo.gl/maps/2sNZkRhdKmS2
   country: Indonesia
 
-- brand: Explorer Eco Lodge
-  products: Hospitality
-  company: 
-  website: 
-  email: 
-  telephone: 62 878 62266140
-  address: Tianyar, Kubu, Karangasem Regency, Bali 80853
-  location: https://goo.gl/maps/ZmouMEeCCYE2
-  country: Indonesia
-
 - brand: Forest Stewardship Council
   products: Wood Certification
   company: FSC Global Development GmbH
@@ -357,6 +357,16 @@
   address: Adenauerallee 134, Bonn 53115
   location: 
   country: Germany
+
+- brand: Explorer Eco Lodge
+  products: Hospitality
+  company: 
+  website: 
+  email: 
+  telephone: 62 878 62266140
+  address: Tianyar, Kubu, Karangasem Regency, Bali 80853
+  location: https://goo.gl/maps/ZmouMEeCCYE2
+  country: Indonesia
 
 - brand: Gesits
   products: Electric Scooters
@@ -391,7 +401,7 @@
 - brand: Green-Books.org
   products: Eco Education For Kids
   company: Green Books 
-  website: https://www.green-books.org/
+  website: https://www.green-books.org
   email: info@green-books.org
   telephone: 62 82144530169
   address: Pondok Gede Eco-Lodge, Jl. Batan Celagi, Tibubeneng, 80361 Kuta, Bali
@@ -541,7 +551,7 @@
 - brand: Sarinbuana Eco Lodge
   products: Hospitality
   company: 
-  website: https://www.baliecolodge.com/
+  website: https://www.baliecolodge.com
   email: info@baliecolodge.com
   telephone: 62 853 33638287
   address: Jl. Arjuna, Br. Biyahan, Desa Wanagiri, Dalang, Selemadeg Timur, Tabanan, Bali 82152
@@ -658,16 +668,6 @@
   location: 
   country: Indonesia
 
-- brand: Verdure Bali
-  products: Healthy Products
-  company:   
-  website: http://www.verdurebali.com
-  email: info@verdurebali.com
-  telephone: 62 818 0279 6888
-  address: 
-  location: 
-  country: Indonesia
-
 - brand: Ubud Organic Market
   products: Organic Products
   company:  
@@ -685,6 +685,16 @@
   email: marketing@viarmotor.com 
   telephone: 62 21 65832202
   address: Jl. Danau Agung Selatan Blok O III no. 38, Jakarta 14350
+  location: 
+  country: Indonesia
+
+- brand: Verdure Bali
+  products: Healthy Products
+  company:   
+  website: http://www.verdurebali.com
+  email: info@verdurebali.com
+  telephone: 62 818 0279 6888
+  address: 
   location: 
   country: Indonesia
 
@@ -741,7 +751,7 @@
 - brand: Zero Waste Bali
   products: Bulk Food, Plastic Free Store
   company: 
-  website: https://zerowastebali.com/
+  website: https://zerowastebali.com
   email: zerowastebali@gmail.com
   telephone: 62 87862305959 
   address: Jl. Raya Anyar No.30, Kerobokan, Bali 80361
