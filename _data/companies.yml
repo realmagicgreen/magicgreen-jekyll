@@ -1,3 +1,13 @@
+- brand: 4oceans
+  products: Conservation, Removing trash
+  company: 
+  website: https://4ocean.com
+  email: 
+  telephone: 
+  address: 
+  location: 
+  country: WorldWide
+
 - brand: ASEAN biodiversity
   products: Conservation
   company: ASEAN biodiversity Nonprofit
@@ -78,16 +88,6 @@
   location: 
   country: Indonesia
 
-- brand: Bali life bamboo straws
-  products: Bamboo straws
-  company: 
-  website: https://www.balilifebamboostraws.com
-  email: sales@balilifebamboostraws.com
-  telephone: 35 677099345
-  address: 55 Triq Fra Diegu Hamrun Malta
-  location: 
-  country: Malta
-
 - brand: Bali Organic Association
   products: Organic Products
   company:  
@@ -97,6 +97,16 @@
   address: Jl Cargo Sari II no.6, Br Uma Sari, Ubung Kaja,Denpasar, Bali
   location: 
   country: Indonesia
+
+- brand: Bali life bamboo straws
+  products: Bamboo straws
+  company: 
+  website: https://www.balilifebamboostraws.com
+  email: sales@balilifebamboostraws.com
+  telephone: 35 677099345
+  address: 55 Triq Fra Diegu Hamrun Malta
+  location: 
+  country: Malta
 
 - brand: Bamboo Central
   products: Bamboo
@@ -127,6 +137,16 @@
   address: 
   location: 
   country: U.S.A.
+
+- brand: Bambu Indah
+  products: Hospitality
+  company: 
+  website: http://bambuindah.com/
+  email: reservations@bambuindah.com
+  telephone: 62 361 977922
+  address: Banjar Baung, Desa Sayan, Ubud, Gianyar, Bali 80571
+  location: https://goo.gl/maps/ETNaxoVP7Pv
+  country: Indonesia
 
 - brand: Big Tree Farms
   products: Organic Products
@@ -278,16 +298,6 @@
   location: 
   country: United Kingdom
 
-- brand: Emas Hitam
-  products: Ecological Solutions
-  company:  
-  website: http://emashitam.org
-  email: emas.hitam.indonesia@gmail.com
-  telephone: 
-  address: C/O Outpost, Jl. Raya Nyuh Kuning, Ubud, Bali 80571
-  location: 
-  country: Indonesia
-
 - brand: ET scooter
   products: Electric Scooters
   company:  
@@ -297,6 +307,16 @@
   address: 6/F Building no.4, Jinhuafa Industry Zero, Qingquan Rd., Longhua, Shenzhen
   location: 
   country: China
+
+- brand: Emas Hitam
+  products: Ecological Solutions
+  company:  
+  website: http://emashitam.org
+  email: emas.hitam.indonesia@gmail.com
+  telephone: 
+  address: C/O Outpost, Jl. Raya Nyuh Kuning, Ubud, Bali 80571
+  location: 
+  country: Indonesia
 
 - brand: Evoware
   products: Seaweed Based Packaging
@@ -318,6 +338,16 @@
   location: https://goo.gl/maps/2sNZkRhdKmS2
   country: Indonesia
 
+- brand: Explorer Eco Lodge
+  products: Hospitality
+  company: 
+  website: 
+  email: 
+  telephone: 62 878 62266140
+  address: Tianyar, Kubu, Karangasem Regency, Bali 80853
+  location: https://goo.gl/maps/ZmouMEeCCYE2
+  country: Indonesia
+
 - brand: Forest Stewardship Council
   products: Wood Certification
   company: FSC Global Development GmbH
@@ -336,6 +366,16 @@
   telephone: 
   address: 
   location: 
+  country: Indonesia
+
+- brand: Gili Asahan Eco Lodge
+  products: Hospitality
+  company: Gili Asahan Eco Lodge & Restaurant
+  website: http://giliasahan.com/
+  email: info@giliasahan.com
+  telephone: 62 813 39604779
+  address: -8.742800, 115.884396, Unnamed Road, Central Sekotong, West Lombok Regency, West Nusa Tenggara 83365
+  location: https://goo.gl/maps/FXERnsmf16s
   country: Indonesia
 
 - brand: Green Bikes Bali
@@ -408,16 +448,6 @@
   location: https://goo.gl/maps/5Dmc4zsWiJ52
   country: Germany
 
-- brand: Mongabay
-  products: Conservation news
-  company:  
-  website: http://www.mongabay.co.id
-  email: mongabay@mongabay.com
-  telephone: 
-  address: 
-  location: 
-  country: Indonesia
-
 - brand: Mission Blue
   products: Save ocean, Information
   company: Sylvia Earle Alliance/Mission Blue
@@ -427,6 +457,16 @@
   address: P.O. Box 6882, Napa, CA 94581
   location: 
   country: U.S.A.
+
+- brand: Mongabay
+  products: Conservation news
+  company:  
+  website: http://www.mongabay.co.id
+  email: mongabay@mongabay.com
+  telephone: 
+  address: 
+  location: 
+  country: Indonesia
 
 - brand: Mute Garage Bali
   products: Electric Scooters rent
@@ -497,6 +537,16 @@
   address: 
   location: 
   country: United Kingdom
+
+- brand: Sarinbuana Eco Lodge
+  products: Hospitality
+  company: 
+  website: https://www.baliecolodge.com/
+  email: info@baliecolodge.com
+  telephone: 62 853 33638287
+  address: Jl. Arjuna, Br. Biyahan, Desa Wanagiri, Dalang, Selemadeg Timur, Tabanan, Bali 82152
+  location: https://goo.gl/maps/yERD1HqD7Fv
+  country: Indonesia
 
 - brand: Satvika Bhoga
   products: Organic shop
@@ -608,16 +658,6 @@
   location: 
   country: Indonesia
 
-- brand: Ubud Organic Market
-  products: Organic Products
-  company:  
-  website: http://www.ubudorganicmarket.com
-  email: 
-  telephone: 
-  address: Jl. Pengosekan, Ubud, Bali
-  location: https://goo.gl/maps/YdVNTjebzXB2
-  country: Indonesia
-
 - brand: Verdure Bali
   products: Healthy Products
   company:   
@@ -626,6 +666,16 @@
   telephone: 62 818 0279 6888
   address: 
   location: 
+  country: Indonesia
+
+- brand: Ubud Organic Market
+  products: Organic Products
+  company:  
+  website: http://www.ubudorganicmarket.com
+  email: 
+  telephone: 
+  address: Jl. Pengosekan, Ubud, Bali
+  location: https://goo.gl/maps/YdVNTjebzXB2
   country: Indonesia
 
 - brand: Viar Electric Motor
@@ -687,6 +737,16 @@
   address: 1400 16th St. NW, Ste. 430, Washington DC 20036
   location: 
   country: U.S.A.
+
+- brand: Zero Waste Bali
+  products: Bulk Food, Plastic Free Store
+  company: 
+  website: https://zerowastebali.com/
+  email: zerowastebali@gmail.com
+  telephone: 62 87862305959 
+  address: Jl. Raya Anyar No.30, Kerobokan, Bali 80361
+  location: https://goo.gl/maps/fLJnkmxe9ZU2
+  country: Indonesia
 
 - brand: Zula Bali
   products: Organic, Vegetarian Food
