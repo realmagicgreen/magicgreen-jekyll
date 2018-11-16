@@ -1,5 +1,5 @@
-- brand: 4oceans
-  products: Conservation, Removing trash
+- brand: 4ocean
+  products: Conservation, Removing Trash
   company: 
   website: https://4ocean.com
   email: 
@@ -28,6 +28,16 @@
   location: https://goo.gl/maps/kyEgYs4aShz
   country: Indonesia
 
+- brand: Bali Buda
+  products: Organic Products
+  company:  
+  website: http://www.balibuda.com
+  email: 
+  telephone: 62 361 299467
+  address: Jl Pura Puseh no.3, Br. Denjalan, Batu Bulan, Bali
+  location: 
+  country: Indonesia
+
 - brand: Awani
   products: Fruit Jam, Conserves
   company:  
@@ -48,16 +58,6 @@
   location: https://goo.gl/maps/qQQ5HbwvNSH2
   country: Indonesia
 
-- brand: Bali Buda
-  products: Organic Products
-  company:  
-  website: http://www.balibuda.com
-  email: 
-  telephone: 62 361 299467
-  address: Jl Pura Puseh no.3, Br. Denjalan, Batu Bulan, Bali
-  location: 
-  country: Indonesia
-
 - brand: Bali eco stay
   products: Accomodation
   company:  
@@ -66,16 +66,6 @@
   telephone: 62 857 38467596
   address: Kanciana Village, Kemetug, Gunung Salak, Selemadeg, Bali 82113
   location: https://goo.gl/maps/GRiDJ7d1qrE2
-  country: Indonesia
-
-- brand: Bali Green School
-  products: Education
-  company:  
-  website: https://www.greenschool.org
-  email: 
-  telephone: 
-  address: Jl. Raya Sibang Kaja, Abiansemal, Bali 80352
-  location: 
   country: Indonesia
 
 - brand: Bali Jiwa
@@ -88,16 +78,6 @@
   location: 
   country: Indonesia
 
-- brand: Bali Organic Association
-  products: Organic Products
-  company:  
-  website: 
-  email: yayasan_boa@yahoo.com
-  telephone: 62 878 60131485
-  address: Jl Cargo Sari II no.6, Br Uma Sari, Ubung Kaja,Denpasar, Bali
-  location: 
-  country: Indonesia
-
 - brand: Bali life bamboo straws
   products: Bamboo straws
   company: 
@@ -107,6 +87,16 @@
   address: 55 Triq Fra Diegu Hamrun Malta
   location: 
   country: Malta
+
+- brand: Bali Organic Association
+  products: Organic Products
+  company:  
+  website: 
+  email: yayasan_boa@yahoo.com
+  telephone: 62 878 60131485
+  address: Jl Cargo Sari II no.6, Br Uma Sari, Ubung Kaja,Denpasar, Bali
+  location: 
+  country: Indonesia
 
 - brand: Bamboo Central
   products: Bamboo
@@ -138,16 +128,6 @@
   location: 
   country: U.S.A.
 
-- brand: Byo Living
-  products: Woven furniture, Weaving Spoecialist
-  company: Byo Living
-  website: http://bioliving.com
-  email: lim@byoliving.com
-  telephone: 
-  address: Pluit karang utara 79a Jakarta
-  location: https://goo.gl/maps/r1knaTVR3BB2
-  country: Indonesia
-
 - brand: Bambu Indah
   products: Hospitality
   company: 
@@ -176,6 +156,16 @@
   telephone: 
   address: 
   location: 
+  country: Indonesia
+
+- brand: Byo Living
+  products: Woven furniture, Weaving Spoecialist
+  company: Byo Living
+  website: http://bioliving.com
+  email: lim@byoliving.com
+  telephone: 
+  address: Pluit karang utara 79a Jakarta
+  location: https://goo.gl/maps/r1knaTVR3BB2
   country: Indonesia
 
 - brand: ChokChok Chocolate
@@ -348,16 +338,6 @@
   location: https://goo.gl/maps/2sNZkRhdKmS2
   country: Indonesia
 
-- brand: Forest Stewardship Council
-  products: Wood Certification
-  company: FSC Global Development GmbH
-  website: https://ic.fsc.org
-  email: info@fsc.org
-  telephone: 49 228367660
-  address: Adenauerallee 134, Bonn 53115
-  location: 
-  country: Germany
-
 - brand: Explorer Eco Lodge
   products: Hospitality
   company: 
@@ -378,6 +358,16 @@
   location: 
   country: Indonesia
 
+- brand: Forest Stewardship Council
+  products: Wood Certification
+  company: FSC Global Development GmbH
+  website: https://ic.fsc.org
+  email: info@fsc.org
+  telephone: 49 228367660
+  address: Adenauerallee 134, Bonn 53115
+  location: 
+  country: Germany
+
 - brand: Gili Asahan Eco Lodge
   products: Hospitality
   company: Gili Asahan Eco Lodge & Restaurant
@@ -396,6 +386,26 @@
   telephone: 62 812 37895885
   address: Banjar Gunungsari, Desa Jatiluwih, Bali 8215
   location: 
+  country: Indonesia
+
+- brand: Green Camp Bali
+  products: Eco education camp
+  company: 
+  website: https://greencampbali.com
+  email: info@greencampbali.com
+  telephone: 62 85100093310
+  address: Jl. Raya Sibang Kaja, Abiansemal, Bali 80352
+  location: https://goo.gl/maps/zMHJv6PPUHt
+  country: Indonesia
+
+- brand: Green School Bali
+  products: Education
+  company:  
+  website: https://www.greenschool.org
+  email: 
+  telephone: 
+  address: Jl. Raya Sibang Kaja, Abiansemal, Bali 80352
+  location: https://goo.gl/maps/zMHJv6PPUHt
   country: Indonesia
 
 - brand: Green-Books.org
@@ -678,16 +688,6 @@
   location: https://goo.gl/maps/YdVNTjebzXB2
   country: Indonesia
 
-- brand: Viar Electric Motor
-  products: Electric Scooters
-  company: PT Triangle Motorindo
-  website: https://www.e-viar.com
-  email: marketing@viarmotor.com 
-  telephone: 62 21 65832202
-  address: Jl. Danau Agung Selatan Blok O III no. 38, Jakarta 14350
-  location: 
-  country: Indonesia
-
 - brand: Verdure Bali
   products: Healthy Products
   company:   
@@ -698,14 +698,14 @@
   location: 
   country: Indonesia
 
-- brand: Vince Tierny Surfboards
-  products: Balsa Wooden Surfboards
-  company:  
-  website: http://vincetierny.com
-  email: info@vincetierny.com
-  telephone: 62 858 14327942
-  address: Jl. Pantai Berawa No.5A, Canggu, Bali
-  location: https://goo.gl/maps/6kgsznMZLdK2
+- brand: Viar Electric Motor
+  products: Electric Scooters
+  company: PT Triangle Motorindo
+  website: https://www.e-viar.com
+  email: marketing@viarmotor.com 
+  telephone: 62 21 65832202
+  address: Jl. Danau Agung Selatan Blok O III no. 38, Jakarta 14350
+  location: 
   country: Indonesia
 
 - brand: Welcome Alternative Bags
@@ -718,16 +718,6 @@
   location: 
   country: Indonesia
 
-- brand: Wello
-  products: Wave energy converters
-  company: Wello Oy
-  website: https://wello.eu
-  email: info@wello.eu
-  telephone: 358 9 8884881
-  address: Kurjenkellontie 5 B, FI-02270 Espoo
-  location: 
-  country: Finland
-
 - brand: World Mapper
   products: Data on Maps
   company:  
@@ -737,6 +727,26 @@
   address: 
   location: 
   country: WorldWide
+
+- brand: Vince Tierny Surfboards
+  products: Balsa Wooden Surfboards
+  company:  
+  website: http://vincetierny.com
+  email: info@vincetierny.com
+  telephone: 62 858 14327942
+  address: Jl. Pantai Berawa No.5A, Canggu, Bali
+  location: https://goo.gl/maps/6kgsznMZLdK2
+  country: Indonesia
+
+- brand: Wello
+  products: Wave energy converters
+  company: Wello Oy
+  website: https://wello.eu
+  email: info@wello.eu
+  telephone: 358 9 8884881
+  address: Kurjenkellontie 5 B, FI-02270 Espoo
+  location: 
+  country: Finland
 
 - brand: World Watch Institute
   products: Information, Fact analysis
