@@ -28,16 +28,6 @@
   location: https://goo.gl/maps/kyEgYs4aShz
   country: Indonesia
 
-- brand: Bali Buda
-  products: Organic Products
-  company:  
-  website: http://www.balibuda.com
-  email: 
-  telephone: 62 361 299467
-  address: Jl Pura Puseh no.3, Br. Denjalan, Batu Bulan, Bali
-  location: 
-  country: Indonesia
-
 - brand: Awani
   products: Fruit Jam, Conserves
   company:  
@@ -47,6 +37,16 @@
   address: Unit 23, 222 Kensal Road, London W10 5BN
   location: 
   country: U.K.
+
+- brand: Bali Buda
+  products: Organic Products
+  company:  
+  website: http://www.balibuda.com
+  email: 
+  telephone: 62 361 299467
+  address: Jl Pura Puseh no.3, Br. Denjalan, Batu Bulan, Bali
+  location: 
+  country: Indonesia
 
 - brand: Bali ebikes
   products: Electric Bicycle Tours
@@ -328,16 +328,6 @@
   location: 
   country: Indonesia
 
-- brand: Ewabi Electric Bamboo Bikes
-  products: Electric, Bamboo Bicycles
-  company:  
-  website: http://ewabi.co/
-  email: cassy@ewabi.co
-  telephone: 62 853 38313814
-  address: Jl. Gadon III no.7, Kerobokan, Kuta, Bali 80361
-  location: https://goo.gl/maps/2sNZkRhdKmS2
-  country: Indonesia
-
 - brand: Explorer Eco Lodge
   products: Hospitality
   company: 
@@ -348,14 +338,14 @@
   location: https://goo.gl/maps/ZmouMEeCCYE2
   country: Indonesia
 
-- brand: Gesits
-  products: Electric Scooters
-  company: Garansindo Electric Scooter ITS
-  website: http://gesits.co.id
-  email: info@gesits.co.id
-  telephone: 
-  address: 
-  location: 
+- brand: Ewabi Electric Bamboo Bikes
+  products: Electric, Bamboo Bicycles
+  company:  
+  website: http://ewabi.co/
+  email: cassy@ewabi.co
+  telephone: 62 853 38313814
+  address: Jl. Gadon III no.7, Kerobokan, Kuta, Bali 80361
+  location: https://goo.gl/maps/2sNZkRhdKmS2
   country: Indonesia
 
 - brand: Forest Stewardship Council
@@ -367,6 +357,16 @@
   address: Adenauerallee 134, Bonn 53115
   location: 
   country: Germany
+
+- brand: Gesits
+  products: Electric Scooters
+  company: Garansindo Electric Scooter ITS
+  website: http://gesits.co.id
+  email: info@gesits.co.id
+  telephone: 
+  address: 
+  location: 
+  country: Indonesia
 
 - brand: Gili Asahan Eco Lodge
   products: Hospitality
@@ -578,6 +578,16 @@
   location: https://goo.gl/maps/BoG56fCJG4D2
   country: Indonesia
 
+- brand: Sea Legacy
+  products: Healthy Oceans
+  company: 
+  website: https://www.sealegacy.org/
+  email: info@sealegacy.org
+  telephone: 
+  address: 
+  location: 
+  country: Canada
+
 - brand: Selis Bali
   products: Electric Scooters
   company:  
@@ -658,16 +668,6 @@
   location: https://goo.gl/maps/HNHLcfNXDyk
   country: Indonesia
 
-- brand: The Plant List
-  products: Plants database
-  company:  
-  website: http://www.theplantlist.org
-  email: 
-  telephone: 
-  address: 
-  location: 
-  country: WorldWide
-
 - brand: Trash hero
   products: Trash Collection, Information
   company:  
@@ -677,6 +677,16 @@
   address: 
   location: 
   country: Indonesia
+
+- brand: The Plant List
+  products: Plants database
+  company:  
+  website: http://www.theplantlist.org
+  email: 
+  telephone: 
+  address: 
+  location: 
+  country: WorldWide
 
 - brand: Ubud Organic Market
   products: Organic Products
@@ -708,26 +718,6 @@
   location: 
   country: Indonesia
 
-- brand: Welcome Alternative Bags
-  products: Sustainable Bags
-  company:  
-  website: https://welcomealternativebags.com
-  email: info@welcomealternativebags.com
-  telephone: 
-  address: 
-  location: 
-  country: Indonesia
-
-- brand: World Mapper
-  products: Data on Maps
-  company:  
-  website: https://worldmapper.org
-  email: 
-  telephone: 
-  address: 
-  location: 
-  country: WorldWide
-
 - brand: Vince Tierny Surfboards
   products: Balsa Wooden Surfboards
   company:  
@@ -736,6 +726,16 @@
   telephone: 62 858 14327942
   address: Jl. Pantai Berawa No.5A, Canggu, Bali
   location: https://goo.gl/maps/6kgsznMZLdK2
+  country: Indonesia
+
+- brand: Welcome Alternative Bags
+  products: Sustainable Bags
+  company:  
+  website: https://welcomealternativebags.com
+  email: info@welcomealternativebags.com
+  telephone: 
+  address: 
+  location: 
   country: Indonesia
 
 - brand: Wello
@@ -747,6 +747,16 @@
   address: Kurjenkellontie 5 B, FI-02270 Espoo
   location: 
   country: Finland
+
+- brand: World Mapper
+  products: Data on Maps
+  company:  
+  website: https://worldmapper.org
+  email: 
+  telephone: 
+  address: 
+  location: 
+  country: WorldWide
 
 - brand: World Watch Institute
   products: Information, Fact analysis
