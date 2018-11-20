@@ -10,7 +10,7 @@ home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-sticky: true # 'true' or empty
+sticky: # 'true' or empty
 photography: # put here photographer name
 ---
 Currently more than 60% of the worlds electricity is produced with fossil fuels. With 75% of the earth’s surface being covered by water, the huge clean, continues energy production potential of wave energy is rapidly increasing in interest.
