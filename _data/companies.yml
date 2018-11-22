@@ -108,16 +108,6 @@
   location: 
   country: Indonesia
 
-- brand: Bambu 
-  products: Sustainable kitchen ware
-  company: 
-  website: https://www.bambuhome.com
-  email: customercare@bambuhome.com
-  telephone: 1 8556303149
-  address: 
-  location: 
-  country: U.S.A.
-
 - brand: Bamboo straws
   products: Bamboo straws
   company: 
@@ -127,6 +117,16 @@
   address: 
   location: 
   country: Indonesia
+
+- brand: Bambu 
+  products: Sustainable kitchen ware
+  company: 
+  website: https://www.bambuhome.com
+  email: customercare@bambuhome.com
+  telephone: 1 8556303149
+  address: 
+  location: 
+  country: U.S.A.
 
 - brand: Bambu Indah
   products: Hospitality
@@ -178,16 +178,6 @@
   location: 
   country: Indonesia
 
-- brand: Divine Earth Bali
-  products: Vegan Food, Cinema
-  company:  
-  website: http://www.divineearthbali.com
-  email: info@divineearthbali.com
-  telephone: 62 361 731964
-  address: JL. Raya Basangkasa, 1200A, Seminyak, Bali
-  location: https://goo.gl/maps/tsrd3dmjdD72
-  country: Indonesia
-
 - brand: Coral Triangle Center
   products: Conservation
   company:  
@@ -196,6 +186,16 @@
   telephone: 62 361 289338
   address: Jl. Danau Tamblingan no.78, Sanur, Bali 
   location: https://goo.gl/maps/nMcGx43yAvQ2
+  country: Indonesia
+
+- brand: Divine Earth Bali
+  products: Vegan Food, Cinema
+  company:  
+  website: http://www.divineearthbali.com
+  email: info@divineearthbali.com
+  telephone: 62 361 731964
+  address: JL. Raya Basangkasa, 1200A, Seminyak, Bali
+  location: https://goo.gl/maps/tsrd3dmjdD72
   country: Indonesia
 
 - brand: Down To Earth
@@ -338,16 +338,6 @@
   location: https://goo.gl/maps/2sNZkRhdKmS2
   country: Indonesia
 
-- brand: Explorer Eco Lodge
-  products: Hospitality
-  company: 
-  website: 
-  email: 
-  telephone: 62 878 62266140
-  address: Tianyar, Kubu, Karangasem Regency, Bali 80853
-  location: https://goo.gl/maps/ZmouMEeCCYE2
-  country: Indonesia
-
 - brand: Forest Stewardship Council
   products: Wood Certification
   company: FSC Global Development GmbH
@@ -357,6 +347,16 @@
   address: Adenauerallee 134, Bonn 53115
   location: 
   country: Germany
+
+- brand: Explorer Eco Lodge
+  products: Hospitality
+  company: 
+  website: 
+  email: 
+  telephone: 62 878 62266140
+  address: Tianyar, Kubu, Karangasem Regency, Bali 80853
+  location: https://goo.gl/maps/ZmouMEeCCYE2
+  country: Indonesia
 
 - brand: Gesits
   products: Electric Scooters
@@ -546,6 +546,16 @@
   telephone: 62 361 4720595
   address: c/o Catalyze, Jl. Penyaringan No.30B, Sanur, Bali
   location: 
+  country: Indonesia
+
+- brand: Pulau Plastic
+  products: 
+  company: 
+  website: http://www.pulauplastik.org
+  email: lakota@akarumput.com
+  telephone: 
+  address: Jl. Raya Nyuh Kuning, Mas, Ubud, Bali 80157
+  location: https://goo.gl/maps/XsUkL2xj7fH2
   country: Indonesia
 
 - brand: Sage Publications
