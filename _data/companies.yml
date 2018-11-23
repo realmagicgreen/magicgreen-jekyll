@@ -36,7 +36,7 @@
   telephone: 44 746 265 8077
   address: Unit 23, 222 Kensal Road, London W10 5BN
   location: 
-  country: U.K.
+  country: United Kingdom
 
 - brand: Bali Buda
   products: Organic Products
@@ -68,16 +68,6 @@
   location: https://goo.gl/maps/GRiDJ7d1qrE2
   country: Indonesia
 
-- brand: Bali Jiwa
-  products: Organic Products
-  company:  
-  website: https://www.balijiwa.net
-  email: hello@balijiwa.com
-  telephone: 62 361 270081
-  address: 
-  location: 
-  country: Indonesia
-
 - brand: Bali life bamboo straws
   products: Bamboo straws
   company: 
@@ -87,6 +77,16 @@
   address: 55 Triq Fra Diegu Hamrun Malta
   location: 
   country: Malta
+
+- brand: Bali Jiwa
+  products: Organic Products
+  company:  
+  website: https://www.balijiwa.net
+  email: hello@balijiwa.com
+  telephone: 62 361 270081
+  address: 
+  location: 
+  country: Indonesia
 
 - brand: Bali Organic Association
   products: Organic Products
@@ -148,6 +148,16 @@
   location: 
   country: Indonesia
 
+- brand: Blue Sphere Foundation
+  products: Ocean Protection, Information
+  company: 
+  website: https://www.bluespherefoundation.org
+  email: info@bluespherefoundation.org
+  telephone: 
+  address: 1350 6th avenue Suite 3110, NY, Ny 10019
+  location: 
+  country: WorldWide
+
 - brand: Byebye Plastic Bags
   products: Events
   company: Yayasan Bumi Indah
@@ -177,6 +187,26 @@
   address: 
   location: 
   country: Indonesia
+
+- brand: Conservation International
+  products: Conservation, Education
+  company: 
+  website: https://www.conservation.org
+  email: media@conservation.org
+  telephone: 1 703 341 2400
+  address: 2011 Crystal Drive, Suite 500, Arlington, VA 22202
+  location: 
+  country: U.S.A.
+
+- brand: Charity Navigator
+  products: Charity, Information
+  company: 
+  website: https://www.charitynavigator.org
+  email: 
+  telephone: 
+  address: 139 Harristown Rd Suite 101, Glen Rock, NJ 07452
+  location: 
+  country: U.S.A.
 
 - brand: Coral Triangle Center
   products: Conservation
@@ -228,16 +258,6 @@
   location: 
   country: WorldWide
 
-- brand: East Bali Bamboo Bikes
-  products: Bamboo Bikes
-  company: 
-  website: https://www.eastbalibamboobikes.com
-  email: ebbb@eastbalipovertyproject.org
-  telephone: 
-  address: 
-  location: 
-  country: Indonesia
-
 - brand: EarthXpress
   products: Organic, Vegan Products 
   company:  
@@ -246,6 +266,16 @@
   telephone: 62 812 4696 7117
   address: Jl. Batu Bolong 37a, Canggu, Bali
   location: https://goo.gl/maps/FKdKEzymHFR2
+  country: Indonesia
+
+- brand: East Bali Bamboo Bikes
+  products: Bamboo Bikes
+  company: 
+  website: https://www.eastbalibamboobikes.com
+  email: ebbb@eastbalipovertyproject.org
+  telephone: 
+  address: 
+  location: 
   country: Indonesia
 
 - brand: East Bali Poverty Project
@@ -338,16 +368,6 @@
   location: https://goo.gl/maps/2sNZkRhdKmS2
   country: Indonesia
 
-- brand: Forest Stewardship Council
-  products: Wood Certification
-  company: FSC Global Development GmbH
-  website: https://ic.fsc.org
-  email: info@fsc.org
-  telephone: 49 228367660
-  address: Adenauerallee 134, Bonn 53115
-  location: 
-  country: Germany
-
 - brand: Explorer Eco Lodge
   products: Hospitality
   company: 
@@ -357,6 +377,16 @@
   address: Tianyar, Kubu, Karangasem Regency, Bali 80853
   location: https://goo.gl/maps/ZmouMEeCCYE2
   country: Indonesia
+
+- brand: Forest Stewardship Council
+  products: Wood Certification
+  company: FSC Global Development GmbH
+  website: https://ic.fsc.org
+  email: info@fsc.org
+  telephone: 49 228367660
+  address: Adenauerallee 134, Bonn 53115
+  location: 
+  country: Germany
 
 - brand: Gesits
   products: Electric Scooters
@@ -468,6 +498,26 @@
   location: https://goo.gl/maps/5Dmc4zsWiJ52
   country: Germany
 
+- brand: Lonely Whale
+  products: Ocean Conservation, Education
+  company: 
+  website: https://www.lonelywhale.org
+  email: hello@lonelywhale.org
+  telephone: 
+  address: 
+  location: 
+  country: U.S.A.
+
+- brand: Manta Trust
+  products: Multidisciplinary Conservation
+  company: 
+  website: https://www.mantatrust.org
+  email: info@mantatrust.org
+  telephone: 
+  address: Catemwood House, Corscombe, Dorchester, Dorset, DT2 0NT
+  location: 
+  country: United Kingdom
+
 - brand: Mission Blue
   products: Save ocean, Information
   company: Sylvia Earle Alliance/Mission Blue
@@ -508,6 +558,16 @@
   location: 
   country: Indonesia
 
+- brand: Next Wave Plastics
+  products: Research, Environmental Advocacy
+  company: 
+  website: https://www.nextwaveplastics.org
+  email: hello@nextwaveplastics.org
+  telephone: 
+  address: 
+  location: 
+  country: U.S.A.
+
 - brand: Numbeo
   products: Cost of LIiving Database
   company:  
@@ -517,6 +577,26 @@
   address: 
   location: 
   country: WorldWide
+
+- brand: Oceanic Preservation Society
+  products: Ocean Protection, Information
+  company: 
+  website: http://www.opsociety.org
+  email: info@opsociety.org
+  telephone: 
+  address: 336 Bon Air Center #384, Greenbrae, CA 94904
+  location: 
+  country: U.S.A.
+
+- brand: Pangeaseed Foundation
+  products: ARTivism Ecology Education
+  company: 
+  website: https://www.pangeaseed.foundation
+  email: info@pangeaseed.org
+  telephone: 
+  address: PO Box 4775, Hilo, HI 96720 USA
+  location: 
+  country: U.S.A.
 
 - brand: Paradiso Ubud
   products: Organic, Vegan, Theatre
@@ -538,6 +618,16 @@
   location: 
   country: WorldWide
 
+- brand: Pulau Plastic
+  products: Plastic Edutainment 
+  company: 
+  website: http://www.pulauplastik.org
+  email: lakota@akarumput.com
+  telephone: 
+  address: Jl. Raya Nyuh Kuning, Mas, Ubud, Bali 80157
+  location: https://goo.gl/maps/XsUkL2xj7fH2
+  country: Indonesia
+
 - brand: Plastik detox
   products: Reduce Plastic Information
   company: 
@@ -546,16 +636,6 @@
   telephone: 62 361 4720595
   address: c/o Catalyze, Jl. Penyaringan No.30B, Sanur, Bali
   location: 
-  country: Indonesia
-
-- brand: Pulau Plastic
-  products: 
-  company: 
-  website: http://www.pulauplastik.org
-  email: lakota@akarumput.com
-  telephone: 
-  address: Jl. Raya Nyuh Kuning, Mas, Ubud, Bali 80157
-  location: https://goo.gl/maps/XsUkL2xj7fH2
   country: Indonesia
 
 - brand: Sage Publications
@@ -579,7 +659,7 @@
   country: Indonesia
 
 - brand: Satvika Bhoga
-  products: Organic shop
+  products: Organic food
   company:  
   website: https://satvikabhoga.wordpress.com
   email: satvikabhoga@gmail.com
@@ -597,6 +677,26 @@
   address: 
   location: 
   country: Canada
+
+- brand: Sea Sanctuaries
+  products: Ocean Protection, Information
+  company: 
+  website: http://www.seasanctuaries.org
+  email: expeditions@seasanctuaries.org
+  telephone: 
+  address: 
+  location: 
+  country: United Kingdom
+
+- brand: SEE
+  products: Environmental Justice
+  company: Social and Environmental Entrepreneurs
+  website: http://saveourplanet.org
+  email: 
+  telephone: 1 818 225 9150
+  address: 23532 Calabasas Road, Suite A, Calabasas, CA 91302
+  location: 
+  country: U.S.A.
 
 - brand: Selis Bali
   products: Electric Scooters
@@ -618,16 +718,6 @@
   location: 
   country: Singapore
 
-- brand: Skutis
-  products: Electric Scooters
-  company:  
-  website: https://skutis.co
-  email: 
-  telephone: 62 821 45238963
-  address: 
-  location: 
-  country: Indonesia
-
 - brand: Sos From The Deep
   products: Conservation
   company:  
@@ -638,15 +728,15 @@
   location: https://goo.gl/maps/tpUYgicPzr52
   country: Indonesia
 
-- brand: Sustainable Brands 
-  products: Information
+- brand: Skutis
+  products: Electric Scooters
   company:  
-  website: http://www.sustainablebrands.com
+  website: https://skutis.co
   email: 
-  telephone: 1 415 6262212 
-  address: 3 Meacham Pl, San Francisco, CA 94109
+  telephone: 62 821 45238963
+  address: 
   location: 
-  country: U.S.A.
+  country: Indonesia
 
 - brand: Sustainable Foods Summit
   products: Conferences, Information
@@ -657,6 +747,16 @@
   address: 1 Scotts Road, no.24-10 Shaw Centre,  Singapore
   location: 
   country: Singapore
+
+- brand: Sustainable Brands 
+  products: Information
+  company:  
+  website: http://www.sustainablebrands.com
+  email: 
+  telephone: 1 415 6262212 
+  address: 3 Meacham Pl, San Francisco, CA 94109
+  location: 
+  country: U.S.A.
 
 - brand: Ted
   products: Conferences, Information
@@ -749,7 +849,7 @@
   country: Indonesia
 
 - brand: Wello
-  products: Wave energy converters
+  products: Wave Energy Converters
   company: Wello Oy
   website: https://wello.eu
   email: info@wello.eu
@@ -757,6 +857,16 @@
   address: Kurjenkellontie 5 B, FI-02270 Espoo
   location: 
   country: Finland
+
+- brand: Wild Aid
+  products: Wildlife Protection
+  company: 
+  website: https://wildaid.org
+  email: 
+  telephone: 1 415 8343174
+  address: 333 Pine Street, Suite 300, San Francisco, CA 94104
+  location: 
+  country: U.S.A.
 
 - brand: World Mapper
   products: Data on Maps
