@@ -9,7 +9,7 @@
   country: WorldWide
 
 - brand: ASEAN biodiversity
-  products: Conservation
+  products: Conservation Information
   company: ASEAN biodiversity Nonprofit
   website: https://aseanbiodiversity.org
   email: contact.us@aseanbiodiversity.org
@@ -58,6 +58,16 @@
   location: https://goo.gl/maps/qQQ5HbwvNSH2
   country: Indonesia
 
+- brand: Bali Jiwa
+  products: Organic Products
+  company:  
+  website: https://www.balijiwa.net
+  email: hello@balijiwa.com
+  telephone: 62 361 270081
+  address: 
+  location: 
+  country: Indonesia
+
 - brand: Bali eco stay
   products: Accomodation
   company:  
@@ -77,16 +87,6 @@
   address: 55 Triq Fra Diegu Hamrun Malta
   location: 
   country: Malta
-
-- brand: Bali Jiwa
-  products: Organic Products
-  company:  
-  website: https://www.balijiwa.net
-  email: hello@balijiwa.com
-  telephone: 62 361 270081
-  address: 
-  location: 
-  country: Indonesia
 
 - brand: Bali Organic Association
   products: Organic Products
@@ -109,7 +109,7 @@
   country: Indonesia
 
 - brand: Bamboo straws
-  products: Bamboo straws
+  products: Bamboo Straws
   company: 
   website: https://bamboo-straws.com
   email: strawsbamboo@gmail.com
@@ -119,7 +119,7 @@
   country: Indonesia
 
 - brand: Bambu 
-  products: Sustainable kitchen ware
+  products: Sustainable Kitchen Ware
   company: 
   website: https://www.bambuhome.com
   email: customercare@bambuhome.com
@@ -129,7 +129,7 @@
   country: U.S.A.
 
 - brand: Bambu Indah
-  products: Hospitality
+  products: Bamboo Hospitality
   company: 
   website: http://bambuindah.com
   email: reservations@bambuindah.com
@@ -158,24 +158,34 @@
   location: 
   country: WorldWide
 
-- brand: Byebye Plastic Bags
-  products: Events
-  company: Yayasan Bumi Indah
-  website: http://www.byebyeplasticbags.org
-  email: 
-  telephone: 
-  address: 
-  location: 
-  country: Indonesia
-
 - brand: Byo Living
-  products: Woven furniture, Weaving Spoecialist
+  products: Weaving Spoecialist, Furniture
   company: Byo Living
   website: http://bioliving.com
   email: lim@byoliving.com
   telephone: 
   address: Pluit karang utara 79a Jakarta
   location: https://goo.gl/maps/r1knaTVR3BB2
+  country: Indonesia
+
+- brand: Charity Navigator
+  products: Charity, Information
+  company: 
+  website: https://www.charitynavigator.org
+  email: 
+  telephone: 
+  address: 139 Harristown Rd Suite 101, Glen Rock, NJ 07452
+  location: 
+  country: U.S.A.
+
+- brand: Byebye Plastic Bags
+  products: Conservation, Education, Events
+  company: Yayasan Bumi Indah
+  website: http://www.byebyeplasticbags.org
+  email: 
+  telephone: 
+  address: 
+  location: 
   country: Indonesia
 
 - brand: ChokChok Chocolate
@@ -195,16 +205,6 @@
   email: media@conservation.org
   telephone: 1 703 341 2400
   address: 2011 Crystal Drive, Suite 500, Arlington, VA 22202
-  location: 
-  country: U.S.A.
-
-- brand: Charity Navigator
-  products: Charity, Information
-  company: 
-  website: https://www.charitynavigator.org
-  email: 
-  telephone: 
-  address: 139 Harristown Rd Suite 101, Glen Rock, NJ 07452
   location: 
   country: U.S.A.
 
@@ -228,16 +228,6 @@
   location: https://goo.gl/maps/tsrd3dmjdD72
   country: Indonesia
 
-- brand: Down To Earth
-  products: Organic Food Distibution
-  company: PT Down To Earth Bali
-  website: http://www.downtoearthbali.com
-  email: info@downtoearthbali.com
-  telephone: 62 361 736645
-  address: Jl. Lesmana/Oberoi No. 99, Seminyak, Bali 80361
-  location: 
-  country: Indonesia
-
 - brand: Earth Cafe & Market
   products: Organic Products
   company:  
@@ -248,7 +238,17 @@
   location: https://goo.gl/maps/zSfXaoEtih42
   country: Indonesia
 
-- brand: earthquake track
+- brand: Down To Earth
+  products: Organic Food Distibution
+  company: PT Down To Earth Bali
+  website: http://www.downtoearthbali.com
+  email: info@downtoearthbali.com
+  telephone: 62 361 736645
+  address: Jl. Lesmana/Oberoi No. 99, Seminyak, Bali 80361
+  location: 
+  country: Indonesia
+
+- brand: Earthquake Track
   products: Earthquake infos
   company: 
   website: https://www.earthquaketrack.com
@@ -419,7 +419,7 @@
   country: Indonesia
 
 - brand: Green Camp Bali
-  products: Eco education camp
+  products: Ecologic education camp
   company: 
   website: https://greencampbali.com
   email: info@greencampbali.com
@@ -429,7 +429,7 @@
   country: Indonesia
 
 - brand: Green School Bali
-  products: Education
+  products: Ecologic Education
   company:  
   website: https://www.greenschool.org
   email: 
@@ -439,7 +439,7 @@
   country: Indonesia
 
 - brand: Green-Books.org
-  products: Eco Education For Kids
+  products: Ecologic Education For Kids
   company: Green Books 
   website: https://www.green-books.org
   email: info@green-books.org
@@ -529,7 +529,7 @@
   country: U.S.A.
 
 - brand: Mongabay
-  products: Conservation news
+  products: Conservation, Information, News
   company:  
   website: http://www.mongabay.co.id
   email: mongabay@mongabay.com
@@ -539,7 +539,7 @@
   country: Indonesia
 
 - brand: Mute Garage Bali
-  products: Electric Scooters rent
+  products: Electric Scooters Rent
   company:  
   website: http://www.e-mute.com
   email: 
@@ -609,7 +609,7 @@
   country: Indonesia
 
 - brand: Plants for a Future
-  products: Plants Database
+  products: Plants Database Information
   company:  
   website: https://pfaf.org
   email: 
@@ -617,16 +617,6 @@
   address: 
   location: 
   country: WorldWide
-
-- brand: Pulau Plastic
-  products: Plastic Edutainment 
-  company: 
-  website: http://www.pulauplastik.org
-  email: lakota@akarumput.com
-  telephone: 
-  address: Jl. Raya Nyuh Kuning, Mas, Ubud, Bali 80157
-  location: https://goo.gl/maps/XsUkL2xj7fH2
-  country: Indonesia
 
 - brand: Plastik detox
   products: Reduce Plastic Information
@@ -638,8 +628,18 @@
   location: 
   country: Indonesia
 
+- brand: Pulau Plastic
+  products: Plastic Edutainment, Conservation
+  company: 
+  website: http://www.pulauplastik.org
+  email: lakota@akarumput.com
+  telephone: 
+  address: Jl. Raya Nyuh Kuning, Mas, Ubud, Bali 80157
+  location: https://goo.gl/maps/XsUkL2xj7fH2
+  country: Indonesia
+
 - brand: Sage Publications
-  products: Research journals
+  products: Research journals, Information
   company: SAGE Publications
   website: http://journals.sagepub.com
   email: journals@sagepub.com
@@ -718,16 +718,6 @@
   location: 
   country: Singapore
 
-- brand: Sos From The Deep
-  products: Conservation
-  company:  
-  website: http://sosfromthedeep.com
-  email: hello@sosfromthedeep.com
-  telephone: 62 361 289338
-  address: Jl. Betngandang II no. 88-89, Sanur, Bali
-  location: https://goo.gl/maps/tpUYgicPzr52
-  country: Indonesia
-
 - brand: Skutis
   products: Electric Scooters
   company:  
@@ -738,6 +728,26 @@
   location: 
   country: Indonesia
 
+- brand: Sos From The Deep
+  products: Conservation Information
+  company:  
+  website: http://sosfromthedeep.com
+  email: hello@sosfromthedeep.com
+  telephone: 62 361 289338
+  address: Jl. Betngandang II no. 88-89, Sanur, Bali
+  location: https://goo.gl/maps/tpUYgicPzr52
+  country: Indonesia
+
+- brand: Sustainable Brands 
+  products: Sustainable Information
+  company:  
+  website: http://www.sustainablebrands.com
+  email: 
+  telephone: 1 415 6262212 
+  address: 3 Meacham Pl, San Francisco, CA 94109
+  location: 
+  country: U.S.A.
+
 - brand: Sustainable Foods Summit
   products: Conferences, Information
   company: Asia-Pacific Representative
@@ -747,16 +757,6 @@
   address: 1 Scotts Road, no.24-10 Shaw Centre,  Singapore
   location: 
   country: Singapore
-
-- brand: Sustainable Brands 
-  products: Information
-  company:  
-  website: http://www.sustainablebrands.com
-  email: 
-  telephone: 1 415 6262212 
-  address: 3 Meacham Pl, San Francisco, CA 94109
-  location: 
-  country: U.S.A.
 
 - brand: Ted
   products: Conferences, Information
@@ -779,7 +779,7 @@
   country: Indonesia
 
 - brand: The Plant List
-  products: Plants database
+  products: Plants Database Information
   company:  
   website: http://www.theplantlist.org
   email: 
@@ -869,7 +869,7 @@
   country: U.S.A.
 
 - brand: World Mapper
-  products: Data on Maps
+  products: Data on Maps, Information
   company:  
   website: https://worldmapper.org
   email: 
