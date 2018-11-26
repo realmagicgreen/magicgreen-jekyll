@@ -1,6 +1,6 @@
 ---
 name: Microplastic in your salt
-subtitle: Planet or plastic? Salt produced in Indonesia, using the  ancient technique of evaporating seawater, has been found to contains some of the highest microplastics sampled.
+subtitle: Planet or plastic? Salt produced in Indonesia, using the  ancient technique of evaporating seawater contains lots of microplastics.
 description: ""
 category: know
 tags: Indonesia design learning plastic save-oceans waste
