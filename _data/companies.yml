@@ -158,14 +158,14 @@
   location: 
   country: WorldWide
 
-- brand: Byo Living
-  products: Weaving Spoecialist, Furniture
-  company: Byo Living
-  website: http://bioliving.com
-  email: lim@byoliving.com
+- brand: Byebye Plastic Bags
+  products: Conservation, Education, Events
+  company: Yayasan Bumi Indah
+  website: http://www.byebyeplasticbags.org
+  email: 
   telephone: 
-  address: Pluit karang utara 79a Jakarta
-  location: https://goo.gl/maps/r1knaTVR3BB2
+  address: 
+  location: 
   country: Indonesia
 
 - brand: Charity Navigator
@@ -178,14 +178,14 @@
   location: 
   country: U.S.A.
 
-- brand: Byebye Plastic Bags
-  products: Conservation, Education, Events
-  company: Yayasan Bumi Indah
-  website: http://www.byebyeplasticbags.org
-  email: 
+- brand: Byo Living
+  products: Weaving Spoecialist, Furniture
+  company: Byo Living
+  website: http://bioliving.com
+  email: lim@byoliving.com
   telephone: 
-  address: 
-  location: 
+  address: Pluit karang utara 79a Jakarta
+  location: https://goo.gl/maps/r1knaTVR3BB2
   country: Indonesia
 
 - brand: ChokChok Chocolate
@@ -228,16 +228,6 @@
   location: https://goo.gl/maps/tsrd3dmjdD72
   country: Indonesia
 
-- brand: Earth Cafe & Market
-  products: Organic Products
-  company:  
-  website: http://www.earthcafebali.com
-  email: 
-  telephone: 62 851 00835545
-  address: Jl. Goutama Selatan, Ubud, Bali
-  location: https://goo.gl/maps/zSfXaoEtih42
-  country: Indonesia
-
 - brand: Down To Earth
   products: Organic Food Distibution
   company: PT Down To Earth Bali
@@ -246,6 +236,16 @@
   telephone: 62 361 736645
   address: Jl. Lesmana/Oberoi No. 99, Seminyak, Bali 80361
   location: 
+  country: Indonesia
+
+- brand: Earth Cafe & Market
+  products: Organic Products
+  company:  
+  website: http://www.earthcafebali.com
+  email: 
+  telephone: 62 851 00835545
+  address: Jl. Goutama Selatan, Ubud, Bali
+  location: https://goo.gl/maps/zSfXaoEtih42
   country: Indonesia
 
 - brand: Earthquake Track
@@ -318,6 +318,16 @@
   location: 
   country: Indonesia
 
+- brand: Econyl®
+  products: Regenerated Nylon
+  company: Aquafil S.p.a.
+  website: https://www.econyl.com
+  email: info@econyl.com
+  telephone: 
+  address: via linfano 9, 38062 Arco Tn, Italy
+  location: 
+  country: Italy
+
 - brand: Ecovia Intelligence
   products: Research, Consulting, Training
   company: 
@@ -349,7 +359,7 @@
   country: China
 
 - brand: Evoware
-  products: Seaweed Based Packaging
+  products: Seaweed Based Biodegradable Plastic
   company: 
   website: http://www.evoware.id
   email: info@evoware.id
@@ -478,6 +488,16 @@
   location: 
   country: Indonesia
 
+- brand: Island Organics Bali
+  products: Organic Farm, Internet shop
+  company: 
+  website: https://www.islandorganicsbali.com/
+  email: io.gm@bigtreefarms.com
+  telephone: 62 8113864094
+  address: Jl. Raya Baturiti, Baturiti, Tabanan, Bali 82161
+  location: https://goo.gl/maps/4C5MJzot4TC2
+  country: Indonesia
+
 - brand: Lampbond Indonesia
   products: LED Bulbs
   company:  
@@ -489,7 +509,7 @@
   country: Indonesia
 
 - brand: Leaf Republic
-  products: Leaf plates, bowls
+  products: Leaf Plates, Bowls, Biodegradable
   company: Leaf Republic GmbH
   website: https://www.leaf-republic.com
   email: sales@leaf-republic.com
@@ -587,6 +607,16 @@
   address: 336 Bon Air Center #384, Greenbrae, CA 94904
   location: 
   country: U.S.A.
+
+- brand: Oxium
+  products: Biodegradable Plastic
+  company: Greenhope - PT. Harapan Interaksi Swadaya
+  website: http://www.oxium.net
+  email: info@greenhope.co
+  telephone: 62 2150178989 
+  address: Grand ITC Permata Hijau, Blok Saphire 22, Jl. A. Raya Permata Hijau, Kebayoran Lama, Jakarta 12210 
+  location: 
+  country: Indonesia
 
 - brand: Pangeaseed Foundation
   products: ARTivism Ecology Education
