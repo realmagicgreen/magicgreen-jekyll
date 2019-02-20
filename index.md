@@ -1,8 +1,8 @@
 ---
 layout: home
-title: welcome
+title: Magic Green Revolution
 description: #
 pagination:
-  enabled: true
+enabled: true
 image: /assets/p/og.png
 ---
