@@ -5,12 +5,12 @@ description: > # this means to ignore newlines until "baseurl:"
   Magic Green magazine is a showcase of examples, infos and addresses of all stuff green related in Bali and beyond.
 keywords: magazine, natural, nature-friendly, magic-green, sustainable business practises, environment-friendly, renewable-energy, low-impact, Bali, Indonesia, south east Asia, environment-conscious, wise, minimal impact, healthy, water purification techniques, communication platform, green news,
 lang: en
-version: 0.6.6
+version: 0.7.0
 words_per_minute: 160 #not working / not used | 2b fixed
 
 # site architecture
 baseurl: ""
-url: "https://magicgreen.org"
+url: "https://magicgreen.junglestar.org"
 qr: show # 'show' or 'hide' put qr.svg in includes/defs.html call it: icn--qr
 menu: long_menu # 'short_menu' or 'long_menu'
 show_logo: show # 'show' or 'hide'
@@ -21,7 +21,7 @@ has_term_page:  # true or empty
 company:
   name: Magic Green
   legal_name: PT Gama Bali Dwipa #if need to overrides 'company.name' in footer fill up this one
-  email: info@magicgreen.org
+  email: magicgreen@junglestar.org
   telephone:
   fax:
   address: #
