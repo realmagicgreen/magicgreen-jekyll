@@ -3,14 +3,14 @@ name: Bambu Indah
 subtitle: A radically distinctive boutique hotel in Ubud, unique luxury experience in a lush natural environment. Dense tropical jungle and river pools.
 description:
 category: services
-tags: architecture Bali bamboo design environmental-friendly eco-entrepeneurs eco-tourism eco-friendly Indonesia sustainable-development sustainable-construction tropical wellness
+tags: architecture Bali bamboo design environmental-friendly eco-entrepreneurs eco-tourism eco-friendly Indonesia sustainable-development sustainable-construction tropical wellness
 image: /assets/p/posts/services/bambu-indah/bambu-indah.jpg
 show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: true # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-sticky:  true # 'true' or empty
+sticky:  # 'true' or empty
 photography: # put here photographer name
 ---
 
