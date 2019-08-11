@@ -22,7 +22,7 @@ it's very convenient as to write the caption you have to go see the image anyway
   assign the page image and split at the extension dot
   {% endcomment %}
   {% assign f = page.image | split: '.' %}
-  <img src="{{ f[0] | relative_url }}{{ include.name }}-640.{{ f[1] }}"
+  <img loading="lazy" src="{{ f[0] | relative_url }}{{ include.name }}-640.{{ f[1] }}"
        srcset="{{ f[0] | relative_url }}{{ include.name }}-640.{{ f[1] }} 640w,
                {{ f[0] | relative_url }}{{ include.name }}-880.{{ f[1] }} 880w,
                {{ f[0] | relative_url }}{{ include.name }}-1024.{{ f[1] }} 1024w,
