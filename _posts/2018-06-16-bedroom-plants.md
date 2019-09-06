@@ -10,7 +10,7 @@ home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-pinned: # pinned to top 'true' or empty
+sticky: true # pinned to top 'true' or empty
 photography: # put here photographer name
 ---
 
@@ -86,6 +86,8 @@ Who doesn’t love the scent of lavender? It’s also probably the most well-kno
 
 Research backs up these claims, with lavender scents shown to slow down heart rate, lower blood pressure and levels of stress.
 
+Read more on the [benefits of lavender oil here!](https://bettermindbodysoul.com/benefits-of-lavender-oil/)
+
 ### Gardenia
 
 With glossy evergreen leaves and beautifully scented blossoms, Gardenias are a popular plant choice for bedrooms.
@@ -132,3 +134,6 @@ Practitioners today recommend rosemary essential oil for supporting the nervous 
 [Indoor plants which clean the air](https://www.livescience.com/38445-indoor-plants-clean-air.html)
 
 [Crassulacean acid metabolism, CAM photosynthesis](https://en.wikipedia.org/wiki/Crassulacean_acid_metabolism)
+
+
+[Benefits of lavender oil](https://bettermindbodysoul.com/benefits-of-lavender-oil/)

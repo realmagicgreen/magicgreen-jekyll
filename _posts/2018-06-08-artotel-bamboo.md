@@ -10,7 +10,7 @@ home_slideshow_caption: Bamboo masters # lowercase, max 12 digits, including spa
 flag: # new or other...
 ad: true # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-sticky: # 'true' or empty
+sticky: true # 'true' or empty
 photography: Rokma # put here photographer name
 ---
 
