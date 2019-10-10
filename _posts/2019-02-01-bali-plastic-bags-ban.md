@@ -1,6 +1,6 @@
 ---
 name: Bali plastic bags Ban
-subtitle: Denpasar just introduced a new prohibition of plastic bags, Styrofoam and plastic straws in supermarkets, convenience stores and shopping centers.
+subtitle: Denpasar just introduced a new prohibition of plastic bags, Styrofoam and plastic straws in supermarkets, convenience stores and shopping centres.
 description: Starting with the new year, Bali Denpasar area has banned the plastic bags. Tabanan regency now is set to follow up with similar initiative. The ban is expected to cover the whole island coming into effect in June 2019.
 category: solutions
 tags: Bali Indonesia environmental-friendly eco-friendly Indonesia sustainable-development
@@ -20,12 +20,12 @@ The ban is expected to cover the whole island coming into effect in June 2019.
 The raising concern about [plastic pollution]({% post_url 2018-05-01-plastic-bags %}) has got a lot of press attention. In the last few years that South East Asia in general, and Bali in particular, is in the news for its ocean and land plastic pollution levels.
 
 
-{% include image.html name="-02" caption="Indonesian contemporary artist Handiwirman Saputra born in West Sumatra and living in Jogja, has taken on the responsibility to raise the plastic bag problem. In -Tak Berakar Tak Berpucuk- made in 2011, he highlights the activities of discarding things or objects that are no longer needed to river streams by putting them into plastic bags. Two plastic bags in gigantic size in two colors, black and white. Exhibited at Art Bali - Beyond the Myth" %}
+{% include image.html name="-02" caption="Indonesian contemporary artist Handiwirman Saputra born in West Sumatra and living in Jogja, has taken on the responsibility to raise the plastic bag problem. In -Tak Berakar Tak Berpucuk- made in 2011, he highlights the activities of discarding things or objects that are no longer needed to river streams by putting them into plastic bags. Two plastic bags in gigantic size in two colours, black and white. Exhibited at Art Bali - Beyond the Myth" %}
 
 
 The [Bye-Bye Plastic Bag]({% post_url 2018-05-15-byebye-plastic-bags %}) campaign in Bali, created by Melati and Isabel Wijsen, in Bali, which has gained attention after former Governor Pastika signed a Memorandum of Understanding banning plastic bags in 2014, is now active in 18 countries.
 
-The sisters were recently recognized by CNN as one of the world’s Young Wonders as part of the CNN Heroes event, giving the island and their movement enormous exposure.
+The sisters were recently recognised by CNN as one of the world’s Young Wonders as part of the CNN Heroes event, giving the island and their movement enormous exposure.
 
 >"Around 97% of our members no longer provide plastic bags for consumers,"  _Anak Agung Ngurah Agung Agraputra,  Chairman of the Indonesian Retail Business Association or Aprindo Bali_
 
