@@ -15,15 +15,17 @@ photography: # put here photographer name
 ---
 Mosquitoes can be a terrible nuisance. Before you grab a can of chemical bug spray, you can take a stand against mosquitoes with a few well-chosen.
 
+Mosquitoes are stimulated by a number of factors when seeking out a blood meal. Initially, they’re [attracted by the carbon dioxide we exhale](http://theconversation.com/health-check-why-mosquitoes-seem-to-bite-some-people-more-36425). Body heat is probably important too, but once the mosquito gets closer, she will respond to the smell of a potential blood source’s skin.
+
 
 
 ### Outdoors mosquito repellent plants
 
-1. Garlic - Allium sativum
+1. Garlic - Allium Sativum
 
 {% include image.html name="-03" caption="Garlic plant" %}
 
-Garlic is another natural way to stay away from mosquitoes. You can use it by chopping it in small pieces and spread it around your living areas.
+[Garlic](https://en.wikipedia.org/wiki/Garlic) is another natural way to stay away from mosquitoes. You can use it by chopping it in small pieces and spread it around your living areas.
 
 A patio spray can also be made. You can also mix it with natural aromatic oils to make a mosquito repelling body spray. Or simply grow a garlic plant in your garden.
 
@@ -35,7 +37,7 @@ The best thing you can do is - prevent water from collecting as the mosquitoes c
 
 {% include image.html name="-02" caption="Mint plant" %}
 
-Most bugs despise the smell and taste of peppermint, so planting it around your home is a great way to keep them from dropping by uninvited.
+Most bugs despise the smell and taste of [peppermint](https://en.wikipedia.org/wiki/Peppermint), so planting it around your home is a great way to keep them from dropping by uninvited.
 
 Plus, if you do happen to get bitten, peppermint leaves rubbed directly onto the skin make a great bite relief treatment.
 
@@ -52,7 +54,7 @@ An added bonus is the wonderful minty smell that makes a delicious addition to f
 
 This is by far the most well-known mosquito repellent because the compounds in its leaves are a common ingredient in commercial repellent products. It has a pleasant lemon smell and is very powerful at driving away mosquitoes.
 
-A tropical plant, it will thrive in warm weather and full sunshine. It may benefit from regular fertilising and even a little added artificial light during the winter months if you have very short days.
+[Citronella](https://en.wikipedia.org/wiki/Citronella), a tropical plant, it will thrive in warm weather and full sunshine. It may benefit from regular fertilising and even a little added artificial light during the winter months if you have very short days.
 
 If looking to buy citronella, be careful when choosing the plants. There are a few varieties of scented geraniums that go by the name mosquito plant or even citronella plant, and they are not what you’re looking for. True citronella looks a lot like thick grass, and does not have wide rippled leaves.
 
@@ -62,7 +64,7 @@ If looking to buy citronella, be careful when choosing the plants. There are a f
 
 {% include image.html name="-05" caption="Lavender plant" %}
 
-Lavender is an excellent mosquito repellent. Much more common as an outdoor plant, you can keep a few small pots of it inside to help with the bugs.
+[Lavender](https://en.wikipedia.org/wiki/Lavandula) is an excellent mosquito repellent. Much more common as an outdoor plant, you can keep a few small pots of it inside to help with the bugs.
 
 It can be finicky, liking as much sun as you can find as well as a spot with good airflow. A nearby window with a frequent breeze is what you need.
 
@@ -70,7 +72,7 @@ It can be finicky, liking as much sun as you can find as well as a spot with goo
 
 {% include image.html name="-06" caption="Catnip plant" %}
 
-Catnip is also an effective mosquito repellent. Nepetalactone is one of the main active ingredients in Catnip, which was found to be 10 times stronger than even DEET, according to a recent study.
+[Catnip](https://en.wikipedia.org/wiki/Catnip) is also an effective mosquito repellent. Nepetalactone is one of the main active ingredients in Catnip, which was found to be 10 times stronger than even DEET, according to a recent study.
 
 Catnip is also a good non-toxic substitute to traditional chemical sprays.
 
@@ -78,19 +80,19 @@ Catnip is also a good non-toxic substitute to traditional chemical sprays.
 
 {% include image.html name="-07" caption="Basil plant" %}
 
-Basil is already a great herb to have fresh in the kitchen, and now you can consider a pest repellent too. As usual, plan on keeping your potted basil in a very sunny window as it needs a lot of light, and be diligent about watering it.
+[Basil](https://en.wikipedia.org/wiki/Basil) is already a great herb to have fresh in the kitchen, and now you can consider a pest repellent too. As usual, plan on keeping your potted basil in a very sunny window as it needs a lot of light, and be diligent about watering it.
 
 Basil doesn’t handle dry conditions very well, but you also don’t want to drown the roots. Damp, well-draining soil is the key.
 
 They prefer a warm environment, so they may not be the best indoor houseplant if you have a cold house during the winters. Otherwise, they should thrive just fine. Feel free to harvest a few leaves now and again for cooking too.
 
 
-5. Rosemary
+5. Rosemary - Salvia Rosmarinus
 
 
 {% include image.html name="-08" caption="Rosemary plant" %}
 
-Another seasoning herb that has mosquito-repelling qualities is rosemary. Maybe not the best choice for a novice gardener, but it would be worth giving a try. You need a place with as much sunlight as possible, even a grow light occasionally, and you should know it can be finicky about watering.
+Another seasoning herb that has mosquito-repelling qualities is [rosemary](https://en.wikipedia.org/wiki/Rosemary). Maybe not the best choice for a novice gardener, but it would be worth giving a try. You need a place with as much sunlight as possible, even a grow light occasionally, and you should know it can be finicky about watering.
 
 Use a well-draining potting soil mix, watering when the surface is dry to the touch. It can be sensitive to either too much or too little water.
 
@@ -99,15 +101,15 @@ Rosemary is also prone to powdery mildew so you have to have a lot of air moveme
 
 ### Placement
 
-You’ll have to keep your plants in a spot offer the right amount of light or temperatures your indoor plants require. But other than that, you will want to keep these plants in areas where mosquitoes are mostly likely to be making an entrance into your home.
+Keep your plants in a spot offer the right amount of light or temperatures your indoor plants require. Choose strategic areas.
 
-Keep your plants near busy entrances to stop them from buzzing in as people come and go. Bedrooms and common living areas are the next placement spots, to keep them out of the room. Remember, these plants only repel mosquitoes, they aren’t going to kill the bugs.
+Keep your plants near busy entrances. Bedrooms and common living areas are the next placement spots, to keep them out of the room. Remember, these plants only repel mosquitoes, they aren’t going to kill the bugs.
 
 ### Stop Attracting Them
 
 You’ll have fewer mosquitoes to deal with around the house if you stop attracting them in the first place. Unlike with other houseflies, mosquitoes aren’t attracted to food or garbage that might be in your house. So keeping things clean won’t have much impact here.
 
-They’re drawn to dark colours, body heat and a range of fragrances, including perfumes, lotions and even strong body odour.
+They’re drawn to the dark colours, body heat and a range of fragrances, including perfumes, lotions and even strong body odour.
 
 Now, these aren’t things that are likely to bring them directly into your house, but if you are outdoors wearing dark clothes and smelling of cologne, you’re going to draw mosquitoes inside with you every time you come back in the house.
 
@@ -134,6 +136,22 @@ So with a few of these aromatic plants, and some simple changes around the house
 
 **_Know more:_**
 
-[easy to grow mosquito repellent plants](https://krishijagran.com/health-lifestyle/easy-to-grow-mosquito-repellent-plants-at-home/)
+[Garlic](https://en.wikipedia.org/wiki/Garlic)
 
-[plants that repel mosquitoes](https://www.proflowers.com/blog/plants-that-repel-mosquitoes)
+[Peppermint](https://en.wikipedia.org/wiki/Peppermint)
+
+[Citronella](https://en.wikipedia.org/wiki/Citronella)
+
+[Lavender](https://en.wikipedia.org/wiki/Lavandula)
+
+[Catnip](https://en.wikipedia.org/wiki/Catnip)
+
+[Basil](https://en.wikipedia.org/wiki/Basil)
+
+[rosemary](https://en.wikipedia.org/wiki/Rosemary)
+
+[Attracted by the carbon dioxide we exhale](http://theconversation.com/health-check-why-mosquitoes-seem-to-bite-some-people-more-36425)
+
+[Easy to grow mosquito repellent plants](https://krishijagran.com/health-lifestyle/easy-to-grow-mosquito-repellent-plants-at-home/)
+
+[Plants that repel mosquitoes](https://www.proflowers.com/blog/plants-that-repel-mosquitoes)
