@@ -10,7 +10,7 @@ home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-sticky:  # 'true' or empty
+sticky: true # 'true' or empty
 photography: # put here photographer name
 ---
 Mosquitoes can be a terrible nuisance. Before you grab a can of chemical bug spray, you can take a stand against mosquitoes with a few well-chosen.
