@@ -19,9 +19,9 @@ Mosquitoes are stimulated by a number of factors when seeking out a blood meal. 
 
 
 
-### Outdoors mosquito repellent plants
+# Outdoors mosquito repellent plants
 
-1. Garlic - Allium Sativum
+## Garlic - Allium Sativum
 
 {% include image.html name="-03" caption="Garlic plant" %}
 
@@ -33,7 +33,7 @@ In addition to growing the plants or herbs mentioned above, you can also practic
 
 The best thing you can do is - prevent water from collecting as the mosquitoes can lay a number of eggs here. Prevention is always better than cure.
 
-2. Peppermint
+## Peppermint
 
 {% include image.html name="-02" caption="Mint plant" %}
 
@@ -45,9 +45,9 @@ An added bonus is the wonderful minty smell that makes a delicious addition to f
 
 
 
-### Indoor houseplants
+# Indoor houseplants
 
-1. Citronella
+## Citronella
 
 
 {% include image.html name="-04" caption="Citronella plant" %}
@@ -59,7 +59,7 @@ This is by far the most well-known mosquito repellent because the compounds in i
 If looking to buy citronella, be careful when choosing the plants. There are a few varieties of scented geraniums that go by the name mosquito plant or even citronella plant, and they are not what you’re looking for. True citronella looks a lot like thick grass, and does not have wide rippled leaves.
 
 
-2. Lavender
+## Lavender
 
 
 {% include image.html name="-05" caption="Lavender plant" %}
@@ -68,7 +68,7 @@ If looking to buy citronella, be careful when choosing the plants. There are a f
 
 It can be finicky, liking as much sun as you can find as well as a spot with good airflow. A nearby window with a frequent breeze is what you need.
 
-3. Catnip - Nepeta Cataria
+## Catnip - Nepeta Cataria
 
 {% include image.html name="-06" caption="Catnip plant" %}
 
@@ -76,7 +76,7 @@ It can be finicky, liking as much sun as you can find as well as a spot with goo
 
 Catnip is also a good non-toxic substitute to traditional chemical sprays.
 
-4. Basil
+## Basil
 
 {% include image.html name="-07" caption="Basil plant" %}
 
@@ -87,7 +87,7 @@ Basil doesn’t handle dry conditions very well, but you also don’t want to dr
 They prefer a warm environment, so they may not be the best indoor houseplant if you have a cold house during the winters. Otherwise, they should thrive just fine. Feel free to harvest a few leaves now and again for cooking too.
 
 
-5. Rosemary - Salvia Rosmarinus
+## Rosemary - Salvia Rosmarinus
 
 
 {% include image.html name="-08" caption="Rosemary plant" %}
@@ -99,13 +99,13 @@ Use a well-draining potting soil mix, watering when the surface is dry to the to
 Rosemary is also prone to powdery mildew so you have to have a lot of air movement around the plant to prevent that from settling in. Like with lavender, try to find a breezy location, or even set up a small fan around your plants to keep the air moving.
 
 
-### Placement
+# Placement
 
 Keep your plants in a spot offer the right amount of light or temperatures your indoor plants require. Choose strategic areas.
 
 Keep your plants near busy entrances. Bedrooms and common living areas are the next placement spots, to keep them out of the room. Remember, these plants only repel mosquitoes, they aren’t going to kill the bugs.
 
-### Stop Attracting Them
+# Stop Attracting Them
 
 You’ll have fewer mosquitoes to deal with around the house if you stop attracting them in the first place. Unlike with other houseflies, mosquitoes aren’t attracted to food or garbage that might be in your house. So keeping things clean won’t have much impact here.
 
@@ -116,7 +116,7 @@ Now, these aren’t things that are likely to bring them directly into your hous
 Mosquitoes are usually at their busiest at dusk and into the night, though not all species are exactly the same. This is definitely the time to be careful you’re not drawing them into the house by opening the doors too often, or attracting them as we mentioned above.
 
 
-### Other advices
+# Other advices
 
 It’s definitely worth putting a little extra effort in keeping your home and yard mosquito free. The biggest way to protect the house is to have tight window screens on every window and exposed vent in your house.
 
