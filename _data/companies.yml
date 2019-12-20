@@ -38,16 +38,6 @@
   location: 
   country: United Kingdom
 
-- brand: Bali Buda
-  products: Organic Products
-  company:  
-  website: http://www.balibuda.com
-  email: 
-  telephone: 62 361 299467
-  address: Jl Pura Puseh no.3, Br. Denjalan, Batu Bulan, Bali
-  location: 
-  country: Indonesia
-
 - brand: Bali ebikes
   products: Electric Bicycle Tours
   company:  
@@ -58,13 +48,13 @@
   location: https://goo.gl/maps/qQQ5HbwvNSH2
   country: Indonesia
 
-- brand: Bali Jiwa
+- brand: Bali Buda
   products: Organic Products
   company:  
-  website: https://www.balijiwa.net
-  email: hello@balijiwa.com
-  telephone: 62 361 270081
-  address: 
+  website: http://www.balibuda.com
+  email: 
+  telephone: 62 361 299467
+  address: Jl Pura Puseh no.3, Br. Denjalan, Batu Bulan, Bali
   location: 
   country: Indonesia
 
@@ -76,6 +66,16 @@
   telephone: 62 857 38467596
   address: Kanciana Village, Kemetug, Gunung Salak, Selemadeg, Bali 82113
   location: https://goo.gl/maps/GRiDJ7d1qrE2
+  country: Indonesia
+
+- brand: Bali Jiwa
+  products: Organic Products
+  company:  
+  website: https://www.balijiwa.net
+  email: hello@balijiwa.com
+  telephone: 62 361 270081
+  address: 
+  location: 
   country: Indonesia
 
 - brand: Bali life bamboo straws
@@ -118,16 +118,6 @@
   location: 
   country: Indonesia
 
-- brand: Bambu 
-  products: Sustainable Kitchen Ware
-  company: 
-  website: https://www.bambuhome.com
-  email: customercare@bambuhome.com
-  telephone: 1 8556303149
-  address: 
-  location: 
-  country: U.S.A.
-
 - brand: Bambu Indah
   products: Bamboo Hospitality
   company: 
@@ -137,6 +127,16 @@
   address: Banjar Baung, Desa Sayan, Ubud, Gianyar, Bali 80571
   location: https://goo.gl/maps/ETNaxoVP7Pv
   country: Indonesia
+
+- brand: Bambu 
+  products: Sustainable Kitchen Ware
+  company: 
+  website: https://www.bambuhome.com
+  email: customercare@bambuhome.com
+  telephone: 1 8556303149
+  address: 
+  location: 
+  country: U.S.A.
 
 - brand: Big Tree Farms
   products: Organic Products
@@ -168,16 +168,6 @@
   location: 
   country: Indonesia
 
-- brand: Charity Navigator
-  products: Charity, Information
-  company: 
-  website: https://www.charitynavigator.org
-  email: 
-  telephone: 
-  address: 139 Harristown Rd Suite 101, Glen Rock, NJ 07452
-  location: 
-  country: U.S.A.
-
 - brand: Byo Living
   products: Weaving Spoecialist, Furniture
   company: Byo Living
@@ -187,6 +177,16 @@
   address: Pluit karang utara 79a Jakarta
   location: https://goo.gl/maps/r1knaTVR3BB2
   country: Indonesia
+
+- brand: Charity Navigator
+  products: Charity, Information
+  company: 
+  website: https://www.charitynavigator.org
+  email: 
+  telephone: 
+  address: 139 Harristown Rd Suite 101, Glen Rock, NJ 07452
+  location: 
+  country: U.S.A.
 
 - brand: ChokChok Chocolate
   products: Organic Chocolate
@@ -498,6 +498,16 @@
   location: https://goo.gl/maps/4C5MJzot4TC2
   country: Indonesia
 
+- brand: Leaf Republic
+  products: Leaf Plates, Bowls, Biodegradable
+  company: Leaf Republic GmbH
+  website: https://www.leaf-republic.com
+  email: sales@leaf-republic.com
+  telephone: 49 89 18912857
+  address: Mehlbeerenstr. 6, 82024 Taufkirchen, Munich
+  location: https://goo.gl/maps/5Dmc4zsWiJ52
+  country: Germany
+
 - brand: Lampbond Indonesia
   products: LED Bulbs
   company:  
@@ -508,15 +518,15 @@
   location: 
   country: Indonesia
 
-- brand: Leaf Republic
-  products: Leaf Plates, Bowls, Biodegradable
-  company: Leaf Republic GmbH
-  website: https://www.leaf-republic.com
-  email: sales@leaf-republic.com
-  telephone: 49 89 18912857
-  address: Mehlbeerenstr. 6, 82024 Taufkirchen, Munich
-  location: https://goo.gl/maps/5Dmc4zsWiJ52
-  country: Germany
+- brand: Live Essences
+  products: Organic, Botanical Health Drinks
+  company: Pt. Rumah Seni Kuno
+  website: https://www.live-essences.com
+  email: liveessences@gmail.com
+  telephone: 62 8123858928
+  address: 
+  location: 
+  country: Indonesia
 
 - brand: Lonely Whale
   products: Ocean Conservation, Education
