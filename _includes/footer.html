@@ -55,22 +55,22 @@
 
         {% if site.company.facebook_page %}
         <div class="footer_icon facebook">
-          <a class="menu_item" role="menuitem" href="{{site.company.facebook_page}}" title="{{site.company.facebook_page}} facebook page">
+          <a class="menu_item" role="menuitem" href="{{site.company.facebook_page}}" title="{{site.company.facebook_page}} Facebook page">
             <span>
               {% include svg/use.html id="icn--facebook" class="facebook" %}
             </span>
-            <span>Follow us on Facebook</span>
+            <span>Facebook: {{site.company.facebook_page | replace: "https://web.facebook.com/", "" }}</span>
           </a>
         </div>
         {% endif %}
 
         {% if site.company.instagram %}
         <div class="footer_icon instagram">
-          <a class="menu_item" role="menuitem" href="{{site.company.instagram}}" title="{{site.company.instagram}} on instagram">
+          <a class="menu_item" role="menuitem" href="{{site.company.instagram}}" title="{{site.company.instagram | downcase}} on Instagram">
             <span>
               {% include svg/use.html id="icn--instagram" class="instagram" %}
             </span>
-            <span>Follow us on Instagram</span>
+            <span>Instagram: {{site.company.instagram  | downcase | replace: "https://www.instagram.com/", "" }}</span>
           </a>
         </div>
         {% endif %}

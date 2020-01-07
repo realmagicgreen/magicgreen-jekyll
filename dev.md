@@ -36,8 +36,8 @@ Thanks, the [Junglestar](https://junglestar.org) team.
 ## FUTURE 2DOs:
 
 - [ ] setup Alexa verify
-- [ ] install Algolia or other search
-- [ ] Instagram account
+- [ ] install (Algolia) or other search
+- [X] Instagram account
 - [ ] Twitter account
 - [ ] setup this: https://github.com/myles/jekyll-typogrify
 - [ ] MAYBE: GUI grid with all post+titles+subtitles

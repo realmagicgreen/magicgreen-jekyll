@@ -65,6 +65,7 @@
     display: -ms-flexbox;
     display: flex;
 
+
     &.active {
       border-bottom: 0 none;
 
@@ -124,4 +125,8 @@
   font-size: 12px;
   padding-top: $space;
   margin-top: $space;
+}
+
+.menu.menu_footer .menu_item {
+  text-transform: none;
 }

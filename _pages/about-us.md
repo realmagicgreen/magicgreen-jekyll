@@ -21,7 +21,7 @@ The growing concern about the ecological impact is a fact worldwide. In recent y
 
 Ecologically sustainable business needs to communicate about their low impact practices and policies. Bali has already a growing industry of environmentally conscious business operators. Green minded business must let customer know in order to beat the competition.
 
-The island of Bali, Indonesia and the whole South East Asia, have all the interests to show the actions taken to minimize impact and conserve the environment. There is a need to improve the country image.
+The island of Bali, Indonesia and the whole South East Asia, have all the interests to show the actions taken to minimise impact and conserve the environment. There is a need to improve the country image.
 
 Green and sustainable businesses practices are both necessary and a growing reality in Bali. Conscious tourists want to know who is doing the right thing and are ready to support them. The time is perfect to fill this gap.
 
