@@ -87,6 +87,10 @@ Other step will need to include helping establishing the newly born biodegradabl
 
 **_Know more:_**
 
+[Telobag](http://telobag.com/en/home/)
+
+[Telobag instagram](https://www.instagram.com/telobagindo/)
+
 [Evoware seaweed plastics](http://www.evoware.id/)
 
 [Oxium Indonesian biodegradable plastic](http://www.oxium.net/page/)
@@ -105,16 +109,13 @@ Other step will need to include helping establishing the newly born biodegradabl
 
 [Reuters Evoware review](https://www.reuters.com/article/us-indonesia-evoware/indonesian-startup-wages-war-on-plastic-with-edible-seaweed-cups-idUSKBN1DN0XA)
 
-
 [Bamboo straws](https://bamboo-straws.com/)
 
-[Worldwatch Institute](http://www.worldwatch.org/)
+[World Watch Institute](http://www.worldwatch.org/)
 
 [plastic oceans website](https://plasticoceans.org/)
 
 [A Plastic Ocean - on Netflix](https://www.netflix.com/id/title/80164032)
-
-
 
 [Byebye plastic bags website](http://www.byebyeplasticbags.org)
 

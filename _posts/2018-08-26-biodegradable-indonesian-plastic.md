@@ -85,3 +85,9 @@ Phone: +62 21 3048 5599
 [Avani website](https://www.avanieco.com/)
 
 [Avani biodegradable plastic life cycle](https://www.avanieco.com/life-cycle-3/)
+
+[Telobag](http://telobag.com/en/home/)
+
+[Evoware seaweed plastics](http://www.evoware.id/)
+
+[Oxium Indonesian biodegradable plastic](http://www.oxium.net/page/)
