@@ -36,7 +36,7 @@ In another study, when 80 people with solid cancerous tumours were given 150 mg 
 
 Curcumin is poorly absorbed when taken on its own, but you can boost its absorption by as much as 2,000% by taking it with Piperine, found in black pepper.
 
-Read [more about Turmeric here](https://lyfebotanicals.com/health/turmeric-benefits/).
+Read [more about Turmeric here](https://lyfebotanicals.com/health/turmeric-benefits/). 
 
 ### Fish oil
 
@@ -108,4 +108,6 @@ However, in the case of excessive or chronic inflammation, supplements can often
 
 [Health benefits of Turmeric - Lyfebotanicals](https://lyfebotanicals.com/health/turmeric-benefits/)
 
-[Turmeric for inflammation- Lyfebotanicals](https://lyfebotanicals.com/health/turmeric-for-inflammation/)
+[Turmeric for inflammation - Lyfebotanicals](https://lyfebotanicals.com/health/turmeric-for-inflammation/)
+
+[Turmeric for your mood - Lyfebotanicals](https://lyfebotanicals.com/health/turmeric-for-depression/)
