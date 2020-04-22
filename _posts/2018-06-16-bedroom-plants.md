@@ -125,9 +125,9 @@ Practitioners today recommend rosemary essential oil for supporting the nervous 
 
 **_Know more:_**
 
-[Houseplants that clean air](https://greatist.com/connect/houseplants-that-clean-air)
-
 [NASA Clean Air Study](https://en.wikipedia.org/wiki/NASA_Clean_Air_Study)
+
+[(Excellent guide) Air Cleaning Plants - ohsospotless](https://ohsospotless.com/air-cleaning-plants/)
 
 [Plants to help you sleep](http://www.naturallivingideas.com/12-plants-for-your-bedroom-to-help-you-sleep/)
 
@@ -135,5 +135,8 @@ Practitioners today recommend rosemary essential oil for supporting the nervous 
 
 [Crassulacean acid metabolism, CAM photosynthesis](https://en.wikipedia.org/wiki/Crassulacean_acid_metabolism)
 
+
+
+[Houseplants that clean air](https://greatist.com/connect/houseplants-that-clean-air)
 
 [Benefits of lavender oil](https://bettermindbodysoul.com/benefits-of-lavender-oil/)
