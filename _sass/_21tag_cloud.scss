@@ -14,11 +14,10 @@
 }
 
 a[class*=set-] {
-  line-height: 28px;
+  line-height: 34px;
   white-space: nowrap;
-  @include media( "screen", ">minWidth") {
-    line-height: 34px;
-  }
+  padding-left: 5px;
+  padding-right: 5px;
   &:after {
     content: "\00a0";
   }
