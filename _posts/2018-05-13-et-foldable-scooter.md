@@ -5,7 +5,7 @@ description: Among the big offer of e-bikes and scooters one which sticks out is
 category: products
 tags: commuting electric environment-friendly
 image: /assets/p/posts/products/et-foldable-scooter/et-foldable-scooter.jpg
-show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
+show_in_home_slideshow:  # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: e-scooters # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: true # use 'true' to have post displaying AD

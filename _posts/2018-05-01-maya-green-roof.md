@@ -5,7 +5,7 @@ description: Designed by award-winning architect, Budiman Hendropurnomo of Dento
 category: solutions
 tags: air-cleaning architecture Bali CO2 design eco-friendly energy-efficiency Indonesia
 image: /assets/p/posts/solutions/maya-green-roof/maya-green-roof.jpg
-show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
+show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: green roofs # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: true # use 'true' to have post displaying AD

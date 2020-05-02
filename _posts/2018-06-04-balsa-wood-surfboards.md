@@ -5,8 +5,8 @@ description: "Surfing is one of the most environment-friendly sports , because o
 category: products
 tags: Bali design environment-friendly eco-friendly Indonesia sustainable-construction social-responsibility wood
 image: /assets/p/posts/products/balsa-wood-surfboards/balsa-wood-surfboards.jpg
-show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
-home_slideshow_caption: Balsa Boards # lowercase, max 12 digits, including spaces
+show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
+home_slideshow_caption: balsa boards # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: true # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home

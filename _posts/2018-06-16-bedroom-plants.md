@@ -5,8 +5,8 @@ description: Sure, that potted fern is pretty, but can it really spruce up the a
 category: health
 tags: CO2 bedroom-plants air-cleaning botany plants learning wellness
 image: /assets/p/posts/health/bedroom-plants/bedroom-plants.jpg
-show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
-home_slideshow_caption: # lowercase, max 12 digits, including spaces
+show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
+home_slideshow_caption: helpful plants # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home

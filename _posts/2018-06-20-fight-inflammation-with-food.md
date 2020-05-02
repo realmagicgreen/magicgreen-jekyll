@@ -5,8 +5,8 @@ description: Inflammation can occur in response to trauma, illness and stress. I
 category: health
 tags: CO2 botany plants learning superfood wellness
 image: /assets/p/posts/health/fight-inflammation-with-food/fight-inflammation-with-food.jpg
-show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
-home_slideshow_caption: # lowercase, max 12 digits, including spaces
+show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
+home_slideshow_caption: food for health # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
@@ -36,7 +36,7 @@ In another study, when 80 people with solid cancerous tumours were given 150 mg 
 
 Curcumin is poorly absorbed when taken on its own, but you can boost its absorption by as much as 2,000% by taking it with Piperine, found in black pepper.
 
-Read [more about Turmeric here](https://lyfebotanicals.com/health/turmeric-benefits/). 
+Read [more about Turmeric here](https://lyfebotanicals.com/health/turmeric-benefits/).
 
 ### Fish oil
 

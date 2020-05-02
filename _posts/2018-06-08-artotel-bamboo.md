@@ -5,7 +5,7 @@ description: With a state of the art brand new bamboo construction, Artotel Beac
 category: solutions
 tags: architecture bamboo Bali design eco-friendly learning Indonesia sustainable-construction wood
 image: /assets/p/posts/solutions/artotel-bamboo/artotel-bamboo.jpg
-show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
+show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: Bamboo masters # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: true # use 'true' to have post displaying AD

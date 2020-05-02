@@ -6,7 +6,7 @@ category: solutions
 tags: architecture bamboo Bali design eco-friendly eco-entrepreneurs recycle hydro-power Indonesia learning permaculture sustainable-construction  wood
 image: /assets/p/posts/solutions/bamboo-buildings-in-bali/bamboo-buildings-in-bali.jpg
 show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
-home_slideshow_caption: bamboo strength # lowercase, max 12 digits, including spaces
+home_slideshow_caption: bamboo buildings # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home

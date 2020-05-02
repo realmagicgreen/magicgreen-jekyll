@@ -5,7 +5,7 @@ description: Biodiversity is the variety of life on Earth. These forms of life i
 category: know
 tags: ASEAN  Indonesia Malaysia Myanmar Philippines Singapore biodiversity initiative learning tropical
 image: /assets/p/posts/know/zooming-in-on-biodiversity/zooming-in-on-biodiversity.jpg
-show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
+show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: BIO DIVERSITY # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
