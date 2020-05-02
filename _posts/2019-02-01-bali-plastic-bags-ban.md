@@ -10,7 +10,7 @@ home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: true # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-sticky:  true # 'true' or empty
+sticky: # 'true' or empty
 photography: # put here photographer name
 ---
 Starting with the new year, Bali Denpasar area has banned the plastic bags. Tabanan regency now is set to follow up with similar initiative.

@@ -10,7 +10,7 @@ home_slideshow_caption: bamboo strength # lowercase, max 12 digits, including sp
 flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-sticky: true # 'true' or empty
+sticky:  # 'true' or empty
 photography: # put here photographer name
 ---
 The Indonesian island of Bali is witnessing a new trend. Bamboo building, emblem of sustainable construction, are replacing concrete and steel.

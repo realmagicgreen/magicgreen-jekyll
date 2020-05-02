@@ -10,7 +10,7 @@ home_slideshow_caption: # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: true # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
-sticky: # 'true' or empty
+sticky: true # 'true' or empty
 photography: # put here photographer name
 ---
 Plastic pollution is a global problem in our modern society, a worldwide threat to the environment, flora and fauna. A major part of that pollution comes from our habits, and take-away food along the food-grade plastic containers, wrappings, and single-use glasses for example, that are used to consume the food on the go.
