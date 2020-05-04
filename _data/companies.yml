@@ -38,16 +38,6 @@
   location: 
   country: United Kingdom
 
-- brand: Bali ebikes
-  products: Electric Bicycle Tours
-  company:  
-  website: http://www.bali-ebikes.com
-  email: info@bali-ebikes.com
-  telephone: 62 813 53622250 
-  address: Jl. Suweta No. 30, Ubud, Bali
-  location: https://goo.gl/maps/qQQ5HbwvNSH2
-  country: Indonesia
-
 - brand: Bali Buda
   products: Organic Products
   company:  
@@ -56,6 +46,16 @@
   telephone: 62 361 299467
   address: Jl Pura Puseh no.3, Br. Denjalan, Batu Bulan, Bali
   location: 
+  country: Indonesia
+
+- brand: Bali ebikes
+  products: Electric Bicycle Tours
+  company:  
+  website: http://www.bali-ebikes.com
+  email: info@bali-ebikes.com
+  telephone: 62 813 53622250 
+  address: Jl. Suweta No. 30, Ubud, Bali
+  location: https://goo.gl/maps/qQQ5HbwvNSH2
   country: Indonesia
 
 - brand: Bali eco stay
@@ -118,6 +118,16 @@
   location: 
   country: Indonesia
 
+- brand: Bambu 
+  products: Sustainable Kitchen Ware
+  company: 
+  website: https://www.bambuhome.com
+  email: customercare@bambuhome.com
+  telephone: 1 8556303149
+  address: 
+  location: 
+  country: U.S.A.
+
 - brand: Bambu Indah
   products: Bamboo Hospitality
   company: 
@@ -128,14 +138,14 @@
   location: https://goo.gl/maps/ETNaxoVP7Pv
   country: Indonesia
 
-- brand: Bambu 
-  products: Sustainable Kitchen Ware
-  company: 
-  website: https://www.bambuhome.com
-  email: customercare@bambuhome.com
-  telephone: 1 8556303149
-  address: 
-  location: 
+- brand: Bead the Change
+  products: Environmental awareness
+  company: Bead the Change
+  website: https://beadthechange.eco/
+  email: 
+  telephone: 
+  address: 5910 Sea Lion Pl, Carlsbad, CA 92010
+  location: https://goo.gl/maps/EZ4TH1Vsghc42MPeA
   country: U.S.A.
 
 - brand: Big Tree Farms
@@ -498,16 +508,6 @@
   location: https://goo.gl/maps/4C5MJzot4TC2
   country: Indonesia
 
-- brand: Leaf Republic
-  products: Leaf Plates, Bowls, Biodegradable
-  company: Leaf Republic GmbH
-  website: https://www.leaf-republic.com
-  email: sales@leaf-republic.com
-  telephone: 49 89 18912857
-  address: Mehlbeerenstr. 6, 82024 Taufkirchen, Munich
-  location: https://goo.gl/maps/5Dmc4zsWiJ52
-  country: Germany
-
 - brand: Lampbond Indonesia
   products: LED Bulbs
   company:  
@@ -517,6 +517,16 @@
   address: 
   location: 
   country: Indonesia
+
+- brand: Leaf Republic
+  products: Leaf Plates, Bowls, Biodegradable
+  company: Leaf Republic GmbH
+  website: https://www.leaf-republic.com
+  email: sales@leaf-republic.com
+  telephone: 49 89 18912857
+  address: Mehlbeerenstr. 6, 82024 Taufkirchen, Munich
+  location: https://goo.gl/maps/5Dmc4zsWiJ52
+  country: Germany
 
 - brand: Live Essences
   products: Organic, Botanical Health Drinks
