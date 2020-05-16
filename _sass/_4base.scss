@@ -108,6 +108,11 @@ svg {
     max-width: $mediaMaxWidth*1.15;
     margin: 0 auto;
   }
+  &.small {
+    @include media("screen", ">bp1Width") {
+      max-width: $mediaBp1Width;
+    }
+  }
 
   .book_now,
   p {
