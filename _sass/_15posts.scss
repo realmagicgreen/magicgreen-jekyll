@@ -131,13 +131,13 @@ blockquote {
 
 .category {
   height: 26px;
-  line-height: 20px;
+  line-height: 22px;
   text-align: right;
   text-transform: uppercase;
   font-weight: $semibold_font_weight;
   padding-left: $space--small;
   padding-right: $space--small;
-  color: transparentize($black, .5);
+  color: transparentize($black, .25);
 }
 
 .border_top {

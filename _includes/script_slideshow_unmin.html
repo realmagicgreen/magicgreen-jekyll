@@ -218,14 +218,14 @@ http://www.cssscript.com/configurable-javascript-slideshow-carousel-library-slid
                   u = this.debounce(p, 200);
               window.addEventListener("resize", u),
                   i.showIndicators &&
-                      (this.indicators.addEventListener(this.eventTrigger, this.indicatorHandler.bind(this)),
+                      (this.indicators.addEventListener(this.eventTrigger, this.indicatorHandler.bind(this), {passive: true}),
                       this.indicatorBtns[this.currentSlide - 1].classList.add("slideshow-current"),
                       (this.numberIndicator.value = this.currentSlide),
-                      this.numberIndicator.addEventListener("change", this.numberIndicatorHandler.bind(this))),
+                      this.numberIndicator.addEventListener("change", this.numberIndicatorHandler.bind(this), {passive: true})),
                   i.allowSwipe &&
                       ((this.swipeInfo = { dir: 0, startX: null, startY: null, distX: null, distY: null, threshold: 150, restraint: 100, allowedTime: 500, elapsedTime: null, startTime: null }),
-                      n.addEventListener(this.isMobile ? "touchstart" : "mousedown", this.handleSwipeStart.bind(this)),
-                      n.addEventListener(this.isMobile ? "touchend" : "mouseup", this.handleSwipeEnd.bind(this))),
+                      n.addEventListener(this.isMobile ? "touchstart" : "mousedown", this.handleSwipeStart.bind(this), {passive: true}),
+                      n.addEventListener(this.isMobile ? "touchend" : "mouseup", this.handleSwipeEnd.bind(this), {passive: true})),
                   i.autoplay ? this.playSlideshow() : (this.intervalID = null);
           }),
           (t.prototype.navHandler = function (t) {
