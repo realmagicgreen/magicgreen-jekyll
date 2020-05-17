@@ -94,7 +94,7 @@ http://www.cssscript.com/configurable-javascript-slideshow-carousel-library-slid
           (t.prototype.createEl = function (t, i, s, e) {
               var n = document.createElement(i);
               for (var l in s) s.hasOwnProperty(l) && n.setAttribute(l, s[l]);
-              return t.appendChild(n), e && n.addEventListener(e.event, e.fn), n;
+              return t.appendChild(n), e && n.addEventListener(e.event, e.fn, {passive: true}), n;
           }),
           (t.prototype.debounce = function (t, i, s) {
               var e = void 0;
