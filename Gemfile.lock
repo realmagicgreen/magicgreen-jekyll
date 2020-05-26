@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.2.0)
+    activesupport (5.2.4.3)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -16,7 +16,7 @@ GEM
       json (>= 1.5.1)
     colorator (1.1.0)
     colorize (0.8.1)
-    concurrent-ruby (1.0.5)
+    concurrent-ruby (1.1.6)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -89,7 +89,7 @@ GEM
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
     mini_portile2 (2.3.0)
-    minitest (5.11.3)
+    minitest (5.14.1)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
     nuggets (1.5.0)
@@ -116,7 +116,7 @@ GEM
       ethon (>= 0.9.0)
     typogruby (1.0.18)
       rubypants
-    tzinfo (1.2.5)
+    tzinfo (1.2.7)
       thread_safe (~> 0.1)
     verbal_expressions (0.1.5)
     yell (2.0.7)
