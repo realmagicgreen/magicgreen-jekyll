@@ -76,7 +76,6 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-sitemap
- - jekyll-algolia
  - jekyll-typogrify
  - jekyll-stickyposts
  - jekyll-paginate-v2
