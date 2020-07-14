@@ -20,6 +20,9 @@ Led by famous oceanographer Dr. Sylvia Earle, Mission Blue inspires action to ex
 
 Uniting a global coalition to inspire an upwelling of public awareness, access and support for a worldwide network of marine protected areas, Hope Spots, special places that are scientifically identified as critical to the health of the ocean.
 
+
+{% include image.html name="-10" caption="" %}
+
 >"The next five years may be the most important in the next ten thousand for our planet. There are plenty of reasons for hope, yet every day, doors of opportunity close. We know what to do. Now is the time to act." _Dr. Sylvia Earle_
 
 Under Dr. Earle’s leadership, the Mission Blue team implements communications campaigns that elevate Hope Spots to the world stage through documentaries, social media, traditional media and innovative tools like Google Earth.
@@ -33,6 +36,9 @@ Our Hope Spots are championed by local conservationists whom we support with com
 
 Mission Blue also embarks on regular oceanic expeditions that shed light on these vital ecosystems and build support for their protection.
 
+
+{% include image.html name="-08" caption="" %}
+
 In 2020, the Mission Blue alliance includes more than 200 respected ocean conservation groups and like-minded organizations, from large multinational companies to individual scientific teams doing important research.
 
 {% include image.html name="-02" caption="" %}
@@ -44,6 +50,9 @@ Mission Blue supports the work of conservation NGOs that share the mission of bu
 While about 12 percent of the land around the world is now under some form of protection (as national parks etc.), less than six percent of the ocean is protected in any way.
 
 Hope Spots allow us to plan for the future and look beyond current marine protected areas (MPAs), which are like national parks on land where exploitative uses like fishing and deep sea mining are restricted.
+
+
+{% include image.html name="-07" caption="" %}
 
 Hope Spots are often areas that need new protection, but they can also be existing MPAs where more action is needed. They can be large, they can be small, but they all provide hope due to:
 
@@ -112,6 +121,7 @@ Led by Dr. Sylvia Earle and Expeditions Director Kip Evans, these voyages explor
 
 &nbsp;
 
+{% include image.html name="-09" caption="" %}
 
 #### Expedition Program Goals
 
@@ -167,9 +177,13 @@ _Now, as never before, we have the chance to save what’s left of the living sy
 **_Know more:_**
 
 [About Mission Blue](https://mission-blue.org/about/)
+
 [Mission Blue - Hope Spots](https://mission-blue.org/hope-spots/)
+
 [Mission Blue Instagram](https://instagram.com/mission_blue/)
+
 [Mission Blue Twitter](https://twitter.com/missionblue/)
-[Nusa Penida Marine Protected Area](https://storymaps.arcgis.com/stories/45f1af5ffaaa4eb29c6b72f0fb498ded)
+
+[Nusa Penida Marine Protected Area](https://storymaps.arcgis.com/stories/45f1af5ffaaa4eb29c6b72f0fb498ded)  
 
 [Timor-Leste Hope Spot](https://storymaps.arcgis.com/stories/5fc1a8d6ae864233919d5cd54ba75faa?utm_source=Mission+Blue+Newsletter&utm_campaign=a0c0f5afa0-july2020&utm_medium=email&utm_term=0_da58e310c1-a0c0f5afa0-320797301&mc_cid=a0c0f5afa0&mc_eid=9f56f752f9)
