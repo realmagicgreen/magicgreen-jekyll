@@ -1,7 +1,7 @@
 ---
 name: Mosquito repellent plants
 subtitle: Mosquito repellent plants that you can easily grow in your balcony or garden area. It’s about your health.
-description: Mosquitoes aren’t just annoying but they spread serious diseases like malaria, dengue, yellow fever, encephalitis as well as the West Nile and Zika viruses. Mosquitoes are also responsible for heart worm in your pets specially dogs.
+description: "Mosquitoes aren’t just annoying but they spread serious diseases like malaria, dengue, yellow fever, encephalitis as well as the West Nile and Zika viruses. Mosquitoes are also responsible for heart worm in your pets specially dogs."
 category: solutions
 tags: environmental-friendly eco-friendly mosquitoes
 image: /assets/p/posts/solutions/mosquito-repellent-plants/mosquito-repellent-plants.jpg

@@ -1,8 +1,8 @@
 ## Warning:
 
-Despite this repo being public, it doesn't mean that all these assets are open-source and/or copyright free, or even that you may use any of them. Please, ask for permission first by contacting us: info@junglestar.org  
+Despite this repo being public, it doesn't mean that all these assets are open-source and/or copyright free, or even that you may use any of them. Please, ask for permission first by contacting us: info@junglestar.org
 
-All photos are © by the photographers, all rights are reserved.  
+All photos are © by the photographers, all rights are reserved.
 
 Thanks, the [Junglestar](https://junglestar.org) team.
 
@@ -18,6 +18,7 @@ Thanks, the [Junglestar](https://junglestar.org) team.
 - [X] sticky posts [option](https://github.com/ibrado/jekyll-stickyposts)
 - [X] jekyll-paginate-v2
 - [X] setup [gsheet > jekyll yaml data as](https://sprintworks.se/blog/data-from-google-drive-in-static-websites/)
+
 
 ## URGENT 2DOs:
 - [ ] Add Patreon
@@ -73,11 +74,11 @@ Thanks, the [Junglestar](https://junglestar.org) team.
 
 ## Dev Time
 
-Store photos, at least 2000x1333px, .tif or .jpg, in ```/src/_p-hi```  
-Copy those to process into:   
+Store photos, at least 2000x1333px, .tif or .jpg, in ```/src/_p-hi```
+Copy those to process into:
 
-- ```/src/p_input``` if not yet lowercase, or  
-- ```/src/p_lowercase``` if already all lowercase, or  
+- ```/src/p_input``` if not yet lowercase, or
+- ```/src/p_lowercase``` if already all lowercase, or
 - ```/src/p_jpeg``` if already .jpg
 
 Then use:
@@ -97,11 +98,11 @@ Run Jekyll:
 
 ```bundle exec Jekyll serve ```
 
-or to see draft posts:  
+or to see draft posts:
 
 ```bundle exec Jekyll serve --draft```
 
-or to see error traces:  
+or to see error traces:
 
 ```bundle exec Jekyll serve --trace```
 
