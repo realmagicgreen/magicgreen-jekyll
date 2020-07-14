@@ -1,11 +1,11 @@
 ---
 name: Immune boost drinks
 subtitle: An interview with healthy drink producer Iris from Live Essences.
-description:
+description: "We met with Iris an expert in the field who is wishing to share some knowledge and shed some light about how to live healthier listening to your guts."
 category: health
 tags: health Bali botany horticulture wellness plants superfood eco-entrepreneur
 image: /assets/p/posts/health/immune-boost-drinks/immune-boost-drinks.jpg
-show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
+show_in_home_slideshow: # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: health boosters # lowercase, max 12 digits, including spaces
 flag: # new or other...
 ad: true # use 'true' to have post displaying AD

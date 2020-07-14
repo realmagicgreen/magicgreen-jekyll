@@ -1,6 +1,6 @@
 {
   "name": "magicgreen",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "magic green website image processor",
   "main": "gulpfile.js",
   "scripts": {
@@ -33,7 +33,8 @@
     "google-spreadsheet": "^2.0.5",
     "gulp": "^4.0.0",
     "gulp-rename": "^1.4.0",
-    "gulp-responsive": "^2.11.0"
+    "gulp-responsive": "^2.11.0",
+    "node": "^13.14.0"
   },
   "dependencies": {
     "npm": "^6.2.0",
