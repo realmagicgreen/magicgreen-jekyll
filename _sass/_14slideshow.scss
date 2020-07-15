@@ -26,13 +26,13 @@
   left: 0;
   height: 100%;
   min-height: calc(100vh - 90px);
-  @include media( "screen", ">minWidth") {
+  @include media("screen", ">minWidth") {
     min-height: calc(100vh - 140px);
   }
-  @include media( "screen", ">bp1Width") {
+  @include media("screen", ">bp1Width") {
     min-height: calc(100vh - 90px);
   }
-  @include media( "screen", ">maxWidth") {
+  @include media("screen", ">maxWidth") {
     min-height: calc(100vh - 90px);
   }
   width: 100%;
@@ -41,13 +41,13 @@
   div[data-src] {
     width: 100%;
     min-height: calc(100vh - 90px);
-    @include media( "screen", ">minWidth") {
+    @include media("screen", ">minWidth") {
       min-height: calc(100vh - 140px);
     }
-    @include media( "screen", ">bp1Width") {
+    @include media("screen", ">bp1Width") {
       min-height: calc(100vh - 90px);
     }
-    @include media( "screen", ">maxWidth") {
+    @include media("screen", ">maxWidth") {
       min-height: calc(100vh - 90px);
     }
     background-position: bottom center;
@@ -70,13 +70,13 @@
   div[data-src] {
     width: 100%;
     min-height: calc(100vh - 120px);
-    @include media( "screen", ">minWidth") {
+    @include media("screen", ">minWidth") {
       min-height: calc(100vh - 120px);
     }
-    @include media( "screen", ">bp1Width") {
+    @include media("screen", ">bp1Width") {
       min-height: calc(100vh - 90px);
     }
-    @include media( "screen", ">maxWidth") {
+    @include media("screen", ">maxWidth") {
       min-height: calc(100vh - 90px);
     }
   }
@@ -89,8 +89,8 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   position: absolute;
   bottom: 0;
   padding: 0;
@@ -389,11 +389,11 @@
 
 .caption {
   -webkit-user-select: none;
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none;
-  font-size: 15vw;
-  line-height: 14vw;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-size: 13vw;
+  line-height: 12vw;
   padding: 0 2rem;
   font-weight: $semibold_font_weight;
   position: absolute;
@@ -403,8 +403,8 @@
   bottom: 40%;
   text-shadow: 3px 3px 3px transparentize($black, .25);
   // transform: rotate(-55deg);
-  @include media( "screen", ">bp1Width") {
-    font-size: 14vw;
-    bottom: 5%;
+  @include media("screen", ">bp1Width") {
+    font-size: 12vw;
+    bottom: 20%;
   }
 }
