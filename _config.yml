@@ -1,49 +1,49 @@
-title: Magic Green # capitalized for seo reasons!
-subtitle: Sustainable and environment-friendly examples from Bali and beyond.
-content_is_about: Going Green # general content of website, used in footer menu title
-description: > # this means to ignore newlines until "baseurl:"
-  Magic Green magazine is a showcase of examples, infos and addresses of all stuff green related in Bali and beyond.
-keywords: magazine, natural, nature-friendly, magic-green, sustainable business practises, environment-friendly, renewable-energy, low-impact, Bali, Indonesia, south east Asia, environment-conscious, wise, minimal impact, healthy, water purification techniques, communication platform, green news,
-lang: en
-version: 0.13.2
-words_per_minute: 160 #not working / not used | 2b fixed
+title:                   Magic Green # capitalized for seo reasons!
+subtitle:                Sustainable and environment-friendly examples from South East Asia and beyond.
+content_is_about:        Going Green # general content of website, used in footer menu title
+description:             > # this means to ignore newlines until "baseurl:"
+  Magic Green magazine is a showcase of examples, infos and addresses of all stuff green from South East Asia and beyond.
+keywords:                magazine, natural, nature-friendly, magic-green, sustainable business practises, environment-friendly, renewable-energy, low-impact, Bali, Indonesia, south east Asia, environment-conscious, wise, minimal impact, healthy, water purification techniques, communication platform, green news,
+lang:                    en
+version:                 0.13.3
+words_per_minute:        160 #not working / not used | 2b fixed
 
 # site architecture
-baseurl: ""
-url: "https://magicgreen.junglestar.org"
+baseurl:                 ""
+url:                     "https://magicgreen.junglestar.org"
 qr: show # 'show' or 'hide' put qr.svg in includes/defs.html call it: icn--qr
-menu: long_menu # 'short_menu' or 'long_menu'
-show_logo: show # 'show' or 'hide'
-has_about_page: true # true or empty
-has_term_page:  # true or empty
+menu:                    long_menu # 'short_menu' or 'long_menu'
+show_logo:               show # 'show' or 'hide'
+has_about_page:          true # true or empty
+has_term_page:           # true or empty
 
 # client data
 company:
-  name: Magic Green
-  legal_name: PT Gama Bali Dwipa #if need to overrides 'company.name' in footer fill up this one
-  email: magicgreen@junglestar.org
+  name:                  Magic Green
+  legal_name:            PT Gama Bali Dwipa #if need to overrides 'company.name' in footer fill up this one
+  email:                 magicgreen@junglestar.org
   telephone:
   fax:
-  address: #
-  maplink: #
-  country: #
-  twitter: #complete URL
-  facebook_page: "https://web.facebook.com/magicgreen.junglestar.org" #complete URL
-  youtube: #complete URL
-  instagram: "https://www.instagram.com/realmagicgreen" #complete URL
-  linkedin: #complete URL
-  tripadvisor: #complete URL
-  booking: #complete URL
-  airbnb: #complete URL
-  gplus: #complete URL
-  tumblr: #complete URL
-  soundcloud: #complete URL
+  address:               #
+  maplink:               #
+  country:               #
+  twitter:               #complete URL
+  facebook_page:         "https://web.facebook.com/magicgreen.junglestar.org" #complete URL
+  youtube:               #complete URL
+  instagram:             "https://www.instagram.com/realmagicgreen" #complete URL
+  linkedin:              #complete URL
+  tripadvisor:           #complete URL
+  booking:               #complete URL
+  airbnb:                #complete URL
+  gplus:                 #complete URL
+  tumblr:                #complete URL
+  soundcloud:            #complete URL
 
 # Setup
 sass:
-  sass_dir: _sass
-  style: :compressed
-  # style: :expanded
+  sass_dir:              _sass
+  style:                 :compressed
+  # style:               :expanded
 
 # SEO https://jekyll.github.io/jekyll-seo-tag/usage/
 #
@@ -55,22 +55,22 @@ sass:
 # author - Page-specific author (see below)
 # lang - Page-specific language
 
-author: rokma
+author:                  rokma
 twitter:
-  username: rokmatwit
+  username:              rokmatwit
 facebook:
-  app_id: #Facebook app ID for Facebook insights
-  publisher: #Facebook page URL or ID of the publishing entity
-  admins: #Facebook user ID for domain insights linked to a personal account
-logo: /assets/favicons/apple-touch-icon-152x152.png
+  app_id:                #Facebook app ID for Facebook insights
+  publisher:             #Facebook page URL or ID of the publishing entity
+  admins:                #Facebook user ID for domain insights linked to a personal account
+logo:                    /assets/favicons/apple-touch-icon-152x152.png
 webmaster_verifications:
-  google: google32e66f1a5601ec40
+  google:                google32e66f1a5601ec40
 
 google:
-  analytics: UA-119013410-1
+  analytics:             UA-119013410-1
 
 # Build settings
-markdown: kramdown
+markdown:                kramdown
 plugins:
  - jekyll/tagging
  - jekyll-feed
@@ -94,23 +94,23 @@ exclude:
   - magicgreen-ab82b0150ffc.json
   - getdata.js
 
-permalink: /:title/ # pretty
+permalink:               /:title/ # pretty
 
 collections:
   pages:
-    output: true
-    permalink: /:title/
+    output:              true
+    permalink:           /:title/
 
 defaults:
   - scope:
-      type: posts
+      type:              posts
     values:
-      layout: post # change this to get the layout needed
-      permalink: /:categories/:title/
+      layout:            post # change this to get the layout needed
+      permalink:         /:categories/:title/
 
-tag_page_layout: post_index_tag
-tag_page_dir: ./
-tag_permalink_style: pretty
+tag_page_layout:         post_index_tag
+tag_page_dir:            ./
+tag_permalink_style:     pretty
 
 
 stickyposts:
@@ -121,24 +121,24 @@ stickyposts:
   reverse_sticky: false    # Reverse the order, e.g. oldest first; default: false
 
 
-# Plugin: Pagination (jekyll-paginate-v2)
+# Plugin:                Pagination (jekyll-paginate-v2)
 pagination:
-  enabled: true
-  debug: false
-  per_page: 12
-  permalink: '/page/:num/' # Pages are html files, linked jekyll extensionless permalink style.
-  title: ':title - page :num of :max'
-  limit: 0
-  sort_field: 'stickiness'
-  sort_reverse: false
+  enabled:               true
+  debug:                 false
+  per_page:              12
+  permalink:             '/page/:num/' # Pages are html files, linked jekyll extensionless permalink style.
+  title:                 ':title - page :num of :max'
+  limit:                 0
+  sort_field:            'stickiness'
+  sort_reverse:          false
 
 
-# Plugin: Jekyll Algolia
+# Plugin:                Jekyll Algolia
 # algolia:
-#   application_id: KT124ONH1Z
-#   index_name: mademistakes
+#   application_id:      KT124ONH1Z
+#   index_name:          mademistakes
 #   search_only_api_key: 5a6e106e8083321a8ccca41b11aca95c
-#   nodes_to_index: "p"
+#   nodes_to_index:      "p"
 #   files_to_exclude:
 #     - index.html
 #     - index.md
@@ -147,48 +147,48 @@ pagination:
 
 # post types
 offer:
-  category_01: services
-  category_02: products
-  category_03: techniques
-  category_04: solutions
-  category_05: know
-  category_06: health
-  category_07: resources
+  category_01:           services
+  category_02:           products
+  category_03:           techniques
+  category_04:           solutions
+  category_05:           know
+  category_06:           health
+  category_07:           resources
 
 # how to organize potential subjects:
 #
 # - SERVICES you can buy - reviews
-# Subtitle: Services to lower your environmental impact.
-# Example: garbage recycle, e-bikes rental
+# Subtitle:              Services to lower your environmental impact.
+# Example:               garbage recycle, e-bikes rental
 #
 # - PRODUCTS you can buy - reviews
-# Subtitle: Sometimes it's easy to stop buying polluting products and start supporting more sustainable ones.
-# Example: electric bikes, bamboo straws, paper bags, water purifiers, bamboo frame pushbikes, solar panels, solar water-heaters
+# Subtitle:              Sometimes it's easy to stop buying polluting products and start supporting more sustainable ones.
+# Example:               electric bikes, bamboo straws, paper bags, water purifiers, bamboo frame pushbikes, solar panels, solar water-heaters
 #
 # - TECHNIQUES major tech explained
-# Subtitle: The way to sustainable living explained in details.
-# Example: purification, bamboo architecture, energy efficiency, buy wrap-less products, water-purification
+# Subtitle:              The way to sustainable living explained in details.
+# Example:               purification, bamboo architecture, energy efficiency, buy wrap-less products, water-purification
 #
 # - SOLUTIONS existing projects - reviews
-# Subtitle: Small or big, here are some solutions to environmental problems.
-# Example: green roofs, green walls, bamboo buildings, spots reviews, bio-degrabales
+# Subtitle:              Small or big, here are some solutions to environmental problems.
+# Example:               green roofs, green walls, bamboo buildings, spots reviews, bio-degrabales
 #
 # - KNOW memes, stats, science, actionable advices, everyday activities, tech
-# Subtitle: Did you know that... Hum, actually I didn't yet. Thanks for letting me know!
-# Example: recycling, paper towels, plastic bags
+# Subtitle:              Did you know that... Hum, actually I didn't yet. Thanks for letting me know!
+# Example:               recycling, paper towels, plastic bags
 #
 # - HEALTH food, plants medicines, healthy living, yoga, superfoods...
-# Subtitle: How to improve your life. Food, plants medicines, healthy living, superfoods.
-# Example: Aloe Vera, Yoga, Flaxseeds, Food grade plastic & toxicity
+# Subtitle:              How to improve your life. Food, plants medicines, healthy living, superfoods.
+# Example:               Aloe Vera, Yoga, Flaxseeds, Food grade plastic & toxicity
 #
 # - RESOURCES a searchable contact DB you can query or add your company to
-# Subtitle: To solve big problems we need resources. Here is who can help and who is worth supporting.
-# Example: consulting companies, green biz, green product producers, NGOs, everything green in S.E.Asia
-# DB fields: company name, website, phone, email, location, products, expertise area
+# Subtitle:              To solve big problems we need resources. Here is who can help and who is worth supporting.
+# Example:               consulting companies, green biz, green product producers, NGOs, everything green in S.E.Asia
+# DB fields:             company name, website, phone, email, location, products, expertise area
 
 
 
 ## NOTES:
-## 'category': must match the dir name in both assets and pages. Used in urls too.
-## title: it's used in headings only to get the plural
+## 'category':           must match the dir name in both assets and pages. Used in urls too.
+## title:                it's used in headings only to get the plural
 ## photos must be named same as 'page.title' and when more than 1 '{{page.title}}-02' and so on.

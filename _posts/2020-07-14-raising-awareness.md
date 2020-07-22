@@ -45,7 +45,7 @@ In 2020, the Mission Blue alliance includes more than 200 respected ocean conser
 
 Mission Blue supports the work of conservation NGOs that share the mission of building public support for ocean protection. With the concerted effort and passion of people and organizations around the world, Hope Spots can become a reality and form a global network of marine protected areas large enough to restore the ocean, the blue heart of the planet.
 
-## Hope spots
+## HOPE SPOTS
 
 While about 12 percent of the land around the world is now under some form of protection (as national parks etc.), less than six percent of the ocean is protected in any way.
 
@@ -123,7 +123,7 @@ Led by Dr. Sylvia Earle and Expeditions Director Kip Evans, these voyages explor
 
 {% include image.html name="-09" caption="" %}
 
-#### Expedition Program Goals
+#### EXPEDITION PROGRAM GOALS
 
 - Explore and document Hope Spots from the Arctic to the Antarctic.
 
@@ -140,15 +140,15 @@ We’re passionate about shark conservation. [Click HERE to dive into our shark 
 
 
 
-### MAKE A DIFFERENCE RIGHT NOW!
+# MAKE A DIFFERENCE RIGHT NOW!
 
 
-#### Lower your carbon footprint
+### Lower your carbon footprint
 
 Our greenhouse gas emissions are causing climate change and ocean acidification. By driving less and carpooling, flying less, using less electricity, choosing renewable energy (solar power, hybrid vehicles, etc) whenever possible and voting for policymakers who believe in solving climate change, we can all make a big difference for the ocean and all of life on Earth.
 
 
-#### Choose not to eat marine wildlife.
+### Choose not to eat marine wildlife.
 
 Overfishing is another huge issue impacting the ocean. By choosing not to eat seafood, or as Dr. Earle calls it, marine wildlife, we can help by showing fisheries that there’s less demand for their fish supply and we want them to leave the fish, mollusks and other edible marine life in the sea where it belongs. Of course, many people around the world depend on protein from the ocean to survive, and artisanal fisheries are crucial for many coastal populations. But in America and other developed countries, we have more of a choice.
 
@@ -184,6 +184,6 @@ _Now, as never before, we have the chance to save what’s left of the living sy
 
 [Mission Blue Twitter](https://twitter.com/missionblue/)
 
-[Nusa Penida Marine Protected Area](https://storymaps.arcgis.com/stories/45f1af5ffaaa4eb29c6b72f0fb498ded)  
+[Nusa Penida Marine Protected Area](https://storymaps.arcgis.com/stories/45f1af5ffaaa4eb29c6b72f0fb498ded)
 
 [Timor-Leste Hope Spot](https://storymaps.arcgis.com/stories/5fc1a8d6ae864233919d5cd54ba75faa?utm_source=Mission+Blue+Newsletter&utm_campaign=a0c0f5afa0-july2020&utm_medium=email&utm_term=0_da58e310c1-a0c0f5afa0-320797301&mc_cid=a0c0f5afa0&mc_eid=9f56f752f9)
