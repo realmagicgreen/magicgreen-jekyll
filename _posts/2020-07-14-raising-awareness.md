@@ -3,7 +3,7 @@ name: Raising awareness
 subtitle: Mission blue ignite public support for a global network of marine protected areas.
 description: "Mission Blue inspires action to explore and protect the ocean, ignite public support for a global network of marine protected areas"
 category: solutions
-tags: biodiversity eco-entrepreneurs eco-friendly health initiative social-responsibility sustainable-development save-oceans water
+tags: biodiversity Costa-Rica eco-entrepreneurs eco-friendly health initiative Nusa-Penida Micronesia Mexico social-responsibility sustainable-development save-oceans water
 image: /assets/p/posts/solutions/raising-awareness/raising-awareness.jpg
 show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: raising awareness # lowercase, max 12 digits, including spaces
