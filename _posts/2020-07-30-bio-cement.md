@@ -7,7 +7,7 @@ tags: biodiversity bio-cement design co-entrepreneurs eco-friendly social-respon
 image: /assets/p/posts/solutions/bio-cement/bio-cement.jpg
 show_in_home_slideshow: true # use 'true' to have it displayed in home slideshow
 home_slideshow_caption: bio cement # lowercase, max 12 digits, including spaces
-flag: new # new or other...
+flag: # new or other...
 ad: # use 'true' to have post displaying AD
 featured: true # use 'true' to have it displayed in home
 sticky: true # 'true' or empty
