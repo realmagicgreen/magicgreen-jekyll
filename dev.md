@@ -71,6 +71,11 @@ Thanks, the [Junglestar](https://junglestar.org) team.
 
 ```npm install``` node dependencies setup
 
+## Dev Troublshooting
+
+```npm update``` update npm packages
+```npm outdated``` list npm packages
+
 
 ## Dev Time
 
