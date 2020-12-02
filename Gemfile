@@ -13,4 +13,5 @@ group :jekyll_plugins do
    gem 'jekyll-stickyposts'
    gem 'jekyll-typogrify'
    gem 'html-proofer'
+   gem 'kramdown-parser-gfm'
 end

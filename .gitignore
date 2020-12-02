@@ -5,3 +5,5 @@ node_modules
 .workinprogress
 magicgreen-ab82b0150ffc.json
 .DS_Store
+.jekyll-cache
+__lab/

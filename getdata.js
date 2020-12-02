@@ -54,6 +54,9 @@ async.series([function setAuth(step) {
           "website: " +
           row.website +
           "\n\x20\x20" +
+          "ig: " +
+          row.instagram +
+          "\n\x20\x20" +
           "email: " +
           row.email +
           "\n\x20\x20" +

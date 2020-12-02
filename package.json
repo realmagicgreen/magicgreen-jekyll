@@ -1,6 +1,6 @@
 {
   "name": "magicgreen",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "description": "magic green website image processor",
   "main": "gulpfile.js",
   "scripts": {
@@ -30,7 +30,7 @@
     "babel-preset-stage-0": "^6.24.1",
     "change-case": "^3.1.0",
     "chokidar": "^3.4.1",
-    "google-spreadsheet": "^2.0.9",
+    "google-spreadsheet": "^3.0.13",
     "gulp": "^4.0.2",
     "gulp-rename": "^1.4.0",
     "gulp-responsive": "^2.14.0",

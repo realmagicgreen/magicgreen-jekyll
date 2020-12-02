@@ -93,6 +93,7 @@ exclude:
   - dev.md
   - magicgreen-ab82b0150ffc.json
   - getdata.js
+  - .jekyll-cache
 
 permalink:               /:title/ # pretty
 
